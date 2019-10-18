@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Warp Life 1.0 Manual</title>
+
+<meta name="description" content="Please help us create an Insanely Great
+App." />
+
+<!-- 6789 123456789 123456789 123456789 123456789 123456789 123456789 12345 -->
+
+<!-- "/ssincludes/mobile-manual-css.html" -->
+</head>
+<body>
+<div class="outside">
+<!-- "/ssincludes/navigation.html" -->
+<!-- "/ssincludes/header.html" -->
+
+<h1 id="top">Warp Life 1.0 User Guide</h1>
+
+<p class="md">Our personal take on the Cellular Automaton<br />
+known as John Conway's Game of Life.</p>
+
+<ul>
+<li class="c"><a href="contents.html">Contents</a></li>
+</ul>
+
+<p>Warp Life is a simple graphical game that implements Conway's Game of
+Life.  It was invented by Computer Scientist John Conway in the early 1970s.
+</p>
+
+<p>Conway's Life is a Cellular Automaton.  Cellular Automata operate on
+<i>N</i>-Dimensional grids that store the automaton's state.  A set of rules
+controls the state of each grid cell as the automaton propagates from
+generation to generation.</p>
+
+<p>Conway's Life uses a 2-Dimensional grid.  Its rules give rise to interesting
+patterns, many of which move or oscillate or exhibit unusual behavior.</p>
+
+<p>Some Cellular Automata solve useful computational problems.  If you can
+solve a problem with a Cellular Automaton, it is easy to model in software so
+you can get the design right, then easy and inexpensive to implement directly
+in hardware so you can build a parallel processing supercomputer!</p>
+
+<h2 id="rules">The Rules of Conway's Game of Life</h2>
+
+<p>The grid is a 2-Dimensional array of cells.  Each cell is either Alive or
+Dead.  Living cells are black while the blue cells are Dead.</p>
+
+<p>The fate of each cell in the next generation depends on its current state
+as well as how many living neighbors it has.  Neighbors are counted both 
+orthogonally and diagonally for a maximum of eight living neighbors.</p>
+
+<p>If a cell has zero or one neighbor, it dies of loneliness.</p>
+
+<p>If a cell has four or more neighbors, it dies of overpopulation.</p>
+
+<p>If a cell has two neighbors, it stays the same.  If it was Dead, it stays
+Dead.  If it was Alive, it survives.</p>
+
+<p>If it has three neighbors, it will be Alive in the next generation.  If it
+was Dead, a new cell will be born.</p>
+
+<h2 id="example">A Simple Example</h2>
+
+<p>There are many well-known patterns in Conway's Life.  We refer to them as
+"Animals".  One such Animal is known as the Blinker or Traffic Light.  It
+consists of a row of three living cells:</p>
+
+<div class="illus">
+<img class="illus" src="./i/Vertical_Blinker.png"
+ alt="Vertical Blinker" />
+<p class="cap">Vertical Blinker</p></div>
+
+<p>Let's count up the non-zero neighbors:</p>
+
+<div class="illus">
+<img class="illus" src="./i/Blinker_Neighbor_Count.png"
+ alt="Blinker Neighbor Count" /><p class="cap">Blinker Neighbor Count</p></div>
+ 
+<p>You can see that the cells at top and bottom will die while the cell in the 
+middle survives.  New cells are born to either side of the middle one, yielding
+a horizontal row of three cells:</p>
+
+<div class="illus">
+<img class="illus" src="i/Horizontal_Blinker.png"
+ alt="Horizontal Blinker" />
+<p class="cap">Horizontal Blinker</p></div>
+
+<p>Conway's Life'sules are symmetric with respect to ninety degree rotations as
+well as horizontal and vertical reflections, yielding eight-way symmetry.
+Thus the next generation after this one will restore the vertical stack of
+three cells.  Therefore the Blinker is an
+oscillating pattern with a period of two.</p>
+
+<h2 id="animals">Animals</h2>
+
+<p>There are many oscillators with periods of just one.  These are known as
+"Still Lifes" because they are eternally unchanging.</p>
+
+<div class="illus">
+<img class="illus" src="i/Beehive.png" alt="Still Life" />
+<p class="cap">A Still Life</p></div>
+
+<p>When you first play the game, see if you can come up with an oscillating
+Animal that moves to a new position in the grid at the end of a cycle.  Such
+moving animals are known as "Space Ships". The Glider is the simplest such
+Space Ship.  There are even Animals called Glider Guns that repeatidly eject
+new Gliders!</p>
+
+<ul>
+<li class="c"><a href="contents.html">Contents</a></li>
+</ul>
+
+<!-- "/ssincludes/footer.html" -->
+</div>
+</body>
+</html>

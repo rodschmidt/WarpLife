@@ -1,0 +1,524 @@
+/* Primary Style Sheet for Dulcinea Technologies Corporation's website
+ *
+ * http://www.dulcineatech.com/quixotic.css
+ *
+ * "If you can't be good, be careful."
+ *   -- Charles Russell Crawford, Lt. United States Navy, 1939-2003
+ *      http://www.geometricvisions.com/charles-russell-crawford/
+ *
+ * Please do feel free to Put the Arm on anything in this document, but:
+ *
+ *    ¡DO NOT LINK IT DIRECTLY FROM ANY OF YOUR OWN PAGES!
+ *
+ * While there will always be a Cascading Style Sheet at this particular URI, 
+ * I am *by no means* obligated for the actual styles declared herein to remain 
+ * Eternally Unchanging.
+ *
+ * What that means to *you* is that were my Log File Analysis with Analog:
+ *
+ * http://www.dulcineatech.com/tips/webmaster/log-file-analysis/
+ *
+ * ... to ever yield the insight that you were Hot-Linking this document,
+ * Without a Doubt you will get the bad news only too late that every last page
+ * on your *entire* website had been transformed Damn near *intantaneously*
+ * into Goatse.
+ *
+ *      You.
+ *      Have.
+ *      Been.
+ *      Warned.
+ *
+ * Validate this document by copying the following link to your browser's
+ * Address Bar then visiting the resulting page:
+ *
+ * http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.dulcineatech.com%2Fquixotic.css
+ *
+ * Stricly speaking, that is known as an "HTTP GET Method Form Submission", as
+ * opposed to the "Post Method" which enables larger or more complex forms, as
+ * well as file upload by providing the content of the form in the body of the
+ * HTTP Post Request
+ *
+ * HTTP GET Requests used for form submission encode the content of the form
+ * in the URI provided in the HTTP Header.  GET Method Forms are far more 
+ * compact, may be bookmarked, linked directly from HTML Markup as well as
+ * Javascript and even sent via eMail or posted to mailing lists or Usenet, but
+ * they are *only* suitable for very small, simple forms.
+ *
+ * There is no partcular limit to the size or complexity of POST Method Forms.
+ *
+ * Michael David Crawford, Process Architect
+ * Dulcinea Technologies Corporation
+ * Software of Elegance and Beauty
+ * http://www.dulcineatech.com/mdc/
+ * mike@dulcineatech.com
+ *
+ * +1 (503) 928-7501
+ */
+ 
+body	{ background-color: #3e577f;
+			color: #000;
+			font-family: Arial, Helvetica, sans-serif; }
+			
+h1		{ text-align: center;
+			margin-left: auto;
+			margin-right: auto; 
+			margin-top: default; 
+			margin-bottom: default; }
+
+p.sn	{ float: left;
+			margin-top: 0; 
+			margin-bottom: auto;
+			margin-left: 0;
+			margin-right: auto;
+			border: solid 3px #000000; 
+			padding: 10px; 
+			color: #000000; 
+			background-color: #ffffff; 
+			font-size: 150%; }
+
+p.sn a:link { background-color: #ffff00;
+				color: #0000ff; }
+
+p.sn a:visited { background-color: #ffff00;
+				color: #0000ff; }
+
+p.sn a:active { background-color: #ffff00;
+				color: #0000ff; }
+
+p.sn a:hover { background-color: #ffff00;
+				color: #000000; }
+
+p.md	{ margin: auto;
+			text-align: center;
+			font-style: italic; }
+
+p#tagline	{ margin: auto;
+				text-align: center;
+				font-style: italic; }
+
+h2		{ margin-left: auto;
+			margin-right: auto;
+			text-align: center; }		
+
+h3		{ margin-left: auto;
+			margin-right: auto;
+			text-align: center; }		
+
+h4		{ margin-left: auto;
+			margin-right: auto;
+			text-align: center; }		
+			
+p		{ font-size: 14px;
+			padding-right: 5px;
+			padding-left: 5px; }
+
+li		{ font-size: 14px; }
+
+div.outside { color: #225;
+				background-color: #ddf;
+				border: solid 10px #162963;
+				padding: 25px;
+				margin: 20px;}
+
+div.outside a:link {background-color: transparent; color: #0f1f51; }
+
+div.outside a:visited {background-color: transparent; color: #243c88; }
+
+div.outside a:active {background-color: transparent; color: #2e55cb; }
+
+div.outside a:hover {background-color: transparent; color: #2e55cb;}
+
+div#motd	{ width: 400px;
+				margin-left: 200px;
+				margin-right: auto;
+				margin-top: 0;
+				margin-bottom: 10px;
+				border: solid 3px;
+				padding: 6px;
+				color: #000000;
+				background-color: #ffff00; }
+
+div.contents-l	{ float: left;
+					border: solid 1px #162963;
+					color: #222255;
+					background-color: #eeeeff;
+					padding: 10px;
+					margin-right: 10px;
+					margin-left: 0;
+					margin-top: 10px;
+					margin-bottom: 10px; }
+
+ul.contents	{ list-style: none;
+				padding-left: 5px;
+				padding-top: 5px; }
+
+div.top-nav { display: none; }
+
+div.bar-r { float: right;
+			width: 220px;
+			margin-left: 10px;
+			margin-bottom: 10px;
+			padding-right: 5px;
+			padding-top: 10px;
+			border: none; }
+
+div.nav	{ width: 260px;
+			border: solid 1px #162963;
+			color: #222255;
+			background-color: #eeeeff;
+			padding-right: 5px; }
+			
+ul.nav { list-style: none;
+			padding-left: 5px;
+			padding-top: 5px; }
+
+div.nav a:link {background-color: transparent; color: #0f1f51; }
+
+div.nav a:visited {background-color: transparent; color: #243c88; }
+
+div.nav a:active { background-color: transparent; color: #2e55cb; }
+
+div.nav a:hover { background-color: transparent; color: #2e55cb;}
+
+div.footnav { margin: auto;
+				text-align: center;
+				padding: 3px;
+				border: solid 1px #999999;
+				color: #555;
+				background-color: #eef; }
+				
+div.footnav a:link {background-color: transparent; color: #0f1f51; }
+
+div.footnav a:visited {background-color: transparent; color: #243c88; }
+
+div.footnav a:active { background-color: transparent; color: #2e55cb; }
+
+div.footnav a:hover { background-color: transparent; color: #2e55cb;}
+
+div.subnav	{ padding-top: 5px; }
+
+div.logo { margin: auto;
+			text-align: center; }
+
+img		{ border: none; }
+
+img.banner	{ border: none; 
+				margin: auto;
+				text-align: center; }
+
+img.frame { padding: 20px;
+			border: solid 1px #162963;
+			color: #225;
+			background-color: #eef; }
+			
+img.frame-c { text-align: center;
+				margin: auto;
+				padding: 20px;
+				border: solid 1px #162963;
+				color: #225;
+				background-color: #eef; }
+			
+div.frame { padding: 0px;
+			border: solid 1px #162963;
+			color: #225;
+			background-color: #eef; }
+			
+div.frame-c { margin: 10px auto;
+				display: table;
+				padding: 20px;
+				border: solid 1px #162963;
+				color: #225;
+				background-color: #eef;
+				text-align: center; }
+
+td.frame-c { margin: 10px auto;
+				padding: 20px;
+				border: solid 1px #162963;
+				color: #225;
+				background-color: #eef;
+				text-align: center; }
+
+table.frame-c { margin: auto;
+				text-align: center; }
+
+div.frame-l { float: left;
+				margin-top: 10px;
+				margin-bottom: 10px;
+				margin-left: 0;
+				margin-right: 10px;
+				display: inline-table;
+				padding: 20px;
+				border: solid 1px #162963;
+				color: #225;
+				background-color: #eef; }
+
+div.frame-r { float: right;
+  				margin: 10px auto;
+  				margin-left: 10px;
+  				display: inline-table;
+ 				padding: 20px;
+				border: solid 1px #162963;
+				color: #225;
+				background-color: #eef; }
+
+img.illus { border: solid 1px #162963;
+				color: #225;
+				background-color: #eef;
+			padding: 15px; }
+
+div.illus-r { float: right; }
+
+div.illus-l { float: left;
+				padding-right: 8px;}
+
+			
+div.illus	{ margin: auto;
+				text-align: center; }
+				
+p.cap		{ font-weight: bold; }
+
+li		{ padding-top: 1px;
+			padding-bottom: 1px; }
+
+div.sidebar-l	{ float: left;
+					width: 216px;
+					border: solid 1px #162963;
+					color: #225;
+					background-color: #eef;
+					padding-left: 5px;
+					padding-bottom: 20px;
+					margin-right: 20px; }
+
+ul.sidebar-l { list-style: none;
+			padding-left: 5px;
+			padding-top: 5px; }
+
+div.sidebar-l a:link {background-color: transparent; color: #0f1f51; }
+
+div.sidebar-l a:visited {background-color: transparent; color: #243c88; }
+
+div.sidebar-l a:active { background-color: transparent; color: #2e55cb; }
+
+div.sidebar-l a:hover { background-color: transparent; color: #2e55cb;}
+							
+div.display-r	{ float: right;
+					width: 145px;
+					background-color: #c0c0c0;
+					color: #000000;
+					padding-left: 10px;
+					padding-right: 7px;
+					padding-top: 7px;
+					padding-bottom: 7px;
+					border: solid 1px #ffffff;
+					text-align: center; }
+
+div.display-r a:link {background-color: transparent; color: #0f1f51; }
+
+div.display-r a:visited {background-color: transparent; color: #243c88; }
+
+div.display-r a:active { background-color: transparent; color: #2e55cb; }
+
+div.display-r a:hover { background-color: transparent; color: #2e55cb; }
+
+div.display-l	{ float: left;
+					width: 145px;
+					background-color: #c0c0c0;
+					color: #000000;
+					padding-left: 7px;
+					padding-right: 10px;
+					padding-top: 7px;
+					padding-bottom: 7px;
+					border: solid 1px #ffffff;
+					margin-right: 5px; }
+
+div.display-l a:link {background-color: transparent; color: #0f1f51; }
+
+div.display-l a:visited {background-color: transparent; color: #243c88; }
+
+div.display-l a:active { background-color: transparent; color: #2e55cb; }
+
+div.display-l a:hover { background-color: transparent; color: #2e55cb; }
+
+p.display		{ font-family: sans-serif;
+					font-size: 13px; }
+
+div.side { background-color: #e7e7e7; 
+			color: black; 
+			float: right; 
+			width: 240px; 
+			margin-bottom: 30px;
+			text-align: right; 
+			font-style: italic;}
+
+div.l-side { background-color: #e7e7e7; 
+			color: black; 
+			float: left; 
+			width: 240px; 
+			margin-bottom: 30px;
+			text-align: left; 
+			font-style: italic;}
+
+div.pre_code	{	background-color: #F2EFEF; 
+					border: 1px solid #19035a; 
+					white-space: pre; 
+					margin: 10px; 
+					padding: 10px;
+					font-family: monospace; }
+
+pre.code	{	background-color: #F2EFEF; 
+					border: 1px solid #19035a; 
+					white-space: pre; 
+					margin: 10px; 
+					padding: 10px;
+					font-family: monospace; }
+
+div.sidebar-r	{ float: right;
+					width: 216px;
+					border: solid 1px #162963;
+					color: #225;
+					background-color: #eef;
+					padding-right: 5px; 
+					margin-bottom: 10px;
+					margin-left: 8px; }
+
+ul.sidebar-r { list-style: none;
+			padding-left: 5px;
+			padding-top: 5px; }
+
+div.sidebar-r a:link {background-color: transparent; color: #0f1f51; }
+
+div.sidebar-r a:visited {background-color: transparent; color: #243c88; }
+
+div.sidebar-r a:active { background-color: transparent; color: #2e55cb; }
+
+div.sidebar-r a:hover { background-color: transparent; color: #2e55cb;}
+
+div.ff-nav	{ margin: auto;
+				text-align: center; }
+				
+span.ff-f	{ padding-left: 20px;
+				margin-bottom: auto; }
+				
+div.sig	{ text-align: right; }
+
+a.new	{ background-color: #ffffff;
+			color: #000000;
+			padding-bottom: 1px;
+			padding-right: 2px;
+			padding-left: 2px;
+			border: solid 1px; }
+			
+p.footer	{ margin-left: auto;
+				margin-right: auto;
+				text-align: center; }
+				
+a.thumbnail-r	{ float: right;
+					padding-left: 10px; }
+					
+a.thumbnail-l	{ float: left;
+					padding-right: 10px; }
+					
+ul.small	{ font-size: 13px; }
+
+pre.tty	{ background-color: #c0c0c0;
+			color: #000000;
+			padding: 5px;
+			border: solid 1px #ffffff; } 
+			
+div.search-r { float: right;
+				border: solid 1px;
+				color: #000000;
+				background-color: #ffffff; }
+
+div.ac { margin: auto;
+			text-align: center; }
+			
+div.al { float: left;
+			margin-right: 5px; }
+			
+div.frame { border: solid 1px #ffffff; }
+
+div.adleft	{ float: left; 
+				border: solid 1px #999999;
+				color: #555555; 
+				background-color: #eeeeff; 
+				width: 200px; 
+				text-align: center; 
+				padding: 3px;
+				margin-top: 6px;
+				margin-bottom: 6px;
+				margin-right: 20px; }
+			
+div.adright	{ float: right; 
+				border: solid 1px #999999; 
+				color: #555555; 
+				background-color: #eeeeff; 
+				width: 200px; 
+				text-align: center; 
+				padding: 3px; }
+				
+div.adright a:link {background-color: transparent; color: #0f1f51; }
+
+div.adright a:visited {background-color: transparent; color: #243c88; }
+
+div.adright a:active { background-color: transparent; color: #2e55cb; }
+
+div.adright a:hover { background-color: transparent; color: #2e55cb; }
+
+img.book	{ margin-top: 10px;
+				margin-bottom: 10px;
+				margin-left: auto;
+				margin-right: auto;
+				text-align: center;
+				display: block;  }
+
+p.btitle	{ margin: auto;
+				text-align: center;
+				width: 180px;
+				font-style: italic;
+				font-size: 12px; }
+				
+p.author	{ margin: auto;
+				text-align: center;
+				font-weight: bold;
+				font-size: 12px; }
+				
+p.buy		{ margin-left: auto; 
+				margin-right: auto;
+				margin-bottom: 10px;
+				margin-top: 5px;
+				text-align: center;
+				font-weight: bold;
+				font-size: 12px; }
+
+blockquote.box { padding: 3px;
+				border: solid 1px #999999;
+				color: #555555;
+				background-color: #eeeeff; }
+
+					
+blockquote.code { padding: 3px;
+				border: solid 1px #162963;
+				color: #000;
+				background-color: #eef; }
+
+span.resume_titles { background-color: transparent; 
+					 color: #19035a; 
+					 font-weight: bold!important; 
+					 text-decoration: underline; 
+					 }
+					
+div#addy { font-weight: bold; 
+			margin: auto;
+			text-align: center;
+			font-size: 13pt; }
+			
+div.pre_code	{	background-color: #F2EFEF; 
+					border: 1px solid #19035a; 
+					white-space: pre; 
+					margin: 10px; 
+					padding: 10px;
+					font-family: monospace; }
+					
+div.tuck { text-align: center;}
+

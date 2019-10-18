@@ -1,0 +1,7 @@
+
+--This line, and those below, will be ignored--
+
+M    AccelerometerHelper.h
+M    ModalAlertDelegate.h
+AM   RepositionSubviews.h
+AM   RepositionSubviews.m

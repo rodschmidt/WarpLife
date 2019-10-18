@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Warp_Life_Prefix.pch \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/LifeIOSViewController.m \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/LifeIOSViewController.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/iPhoneDevelopersCookbook/RepositionSubviews.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/LifeGrid.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/GridCoord.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/LifeRow.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/CellRun.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/LifeSelection.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/LifeView.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/LifeDisplay.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/LifeIPhoneViewController.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/CreditViewController.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/CreditViewControllerIOS.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/iPhoneDevelopersCookbook/ModalAlert.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/LifeRLEFile.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/FileListViewController.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/FileListDelegate.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/FileDeleter.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/FileOpener.h \
+  /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/RLEFileArray.h

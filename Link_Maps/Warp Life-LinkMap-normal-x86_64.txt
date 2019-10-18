@@ -1,0 +1,2710 @@
+# Path: /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/Warp Life
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Warp Life.app.xcent
+[  2] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/main.o
+[  3] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/Warp_LifeAppDelegate.o
+[  4] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeIOSViewController.o
+[  5] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeIPhoneViewController.o
+[  6] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeView.o
+[  7] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/AccelerometerHelper.o
+[  8] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/AllSubviews.o
+[  9] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/ModalAlert.o
+[ 10] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/ModalAlertDelegate.o
+[ 11] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/RepositionSubviews.o
+[ 12] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeClipboard.o
+[ 13] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeRow.o
+[ 14] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeDisplay.o
+[ 15] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeGrid.o
+[ 16] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeRLEFile.o
+[ 17] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeSelection.o
+[ 18] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/NeighborLut.o
+[ 19] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/SetupViewController.o
+[ 20] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/SetupViewControllerIOS.o
+[ 21] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/FileListDelegate.o
+[ 22] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/FileListViewController.o
+[ 23] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/FileOpener.o
+[ 24] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/RLEFileArray.o
+[ 25] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/FileDeleter.o
+[ 26] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/SetupView.o
+[ 27] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/CreditViewController.o
+[ 28] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/CreditViewControllerIOS.o
+[ 29] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/WarpLifeAppDelegateIPad.o
+[ 30] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/LifeIPadViewController.o
+[ 31] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/SetupViewControllerIPad.o
+[ 32] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/CreditViewControllerIPad.o
+[ 33] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/ManualViewControllerIOS.o
+[ 34] /Applications/Xcode_8.3.3/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/System/Library/Frameworks//Foundation.framework/Foundation
+[ 35] /Applications/Xcode_8.3.3/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/System/Library/Frameworks//UIKit.framework/UIKit
+[ 36] /Applications/Xcode_8.3.3/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/System/Library/Frameworks//CoreGraphics.framework/CoreGraphics
+[ 37] /Applications/Xcode_8.3.3/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a(arclite.o)
+[ 38] /Applications/Xcode_8.3.3/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libobjc.dylib
+[ 39] /Applications/Xcode_8.3.3/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libSystem.dylib
+[ 40] /Applications/Xcode_8.3.3/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/System/Library/Frameworks//CoreFoundation.framework/CoreFoundation
+[ 41] /Users/mike/Source/Warp_Life/Warp_Life/trunk/Build/Intermediates/Warp Life.build/Release-iphonesimulator/Warp Life.build/Objects-normal/x86_64/Warp Life_lto.o
+# Sections:
+# Address	Size    	Segment	Section
+0x100001DC4	0x0000FB18	__TEXT	__text
+0x1000118DC	0x000001FE	__TEXT	__stubs
+0x100011ADC	0x00000362	__TEXT	__stub_helper
+0x100011E40	0x00000350	__TEXT	__const
+0x100012190	0x00000280	__TEXT	__objc_classname
+0x100012410	0x000028A5	__TEXT	__objc_methname
+0x100014CB5	0x0000103F	__TEXT	__objc_methtype
+0x100015CF4	0x00000E60	__TEXT	__cstring
+0x100016B54	0x0000017E	__TEXT	__entitlements
+0x100016CD4	0x0000032C	__TEXT	__unwind_info
+0x100017000	0x00000010	__DATA	__nl_symbol_ptr
+0x100017010	0x00000090	__DATA	__got
+0x1000170A0	0x000002A8	__DATA	__la_symbol_ptr
+0x100017350	0x000001A0	__DATA	__const
+0x1000174F0	0x00000700	__DATA	__cfstring
+0x100017BF0	0x000000D8	__DATA	__objc_classlist
+0x100017CC8	0x00000008	__DATA	__objc_nlclslist
+0x100017CD0	0x00000040	__DATA	__objc_protolist
+0x100017D10	0x00000008	__DATA	__objc_imageinfo
+0x100017D18	0x00005398	__DATA	__objc_const
+0x10001D0B0	0x00000B28	__DATA	__objc_selrefs
+0x10001DBD8	0x00000008	__DATA	__objc_protorefs
+0x10001DBE0	0x00000168	__DATA	__objc_classrefs
+0x10001DD48	0x000000A8	__DATA	__objc_superrefs
+0x10001DDF0	0x000003B0	__DATA	__objc_ivar
+0x10001E1A0	0x000008C0	__DATA	__objc_data
+0x10001EA60	0x00000340	__DATA	__data
+0x10001EDA0	0x00000188	__DATA	__bss
+# Symbols:
+# Address	Size    	File  Name
+0x100001DC4	0x00000251	[ 37] __ZL15__ARCLite__loadv
+0x100002015	0x00000028	[ 37] __ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+0x10000203D	0x00000404	[ 37] __ZL22add_image_hook_swiftV1PK11mach_headerl
+0x100002441	0x00000036	[ 37] __ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+0x100002477	0x00000033	[ 37] __ZL13replaceMethodP10objc_classP13objc_selectorPFP11objc_objectS4_S2_zEPS6_
+0x1000024AA	0x00000013	[ 37] __ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+0x1000024BD	0x00000013	[ 37] __ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+0x1000024D0	0x0000003D	[ 37] __ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+0x10000250D	0x00000052	[ 37] __ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+0x10000255F	0x00000052	[ 37] __ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+0x1000025B1	0x00000052	[ 37] __ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+0x100002603	0x00000054	[ 37] __ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+0x100002657	0x00000069	[ 37] __ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+0x1000026C0	0x00000129	[ 37] __ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+0x1000027E9	0x00000364	[ 37] __ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+0x100002B4D	0x0000009F	[ 37] __ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+0x100002BEC	0x00000054	[ 37] __ZL32__arclite_object_getIndexedIvarsP11objc_object
+0x100002C40	0x00000055	[ 37] __ZL23__arclite_objc_getClassPKc
+0x100002C95	0x00000055	[ 37] __ZL27__arclite_objc_getMetaClassPKc
+0x100002CEA	0x00000055	[ 37] __ZL31__arclite_objc_getRequiredClassPKc
+0x100002D3F	0x00000055	[ 37] __ZL26__arclite_objc_lookUpClassPKc
+0x100002D94	0x00000058	[ 37] __ZL26__arclite_objc_getProtocolPKc
+0x100002DEC	0x00000015	[ 37] __ZL23__arclite_class_getNameP10objc_class
+0x100002E01	0x00000018	[ 37] __ZL26__arclite_protocol_getNameP8Protocol
+0x100002E19	0x00000062	[ 37] __ZL37__arclite_objc_copyClassNamesForImagePKcPj
+0x100002E7B	0x00000084	[ 37] __ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+0x100002EFF	0x0000004B	[ 37] __ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+0x100002F4A	0x0000007C	[ 37] __ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+0x100002FC6	0x00000006	[ 37] __ZL14initialize_impP11objc_objectP13objc_selector
+0x100002FCC	0x00000093	[ 37] __ZL18allocateMaybeSwiftP18glue_swift_class_tm
+0x10000305F	0x00000135	[ 37] __ZL22copySwiftV1MangledNamePKcb
+0x100003194	0x000001B7	[ 37] __ZL13demangledNamePKcb
+0x10000334B	0x00000075	[ 37] __ZL16scanMangledFieldRPKcS0_S1_Ri
+0x1000033C0	0x00000006	[ 37] __ZL30arclite_uninitialized_functionv
+0x1000033C6	0x00000030	[ 37] __ZL12cxxConstructP11objc_object
+0x1000033F6	0x000000DA	[ 37] __ZL20fixStringForCoreDataP11objc_object
+0x1000034D0	0x0000006B	[  2] _main
+0x10000353B	0x0000005E	[ 41] -[Warp_LifeAppDelegate application:didFinishLaunchingWithOptions:]
+0x100003599	0x00000006	[ 41] -[Warp_LifeAppDelegate applicationWillResignActive:]
+0x10000359F	0x00000006	[ 41] -[Warp_LifeAppDelegate applicationDidEnterBackground:]
+0x1000035A5	0x00000006	[ 41] -[Warp_LifeAppDelegate applicationWillEnterForeground:]
+0x1000035AB	0x00000006	[ 41] -[Warp_LifeAppDelegate applicationDidBecomeActive:]
+0x1000035B1	0x00000006	[ 41] -[Warp_LifeAppDelegate applicationWillTerminate:]
+0x1000035B7	0x00000006	[ 41] -[Warp_LifeAppDelegate applicationDidReceiveMemoryWarning:]
+0x1000035BD	0x00000069	[ 41] -[Warp_LifeAppDelegate dealloc]
+0x100003626	0x00000011	[ 41] -[Warp_LifeAppDelegate window]
+0x100003637	0x00000011	[ 41] -[Warp_LifeAppDelegate setWindow:]
+0x100003648	0x00000011	[ 41] -[Warp_LifeAppDelegate navigationController]
+0x100003659	0x00000011	[ 41] -[Warp_LifeAppDelegate setNavigationController:]
+0x10000366A	0x000002B7	[ 41] -[LifeIOSViewController viewDidLoad]
+0x100003921	0x00000044	[ 41] -[LifeIOSViewController viewWillAppear:]
+0x100003965	0x00000012	[ 41] -[LifeIOSViewController didRotateFromInterfaceOrientation:]
+0x100003977	0x0000053E	[ 41] -[LifeIOSViewController layoutItems]
+0x100003EB5	0x0000005D	[ 41] -[LifeIOSViewController getLifeViewHeight]
+0x100003F12	0x00000063	[ 41] -[LifeIOSViewController stop]
+0x100003F75	0x0000009A	[ 41] -[LifeIOSViewController toggleRunning:]
+0x10000400F	0x000001A1	[ 41] -[LifeIOSViewController toggleEditMode]
+0x1000041B0	0x00000109	[ 41] -[LifeIOSViewController installControlView]
+0x1000042B9	0x00000116	[ 41] -[LifeIOSViewController installEditView]
+0x1000043CF	0x000000DE	[ 41] -[LifeIOSViewController enableEditButtons]
+0x1000044AD	0x0000003B	[ 41] -[LifeIOSViewController doCut:]
+0x1000044E8	0x0000003B	[ 41] -[LifeIOSViewController copyToClipboard:]
+0x100004523	0x0000003B	[ 41] -[LifeIOSViewController doPaste:]
+0x10000455E	0x0000003B	[ 41] -[LifeIOSViewController doClear:]
+0x100004599	0x00000045	[ 41] -[LifeIOSViewController setup:]
+0x1000045DE	0x00000045	[ 41] -[LifeIOSViewController credits:]
+0x100004623	0x0000006A	[ 41] -[LifeIOSViewController new:]
+0x10000468D	0x000000B7	[ 41] -[LifeIOSViewController fileManagerMenu:]
+0x100004744	0x00000088	[ 41] -[LifeIOSViewController actionSheet:clickedButtonAtIndex:]
+0x1000047CC	0x00000014	[ 41] -[LifeIOSViewController doSave:]
+0x1000047E0	0x00000017	[ 41] -[LifeIOSViewController saveStart:]
+0x1000047F7	0x000001C6	[ 41] -[LifeIOSViewController saveCommon:]
+0x1000049BD	0x00000021	[ 41] -[LifeIOSViewController documentDirectoryPath]
+0x1000049DE	0x0000009B	[ 41] -[LifeIOSViewController open:]
+0x100004A79	0x0000009B	[ 41] -[LifeIOSViewController doDelete:]
+0x100004B14	0x00000101	[ 41] -[LifeIOSViewController newGrid:]
+0x100004C15	0x00000011	[ 41] -[LifeIOSViewController grid]
+0x100004C26	0x00000011	[ 41] -[LifeIOSViewController setGrid:]
+0x100004C37	0x00000011	[ 41] -[LifeIOSViewController controlView]
+0x100004C48	0x00000011	[ 41] -[LifeIOSViewController setControlView:]
+0x100004C59	0x00000011	[ 41] -[LifeIOSViewController editView]
+0x100004C6A	0x00000011	[ 41] -[LifeIOSViewController setEditView:]
+0x100004C7B	0x00000011	[ 41] -[LifeIOSViewController controlViewPortrait]
+0x100004C8C	0x00000011	[ 41] -[LifeIOSViewController setControlViewPortrait:]
+0x100004C9D	0x00000011	[ 41] -[LifeIOSViewController controlViewLandscape]
+0x100004CAE	0x00000011	[ 41] -[LifeIOSViewController setControlViewLandscape:]
+0x100004CBF	0x00000011	[ 41] -[LifeIOSViewController editViewPortrait]
+0x100004CD0	0x00000011	[ 41] -[LifeIOSViewController setEditViewPortrait:]
+0x100004CE1	0x00000011	[ 41] -[LifeIOSViewController editViewLandscape]
+0x100004CF2	0x00000011	[ 41] -[LifeIOSViewController setEditViewLandscape:]
+0x100004D03	0x00000011	[ 41] -[LifeIOSViewController startImage]
+0x100004D14	0x00000011	[ 41] -[LifeIOSViewController setStartImage:]
+0x100004D25	0x00000011	[ 41] -[LifeIOSViewController pauseImage]
+0x100004D36	0x00000011	[ 41] -[LifeIOSViewController setPauseImage:]
+0x100004D47	0x0000002F	[ 41] -[LifeIPhoneViewController viewDidLoad]
+0x100004D76	0x0000001D	[ 41] -[LifeIPhoneViewController shouldAutorotateToInterfaceOrientation:]
+0x100004D93	0x000000BA	[ 41] -[LifeIPhoneViewController setup:]
+0x100004E4D	0x00000099	[ 41] -[LifeIPhoneViewController credits:]
+0x100004EE6	0x0000002F	[ 41] -[LifeIPhoneViewController didReceiveMemoryWarning]
+0x100004F15	0x0000002F	[ 41] -[LifeIPhoneViewController viewDidUnload]
+0x100004F44	0x0000002F	[ 41] -[LifeIPhoneViewController dealloc]
+0x100004F73	0x00000008	[ 41] -[LifeView isMultipleTouchEnabled]
+0x100004F7B	0x00000073	[ 41] -[LifeView displayTick:]
+0x100004FEE	0x000000A0	[ 41] -[LifeView initWithCoder:]
+0x10000508E	0x00000192	[ 41] -[LifeView awakeFromNib]
+0x100005220	0x000000C3	[ 41] -[LifeView touchesBegan:withEvent:]
+0x1000052E3	0x000000F6	[ 41] -[LifeView touchesMoved:withEvent:]
+0x1000053D9	0x000000BC	[ 41] -[LifeView touchesEnded:withEvent:]
+0x100005495	0x000000C4	[ 41] -[LifeView touchesOneBegan:]
+0x100005559	0x000002C2	[ 41] -[LifeView singleTap:where:]
+0x10000581B	0x00000006	[ 41] -[LifeView doubleTap:where:]
+0x100005821	0x0000008C	[ 41] -[LifeView touchesTwoBegan:]
+0x1000058AD	0x000001DE	[ 41] -[LifeView trackSelection:]
+0x100005A8B	0x000005A1	[ 41] -[LifeView rotateSelection:]
+0x10000602C	0x000005B4	[ 41] -[LifeView reflectSelection:]
+0x1000065E0	0x000000E9	[ 41] -[LifeView angle:to:]
+0x1000066C9	0x0000021E	[ 41] -[LifeView touchesOneMoved:touches:]
+0x1000068E7	0x000001DF	[ 41] -[LifeView editOneMoved:]
+0x100006AC6	0x00000372	[ 41] -[LifeView moveSelection:]
+0x100006E38	0x00000295	[ 41] -[LifeView touchesTwoMoved:touches:]
+0x1000070CD	0x0000004B	[ 41] -[LifeView arrayToPoint:atIndex:]
+0x100007118	0x000000F2	[ 41] -[LifeView touchesToArray:]
+0x10000720A	0x00000028	[ 41] -[LifeView setGeneration:]
+0x100007232	0x000000EE	[ 41] -[LifeView invalidateCell:]
+0x100007320	0x0000049C	[ 41] -[LifeView drawRect:]
+0x1000077BC	0x0000010C	[ 41] -[LifeView drawHorizontalGridLine:from:to:]
+0x1000078C8	0x0000010C	[ 41] -[LifeView drawVerticalGridLine:from:to:]
+0x1000079D4	0x000000AE	[ 41] -[LifeView coordToPoint:]
+0x100007A82	0x000000B1	[ 41] -[LifeView locationToPoint:]
+0x100007B33	0x000000B4	[ 41] -[LifeView coordToRect:size:]
+0x100007BE7	0x00000089	[ 41] -[LifeView drawCell:]
+0x100007C70	0x00000099	[ 41] -[LifeView drawLine:cellCount:]
+0x100007D09	0x0000014E	[ 41] -[LifeView restoreAffineMatrix]
+0x100007E57	0x00000694	[ 41] -[LifeView drawSelection]
+0x1000084EB	0x00000293	[ 41] -[LifeView drawSelectionGrid]
+0x10000877E	0x00000397	[ 41] -[LifeView drawRotatedSelection]
+0x100008B15	0x000004E3	[ 41] -[LifeView drawReflectedSelection]
+0x100008FF8	0x00000135	[ 41] -[LifeView drawSelectionCorner:]
+0x10000912D	0x00000135	[ 41] -[LifeView drawSelectionEdge:]
+0x100009262	0x00000029	[ 41] -[LifeView distance:to:]
+0x10000928B	0x00000011	[ 41] -[LifeView controller]
+0x10000929C	0x00000011	[ 41] -[LifeView setController:]
+0x1000092AD	0x00000012	[ 41] -[LifeView editMode]
+0x1000092BF	0x00000010	[ 41] -[LifeView setEditMode:]
+0x1000092CF	0x000000FE	[ 41] -[AccelerometerHelper init]
+0x1000093CD	0x000000AC	[ 41] -[AccelerometerHelper start]
+0x100009479	0x0000006D	[ 41] -[AccelerometerHelper sharedManager]
+0x1000094E6	0x0000002C	[ 41] -[AccelerometerHelper setX:]
+0x100009512	0x0000002C	[ 41] -[AccelerometerHelper setY:]
+0x10000953E	0x0000002C	[ 41] -[AccelerometerHelper setZ:]
+0x10000956A	0x000001B8	[ 41] -[AccelerometerHelper dAngle]
+0x100009722	0x000000C2	[ 41] -[AccelerometerHelper acceleration]
+0x1000097E4	0x0000011C	[ 41] -[AccelerometerHelper checkTrigger]
+0x100009900	0x00000150	[ 41] -[AccelerometerHelper accelerometer:didAccelerate:]
+0x100009A50	0x00000029	[ 41] -[AccelerometerHelper reset]
+0x100009A79	0x00000011	[ 41] -[AccelerometerHelper triggerTime]
+0x100009A8A	0x00000011	[ 41] -[AccelerometerHelper setTriggerTime:]
+0x100009A9B	0x00000012	[ 41] -[AccelerometerHelper lockout]
+0x100009AAD	0x00000012	[ 41] -[AccelerometerHelper setLockout:]
+0x100009ABF	0x00000012	[ 41] -[AccelerometerHelper angleSensitivity]
+0x100009AD1	0x00000012	[ 41] -[AccelerometerHelper setAngleSensitivity:]
+0x100009AE3	0x00000012	[ 41] -[AccelerometerHelper forceSensitivity]
+0x100009AF5	0x00000012	[ 41] -[AccelerometerHelper setForceSensitivity:]
+0x100009B07	0x00000011	[ 41] -[AccelerometerHelper delegate]
+0x100009B18	0x00000011	[ 41] -[AccelerometerHelper setDelegate:]
+0x100009B29	0x00000043	[ 41] ___36-[AccelerometerHelper sharedManager]_block_invoke
+0x100009B6C	0x00000017	[ 41] ___copy_helper_block_.41
+0x100009B83	0x00000013	[ 41] ___destroy_helper_block_.42
+0x100009B96	0x000001C5	[ 41] ___28-[AccelerometerHelper start]_block_invoke
+0x100009D5B	0x00000017	[ 41] ___copy_helper_block_
+0x100009D72	0x00000013	[ 41] ___destroy_helper_block_
+0x100009D85	0x00000153	[  8] _allSubviews
+0x100009ED8	0x00000075	[ 41] +[ModalAlert okAlert:title:]
+0x100009F4D	0x000000D9	[ 41] +[ModalAlert queryWith:button1:button2:]
+0x10000A026	0x0000033D	[ 41] +[ModalAlert copyAnswerFor:prompt:button1:button2:]
+0x10000A363	0x0000002E	[ 41] +[ModalAlert confirm:]
+0x10000A391	0x0000002E	[ 41] +[ModalAlert ask:]
+0x10000A3BF	0x00000027	[ 41] +[ModalAlert copyAnswerFor:withTextPrompt:]
+0x10000A3E6	0x00000053	[ 41] -[ModalAlertDelegate initWithRunLoop:]
+0x10000A439	0x0000005A	[ 41] -[ModalAlertDelegate alertView:clickedButtonAtIndex:]
+0x10000A493	0x000000E6	[ 41] -[ModalAlertDelegate moveAlert:]
+0x10000A579	0x0000003B	[ 41] -[ModalAlertDelegate isLandscape]
+0x10000A5B4	0x00000011	[ 41] -[ModalAlertDelegate index]
+0x10000A5C5	0x00000013	[ 41] -[ModalAlertDelegate text]
+0x10000A5D8	0x00000011	[ 41] -[ModalAlertDelegate setText:]
+0x10000A5E9	0x00000203	[ 11] _repositionSubviews
+0x10000A7EC	0x000001B0	[ 41] -[LifeClipboard initWithSelection:]
+0x10000A99C	0x0000003D	[ 41] -[LifeClipboard size]
+0x10000A9D9	0x00000032	[ 41] -[LifeClipboard setSize:]
+0x10000AA0B	0x00000011	[ 41] -[LifeClipboard cells]
+0x10000AA1C	0x00000011	[ 41] -[LifeClipboard setCells:]
+0x10000AA2D	0x00000067	[ 13] _Free
+0x10000AA94	0x00000059	[ 13] _NextRun
+0x10000AAED	0x000000A4	[ 13] _FindBit
+0x10000AB91	0x00000050	[ 41] -[LifeDisplay initWithCoder:]
+0x10000ABE1	0x00000049	[ 41] -[LifeDisplay dealloc]
+0x10000AC2A	0x0000009E	[ 41] -[LifeDisplay pointToCoord:]
+0x10000ACC8	0x00000090	[ 41] -[LifeDisplay pointToLocation:]
+0x10000AD58	0x0000011B	[ 41] -[LifeDisplay center]
+0x10000AE73	0x00000197	[ 41] -[LifeDisplay pinOrigin:]
+0x10000B00A	0x0000010E	[ 41] -[LifeDisplay pinScale:]
+0x10000B118	0x000002A3	[ 41] -[LifeDisplay centerImage]
+0x10000B3BB	0x00000035	[ 41] -[LifeDisplay setSpeed:]
+0x10000B3F0	0x00000014	[ 41] -[LifeDisplay scale]
+0x10000B404	0x00000014	[ 41] -[LifeDisplay setScale:]
+0x10000B418	0x0000003F	[ 41] -[LifeDisplay origin]
+0x10000B457	0x00000034	[ 41] -[LifeDisplay setOrigin:]
+0x10000B48B	0x00000011	[ 41] -[LifeDisplay grid]
+0x10000B49C	0x00000011	[ 41] -[LifeDisplay setGrid:]
+0x10000B4AD	0x00000011	[ 41] -[LifeDisplay drawTime]
+0x10000B4BE	0x00000011	[ 41] -[LifeDisplay setDrawTime:]
+0x10000B4CF	0x000001F3	[ 41] -[LifeGrid init]
+0x10000B6C2	0x00000049	[ 41] -[LifeGrid dealloc]
+0x10000B70B	0x0000032E	[ 41] -[LifeGrid tick]
+0x10000BA39	0x00000056	[ 41] -[LifeGrid toggle:]
+0x10000BA8F	0x00000042	[ 41] -[LifeGrid setCell:state:]
+0x10000BAD1	0x0000002D	[ 41] -[LifeGrid state:]
+0x10000BAFE	0x00000079	[ 41] -[LifeGrid getRow:]
+0x10000BB77	0x00000079	[ 41] -[LifeGrid getStartRow:]
+0x10000BBF0	0x00000011	[ 41] -[LifeGrid cells]
+0x10000BC01	0x0000018E	[ 41] -[LifeGrid merge:where:]
+0x10000BD8F	0x000000E9	[ 41] -[LifeGrid clearAll]
+0x10000BE78	0x000000C9	[ 41] -[LifeGrid nextRun:row:]
+0x10000BF41	0x0000001D	[ 41] -[LifeGrid lock]
+0x10000BF5E	0x0000001D	[ 41] -[LifeGrid unlock]
+0x10000BF7B	0x00000010	[ 41] -[LifeGrid running]
+0x10000BF8B	0x00000051	[ 41] -[LifeGrid setRunning:]
+0x10000BFDC	0x00000078	[ 41] -[LifeGrid start:]
+0x10000C054	0x00000014	[ 41] -[LifeGrid stop:]
+0x10000C068	0x00000050	[ 41] -[LifeGrid step:]
+0x10000C0B8	0x000000B4	[ 41] -[LifeGrid displayTick:]
+0x10000C16C	0x00000317	[ 41] -[LifeGrid cycleContinuously]
+0x10000C483	0x00000113	[ 41] -[LifeGrid copyGrid]
+0x10000C596	0x000004FE	[ 41] -[LifeGrid resize:height:]
+0x10000CA94	0x00000140	[ 41] -[LifeGrid initGrid]
+0x10000CBD4	0x00000076	[ 41] -[LifeGrid allocGrid:]
+0x10000CC4A	0x00000014	[ 41] -[LifeGrid freeGrid:withSize:]
+0x10000CC5E	0x00000073	[ 41] -[LifeGrid inLivingCell:]
+0x10000CCD1	0x0000003D	[ 41] -[LifeGrid adjustSpeed:]
+0x10000CD0E	0x00000011	[ 41] -[LifeGrid getDisplayGrid]
+0x10000CD1F	0x0000013D	[ 41] -[LifeGrid randomize:]
+0x10000CE5C	0x00000095	[ 41] -[LifeGrid cut]
+0x10000CEF1	0x00000070	[ 41] -[LifeGrid copyToClipboard]
+0x10000CF61	0x0000014F	[ 41] -[LifeGrid paste]
+0x10000D0B0	0x0000013A	[ 41] -[LifeGrid clearSelection]
+0x10000D1EA	0x00000026	[ 41] -[LifeGrid startBoundingBox:size:]
+0x10000D210	0x00000026	[ 41] -[LifeGrid boundingBox:size:]
+0x10000D236	0x000002A5	[ 41] -[LifeGrid boundCommon:origin:size:]
+0x10000D4DB	0x00000071	[ 41] -[LifeGrid shake]
+0x10000D54C	0x00000011	[ 41] -[LifeGrid clipboard]
+0x10000D55D	0x00000011	[ 41] -[LifeGrid setClipboard:]
+0x10000D56E	0x00000011	[ 41] -[LifeGrid height]
+0x10000D57F	0x00000011	[ 41] -[LifeGrid setHeight:]
+0x10000D590	0x00000011	[ 41] -[LifeGrid width]
+0x10000D5A1	0x00000011	[ 41] -[LifeGrid setWidth:]
+0x10000D5B2	0x00000012	[ 41] -[LifeGrid edited]
+0x10000D5C4	0x00000010	[ 41] -[LifeGrid setEdited:]
+0x10000D5D4	0x00000012	[ 41] -[LifeGrid speed]
+0x10000D5E6	0x00000012	[ 41] -[LifeGrid setSpeed:]
+0x10000D5F8	0x00000011	[ 41] -[LifeGrid display]
+0x10000D609	0x00000011	[ 41] -[LifeGrid setDisplay:]
+0x10000D61A	0x00000016	[ 41] -[LifeGrid selection]
+0x10000D630	0x00000011	[ 41] -[LifeGrid setSelection:]
+0x10000D641	0x00000012	[ 41] -[LifeGrid shakeToRandomize]
+0x10000D653	0x00000010	[ 41] -[LifeGrid setShakeToRandomize:]
+0x10000D663	0x00000011	[ 41] -[LifeGrid tickSum]
+0x10000D674	0x00000011	[ 41] -[LifeGrid setTickSum:]
+0x10000D685	0x00000016	[ 41] -[LifeGrid tickAverage]
+0x10000D69B	0x00000016	[ 41] -[LifeGrid setTickAverage:]
+0x10000D6B1	0x00000011	[ 41] -[LifeGrid tickSamples]
+0x10000D6C2	0x00000011	[ 41] -[LifeGrid setTickSamples:]
+0x10000D6D3	0x00000011	[ 41] -[LifeGrid gensPerRefresh]
+0x10000D6E4	0x00000011	[ 41] -[LifeGrid setGensPerRefresh:]
+0x10000D6F5	0x00000015	[ 41] +[LifeGrid runThread:]
+0x10000D70A	0x000003E5	[ 41] +[LifeRLEFile write:path:start:]
+0x10000DAEF	0x000000C3	[ 41] +[LifeRLEFile writeBuffer:handle:lineLength:]
+0x10000DBB2	0x0000027A	[ 41] +[LifeRLEFile alloc:error:]
+0x10000DE2C	0x000002B8	[ 41] +[LifeRLEFile readHeader:grid:error:]
+0x10000E0E4	0x00000272	[ 41] +[LifeRLEFile readRow:grid:row:eof:error:]
+0x10000E356	0x00000107	[ 41] +[LifeRLEFile readTag:runLength:alive:rows:eof:error:]
+0x10000E45D	0x00000076	[ 41] +[LifeRLEFile eatEOLMarker:eof:]
+0x10000E4D3	0x00000091	[ 41] +[LifeRLEFile eatWhiteSpace:]
+0x10000E564	0x00000091	[ 41] +[LifeRLEFile eatComment:]
+0x10000E5F5	0x000000BE	[ 41] +[LifeRLEFile eatEOL:]
+0x10000E6B3	0x0000008E	[ 41] -[LifeSelection init:size:]
+0x10000E741	0x00000136	[ 41] -[LifeSelection initWithClipboard:]
+0x10000E877	0x00000071	[ 41] -[LifeSelection dealloc]
+0x10000E8E8	0x000000F2	[ 41] -[LifeSelection allocateCells]
+0x10000E9DA	0x0000018E	[ 41] -[LifeSelection grabCells:]
+0x10000EB68	0x0000024B	[ 41] -[LifeSelection dropCells:]
+0x10000EDB3	0x000000B0	[ 41] -[LifeSelection inside:]
+0x10000EE63	0x000000D0	[ 41] -[LifeSelection insideLocation:]
+0x10000EF33	0x00000106	[ 41] -[LifeSelection inCorner:]
+0x10000F039	0x000002BD	[ 41] -[LifeSelection inSideHandleLocation:]
+0x10000F2F6	0x00000145	[ 41] -[LifeSelection inSideHandle:]
+0x10000F43B	0x000001E7	[ 41] -[LifeSelection rotateRight]
+0x10000F622	0x000001ED	[ 41] -[LifeSelection rotateLeft]
+0x10000F80F	0x00000107	[ 41] -[LifeSelection reflectVertical]
+0x10000F916	0x0000013D	[ 41] -[LifeSelection reflectHorizontal]
+0x10000FA53	0x00000045	[ 41] -[LifeSelection freeCells:rows:]
+0x10000FA98	0x0000003D	[ 41] -[LifeSelection origin]
+0x10000FAD5	0x00000032	[ 41] -[LifeSelection setOrigin:]
+0x10000FB07	0x0000003D	[ 41] -[LifeSelection size]
+0x10000FB44	0x00000032	[ 41] -[LifeSelection setSize:]
+0x10000FB76	0x00000011	[ 41] -[LifeSelection cells]
+0x10000FB87	0x00000011	[ 41] -[LifeSelection setCells:]
+0x10000FB98	0x0000002F	[ 41] -[SetupViewController viewDidLoad]
+0x10000FBC7	0x0000001D	[ 41] -[SetupViewController shouldAutorotateToInterfaceOrientation:]
+0x10000FBE4	0x00000120	[ 41] -[SetupViewControllerIOS viewDidLoad]
+0x10000FD04	0x00000160	[ 41] -[SetupViewControllerIOS didRotateFromInterfaceOrientation:]
+0x10000FE64	0x00000065	[ 41] -[SetupViewControllerIOS initControls]
+0x10000FEC9	0x00000088	[ 41] -[SetupViewControllerIOS resize:]
+0x10000FF51	0x000000E3	[ 41] -[SetupViewControllerIOS new:]
+0x100010034	0x00000057	[ 41] -[SetupViewControllerIOS shakeToRandomize:]
+0x10001008B	0x000002A6	[ 41] -[SetupViewControllerIOS resizeCommon]
+0x100010331	0x00000006	[ 41] -[SetupViewControllerIOS ok:]
+0x100010337	0x0000007B	[ 41] -[SetupViewControllerIOS cancel:]
+0x1000103B2	0x00000079	[ 41] -[SetupViewControllerIOS manual:]
+0x10001042B	0x00000165	[ 41] -[SetupViewControllerIOS textField:shouldChangeCharactersInRange:replacementString:]
+0x100010590	0x00000076	[ 41] -[SetupViewControllerIOS closeIt:]
+0x100010606	0x00000011	[ 41] -[SetupViewControllerIOS grid]
+0x100010617	0x00000011	[ 41] -[SetupViewControllerIOS setGrid:]
+0x100010628	0x00000011	[ 41] -[SetupViewControllerIOS portrait]
+0x100010639	0x00000011	[ 41] -[SetupViewControllerIOS setPortrait:]
+0x10001064A	0x00000011	[ 41] -[SetupViewControllerIOS landscape]
+0x10001065B	0x00000011	[ 41] -[SetupViewControllerIOS setLandscape:]
+0x10001066C	0x00000011	[ 41] -[SetupViewControllerIOS shakeToRandomizeSwitch]
+0x10001067D	0x00000011	[ 41] -[SetupViewControllerIOS setShakeToRandomizeSwitch:]
+0x10001068E	0x00000006	[ 41] ___34-[SetupViewControllerIOS closeIt:]_block_invoke
+0x100010694	0x00000006	[ 41] ___33-[SetupViewControllerIOS cancel:]_block_invoke
+0x10001069A	0x00000006	[ 41] ___30-[SetupViewControllerIOS new:]_block_invoke
+0x1000106A0	0x00000006	[ 41] ___33-[SetupViewControllerIOS resize:]_block_invoke
+0x1000106A6	0x00000008	[ 41] -[FileListDelegate doIt:viewController:]
+0x1000106AE	0x00000011	[ 41] -[FileListDelegate setup]
+0x1000106BF	0x00000011	[ 41] -[FileListDelegate setSetup:]
+0x1000106D0	0x0000009E	[ 41] -[FileListViewController initWithDelegateClass:]
+0x10001076E	0x00000069	[ 41] -[FileListViewController dealloc]
+0x1000107D7	0x0000001D	[ 41] -[FileListViewController remove:]
+0x1000107F4	0x0000008B	[ 41] -[FileListViewController shouldAutorotateToInterfaceOrientation:]
+0x10001087F	0x00000201	[ 41] -[FileListViewController didRotateFromInterfaceOrientation:]
+0x100010A80	0x0000000B	[ 41] -[FileListViewController numberOfSectionsInTableView:]
+0x100010A8B	0x00000055	[ 41] -[FileListViewController tableView:numberOfRowsInSection:]
+0x100010AE0	0x000000D2	[ 41] -[FileListViewController tableView:cellForRowAtIndexPath:]
+0x100010BB2	0x0000009F	[ 41] -[FileListViewController tableView:didSelectRowAtIndexPath:]
+0x100010C51	0x00000021	[ 41] -[FileListViewController documentDirectoryPath]
+0x100010C72	0x0000016A	[ 41] -[FileOpener doIt:viewController:]
+0x100010DDC	0x00000154	[ 41] -[RLEFileArray init]
+0x100010F30	0x0000001D	[ 41] -[RLEFileArray count]
+0x100010F4D	0x0000001D	[ 41] -[RLEFileArray addObject:]
+0x100010F6A	0x0000001D	[ 41] -[RLEFileArray remove:]
+0x100010F87	0x0000001D	[ 41] -[RLEFileArray objectAtIndex:]
+0x100010FA4	0x00000021	[ 41] +[RLEFileArray documentDirectoryPath]
+0x100010FC5	0x000000D0	[ 41] -[FileDeleter doIt:viewController:]
+0x100011095	0x0000002F	[ 41] -[SetupView initWithCoder:]
+0x1000110C4	0x0000002F	[ 41] -[SetupView awakeFromNib]
+0x1000110F3	0x00000011	[ 41] -[SetupView controller]
+0x100011104	0x00000011	[ 41] -[SetupView setController:]
+0x100011115	0x0000002F	[ 41] -[CreditViewController viewDidLoad]
+0x100011144	0x0000000B	[ 41] -[CreditViewController supportedInterfaceOrientations]
+0x10001114F	0x0000001D	[ 41] -[CreditViewController shouldAutorotateToInterfaceOrientation:]
+0x10001116C	0x000000C8	[ 41] -[CreditViewControllerIOS viewDidLoad]
+0x100011234	0x00000063	[ 41] -[CreditViewControllerIOS website:]
+0x100011297	0x00000044	[ 41] -[CreditViewControllerIOS viewWillAppear:]
+0x1000112DB	0x00000008	[ 41] -[CreditViewControllerIOS shouldAutorotate]
+0x1000112E3	0x00000012	[ 41] -[CreditViewControllerIOS didRotateFromInterfaceOrientation:]
+0x1000112F5	0x000000B7	[ 41] -[CreditViewControllerIOS layoutItems]
+0x1000113AC	0x00000011	[ 41] -[CreditViewControllerIOS portrait]
+0x1000113BD	0x00000011	[ 41] -[CreditViewControllerIOS setPortrait:]
+0x1000113CE	0x00000011	[ 41] -[CreditViewControllerIOS landscape]
+0x1000113DF	0x00000011	[ 41] -[CreditViewControllerIOS setLandscape:]
+0x1000113F0	0x0000005E	[ 41] -[WarpLifeAppDelegateIPad application:didFinishLaunchingWithOptions:]
+0x10001144E	0x00000006	[ 41] -[WarpLifeAppDelegateIPad applicationWillResignActive:]
+0x100011454	0x00000006	[ 41] -[WarpLifeAppDelegateIPad applicationDidEnterBackground:]
+0x10001145A	0x00000006	[ 41] -[WarpLifeAppDelegateIPad applicationWillEnterForeground:]
+0x100011460	0x00000006	[ 41] -[WarpLifeAppDelegateIPad applicationDidBecomeActive:]
+0x100011466	0x00000006	[ 41] -[WarpLifeAppDelegateIPad applicationWillTerminate:]
+0x10001146C	0x00000006	[ 41] -[WarpLifeAppDelegateIPad applicationDidReceiveMemoryWarning:]
+0x100011472	0x00000069	[ 41] -[WarpLifeAppDelegateIPad dealloc]
+0x1000114DB	0x00000011	[ 41] -[WarpLifeAppDelegateIPad window]
+0x1000114EC	0x00000011	[ 41] -[WarpLifeAppDelegateIPad setWindow:]
+0x1000114FD	0x00000011	[ 41] -[WarpLifeAppDelegateIPad navigationController]
+0x10001150E	0x00000011	[ 41] -[WarpLifeAppDelegateIPad setNavigationController:]
+0x10001151F	0x0000002F	[ 41] -[LifeIPadViewController viewDidLoad]
+0x10001154E	0x00000010	[ 41] -[LifeIPadViewController shouldAutorotateToInterfaceOrientation:]
+0x10001155E	0x000000AD	[ 41] -[LifeIPadViewController setup:]
+0x10001160B	0x0000006C	[ 41] -[LifeIPadViewController credits:]
+0x100011677	0x0000002F	[ 41] -[LifeIPadViewController didReceiveMemoryWarning]
+0x1000116A6	0x0000002F	[ 41] -[LifeIPadViewController viewDidUnload]
+0x1000116D5	0x0000002F	[ 41] -[LifeIPadViewController dealloc]
+0x100011704	0x0000002F	[ 41] -[SetupViewControllerIPad viewDidLoad]
+0x100011733	0x00000010	[ 41] -[SetupViewControllerIPad shouldAutorotateToInterfaceOrientation:]
+0x100011743	0x0000009D	[ 41] -[SetupViewControllerIPad credits:]
+0x1000117E0	0x00000006	[ 41] ___35-[SetupViewControllerIPad credits:]_block_invoke
+0x1000117E6	0x0000002F	[ 41] -[CreditViewControllerIPad viewDidLoad]
+0x100011815	0x00000010	[ 41] -[CreditViewControllerIPad shouldAutorotateToInterfaceOrientation:]
+0x100011825	0x000000B7	[ 41] -[ManualViewControllerIOS viewDidAppear:]
+0x1000118DC	0x00000006	[ 40] _CFRunLoopGetCurrent
+0x1000118E2	0x00000006	[ 40] _CFRunLoopRun
+0x1000118E8	0x00000006	[ 40] _CFRunLoopStop
+0x1000118EE	0x00000006	[ 40] _CFStringGetCStringPtr
+0x1000118F4	0x00000006	[ 36] _CGAffineTransformInvert
+0x1000118FA	0x00000006	[ 36] _CGContextAddEllipseInRect
+0x100011900	0x00000006	[ 36] _CGContextBeginPath
+0x100011906	0x00000006	[ 36] _CGContextClosePath
+0x10001190C	0x00000006	[ 36] _CGContextConcatCTM
+0x100011912	0x00000006	[ 36] _CGContextFillPath
+0x100011918	0x00000006	[ 36] _CGContextGetCTM
+0x10001191E	0x00000006	[ 36] _CGContextRotateCTM
+0x100011924	0x00000006	[ 36] _CGContextScaleCTM
+0x10001192A	0x00000006	[ 36] _CGContextSetLineWidth
+0x100011930	0x00000006	[ 36] _CGContextSetRGBFillColor
+0x100011936	0x00000006	[ 36] _CGContextSetRGBStrokeColor
+0x10001193C	0x00000006	[ 36] _CGContextStrokePath
+0x100011942	0x00000006	[ 36] _CGContextTranslateCTM
+0x100011948	0x00000006	[ 36] _CGRectEqualToRect
+0x10001194E	0x00000006	[ 36] _CGRectInset
+0x100011954	0x00000006	[ 34] _NSHomeDirectory
+0x10001195A	0x00000006	[ 34] _NSLog
+0x100011960	0x00000006	[ 35] _UIApplicationMain
+0x100011966	0x00000006	[ 35] _UIGraphicsGetCurrentContext
+0x10001196C	0x00000006	[ 35] _UIRectFill
+0x100011972	0x00000006	[ 39] __Block_object_assign
+0x100011978	0x00000006	[ 39] __Block_object_dispose
+0x10001197E	0x00000006	[ 39] ___assert_rtn
+0x100011984	0x00000006	[ 39] ___snprintf_chk
+0x10001198A	0x00000006	[ 39] ___stack_chk_fail
+0x100011990	0x00000006	[ 39] __dyld_register_func_for_add_image
+0x100011996	0x00000006	[ 39] _abort
+0x10001199C	0x00000006	[ 39] _acos
+0x1000119A2	0x00000006	[ 39] _asprintf
+0x1000119A8	0x00000006	[ 39] _bzero
+0x1000119AE	0x00000006	[ 39] _calloc
+0x1000119B4	0x00000006	[ 38] _class_addMethod
+0x1000119BA	0x00000006	[ 38] _class_addProperty
+0x1000119C0	0x00000006	[ 38] _class_addProtocol
+0x1000119C6	0x00000006	[ 38] _class_getInstanceMethod
+0x1000119CC	0x00000006	[ 38] _class_getInstanceVariable
+0x1000119D2	0x00000006	[ 38] _class_getSuperclass
+0x1000119D8	0x00000006	[ 38] _class_isMetaClass
+0x1000119DE	0x00000006	[ 38] _class_replaceMethod
+0x1000119E4	0x00000006	[ 39] _dispatch_once
+0x1000119EA	0x00000006	[ 39] _free
+0x1000119F0	0x00000006	[ 39] _gettimeofday
+0x1000119F6	0x00000006	[ 39] _hash_create
+0x1000119FC	0x00000006	[ 39] _hash_search
+0x100011A02	0x00000006	[ 39] _mach_absolute_time
+0x100011A08	0x00000006	[ 39] _mach_timebase_info
+0x100011A0E	0x00000006	[ 39] _malloc
+0x100011A14	0x00000006	[ 39] _memcmp
+0x100011A1A	0x00000006	[ 39] _memcpy
+0x100011A20	0x00000006	[ 39] _memset
+0x100011A26	0x00000006	[ 38] _method_setImplementation
+0x100011A2C	0x00000006	[ 38] _objc_constructInstance
+0x100011A32	0x00000006	[ 38] _objc_copyStruct
+0x100011A38	0x00000006	[ 38] _objc_enumerationMutation
+0x100011A3E	0x00000006	[ 38] _objc_getClass
+0x100011A44	0x00000006	[ 38] _objc_getMetaClass
+0x100011A4A	0x00000006	[ 38] _objc_getProperty
+0x100011A50	0x00000006	[ 38] _objc_getProtocol
+0x100011A56	0x00000006	[ 38] _objc_getRequiredClass
+0x100011A5C	0x00000006	[ 38] _objc_initializeClassPair
+0x100011A62	0x00000006	[ 38] _objc_lookUpClass
+0x100011A68	0x00000006	[ 38] _objc_msgSendSuper2
+0x100011A6E	0x00000006	[ 38] _objc_msgSend_stret
+0x100011A74	0x00000006	[ 38] _objc_registerClassPair
+0x100011A7A	0x00000006	[ 38] _objc_setProperty_atomic
+0x100011A80	0x00000006	[ 38] _objc_setProperty_nonatomic
+0x100011A86	0x00000006	[ 38] _objc_setProperty_nonatomic_copy
+0x100011A8C	0x00000006	[ 38] _object_getClass
+0x100011A92	0x00000006	[ 38] _object_getIvar
+0x100011A98	0x00000006	[ 39] _printf
+0x100011A9E	0x00000006	[ 38] _property_copyAttributeList
+0x100011AA4	0x00000006	[ 38] _protocol_getMethodDescription
+0x100011AAA	0x00000006	[ 39] _pthread_mutex_lock
+0x100011AB0	0x00000006	[ 39] _pthread_mutex_unlock
+0x100011AB6	0x00000006	[ 39] _puts
+0x100011ABC	0x00000006	[ 39] _random
+0x100011AC2	0x00000006	[ 38] _sel_getUid
+0x100011AC8	0x00000006	[ 39] _strcmp
+0x100011ACE	0x00000006	[ 39] _strlen
+0x100011AD4	0x00000006	[ 39] _strncmp
+0x100011ADC	0x00000010	[  0] helper helper
+0x100011AEC	0x0000000A	[ 34] _NSHomeDirectory
+0x100011AF6	0x0000000A	[ 34] _NSLog
+0x100011B00	0x0000000A	[ 35] _UIApplicationMain
+0x100011B0A	0x0000000A	[ 35] _UIGraphicsGetCurrentContext
+0x100011B14	0x0000000A	[ 35] _UIRectFill
+0x100011B1E	0x0000000A	[ 36] _CGAffineTransformInvert
+0x100011B28	0x0000000A	[ 36] _CGContextAddEllipseInRect
+0x100011B32	0x0000000A	[ 36] _CGContextBeginPath
+0x100011B3C	0x0000000A	[ 36] _CGContextClosePath
+0x100011B46	0x0000000A	[ 36] _CGContextConcatCTM
+0x100011B50	0x0000000A	[ 36] _CGContextFillPath
+0x100011B5A	0x0000000A	[ 36] _CGContextGetCTM
+0x100011B64	0x0000000A	[ 36] _CGContextRotateCTM
+0x100011B6E	0x0000000A	[ 36] _CGContextScaleCTM
+0x100011B78	0x0000000A	[ 36] _CGContextSetLineWidth
+0x100011B82	0x0000000A	[ 36] _CGContextSetRGBFillColor
+0x100011B8C	0x0000000A	[ 36] _CGContextSetRGBStrokeColor
+0x100011B96	0x0000000A	[ 36] _CGContextStrokePath
+0x100011BA0	0x0000000A	[ 36] _CGContextTranslateCTM
+0x100011BAA	0x0000000A	[ 36] _CGRectEqualToRect
+0x100011BB4	0x0000000A	[ 36] _CGRectInset
+0x100011BBE	0x0000000A	[ 38] _class_addMethod
+0x100011BC8	0x0000000A	[ 38] _class_addProperty
+0x100011BD2	0x0000000A	[ 38] _class_addProtocol
+0x100011BDC	0x0000000A	[ 38] _class_getInstanceMethod
+0x100011BE6	0x0000000A	[ 38] _class_getInstanceVariable
+0x100011BF0	0x0000000A	[ 38] _class_getSuperclass
+0x100011BFA	0x0000000A	[ 38] _class_isMetaClass
+0x100011C04	0x0000000A	[ 38] _class_replaceMethod
+0x100011C0E	0x0000000A	[ 38] _method_setImplementation
+0x100011C18	0x0000000A	[ 38] _objc_constructInstance
+0x100011C22	0x0000000A	[ 38] _objc_copyStruct
+0x100011C2C	0x0000000A	[ 38] _objc_enumerationMutation
+0x100011C36	0x0000000A	[ 38] _objc_getClass
+0x100011C40	0x0000000A	[ 38] _objc_getMetaClass
+0x100011C4A	0x0000000A	[ 38] _objc_getProperty
+0x100011C54	0x0000000A	[ 38] _objc_getProtocol
+0x100011C5E	0x0000000A	[ 38] _objc_getRequiredClass
+0x100011C68	0x0000000A	[ 38] _objc_initializeClassPair
+0x100011C72	0x0000000A	[ 38] _objc_lookUpClass
+0x100011C7C	0x0000000A	[ 38] _objc_msgSendSuper2
+0x100011C86	0x0000000A	[ 38] _objc_msgSend_stret
+0x100011C90	0x0000000A	[ 38] _objc_registerClassPair
+0x100011C9A	0x0000000A	[ 38] _objc_setProperty_atomic
+0x100011CA4	0x0000000A	[ 38] _objc_setProperty_nonatomic
+0x100011CAE	0x0000000A	[ 38] _objc_setProperty_nonatomic_copy
+0x100011CB8	0x0000000A	[ 38] _object_getClass
+0x100011CC2	0x0000000A	[ 38] _object_getIvar
+0x100011CCC	0x0000000A	[ 38] _property_copyAttributeList
+0x100011CD6	0x0000000A	[ 38] _protocol_getMethodDescription
+0x100011CE0	0x0000000A	[ 38] _sel_getUid
+0x100011CEA	0x0000000A	[ 39] __Block_object_assign
+0x100011CF4	0x0000000A	[ 39] __Block_object_dispose
+0x100011CFE	0x0000000A	[ 39] ___assert_rtn
+0x100011D08	0x0000000A	[ 39] ___snprintf_chk
+0x100011D12	0x0000000A	[ 39] ___stack_chk_fail
+0x100011D1C	0x0000000A	[ 39] __dyld_register_func_for_add_image
+0x100011D26	0x0000000A	[ 39] _abort
+0x100011D30	0x0000000A	[ 39] _acos
+0x100011D3A	0x0000000A	[ 39] _asprintf
+0x100011D44	0x0000000A	[ 39] _bzero
+0x100011D4E	0x0000000A	[ 39] _calloc
+0x100011D58	0x0000000A	[ 39] _dispatch_once
+0x100011D62	0x0000000A	[ 39] _free
+0x100011D6C	0x0000000A	[ 39] _gettimeofday
+0x100011D76	0x0000000A	[ 39] _hash_create
+0x100011D80	0x0000000A	[ 39] _hash_search
+0x100011D8A	0x0000000A	[ 39] _mach_absolute_time
+0x100011D94	0x0000000A	[ 39] _mach_timebase_info
+0x100011D9E	0x0000000A	[ 39] _malloc
+0x100011DA8	0x0000000A	[ 39] _memcmp
+0x100011DB2	0x0000000A	[ 39] _memcpy
+0x100011DBC	0x0000000A	[ 39] _memset
+0x100011DC6	0x0000000A	[ 39] _printf
+0x100011DD0	0x0000000A	[ 39] _pthread_mutex_lock
+0x100011DDA	0x0000000A	[ 39] _pthread_mutex_unlock
+0x100011DE4	0x0000000A	[ 39] _puts
+0x100011DEE	0x0000000A	[ 39] _random
+0x100011DF8	0x0000000A	[ 39] _strcmp
+0x100011E02	0x0000000A	[ 39] _strlen
+0x100011E0C	0x0000000A	[ 39] _strncmp
+0x100011E16	0x0000000A	[ 40] _CFRunLoopGetCurrent
+0x100011E20	0x0000000A	[ 40] _CFRunLoopRun
+0x100011E2A	0x0000000A	[ 40] _CFRunLoopStop
+0x100011E34	0x0000000A	[ 40] _CFStringGetCStringPtr
+0x100011E40	0x00000008	[ 37] 8-byte-literal
+0x100011E48	0x00000008	[ 41] 8-byte-literal
+0x100011E50	0x00000008	[ 41] 8-byte-literal
+0x100011E58	0x00000008	[ 41] 8-byte-literal
+0x100011E60	0x00000008	[ 41] 8-byte-literal
+0x100011E68	0x00000008	[ 41] 8-byte-literal
+0x100011E70	0x00000008	[ 41] 8-byte-literal
+0x100011E78	0x00000008	[ 41] 8-byte-literal
+0x100011E80	0x00000008	[ 41] 8-byte-literal
+0x100011E88	0x00000008	[ 41] 8-byte-literal
+0x100011E90	0x00000008	[ 41] 8-byte-literal
+0x100011E98	0x00000008	[ 41] 8-byte-literal
+0x100011EA0	0x00000008	[ 41] 8-byte-literal
+0x100011EA8	0x00000008	[ 41] 8-byte-literal
+0x100011EB0	0x00000008	[ 41] 8-byte-literal
+0x100011EB8	0x00000008	[ 41] 8-byte-literal
+0x100011EC0	0x00000008	[ 41] 8-byte-literal
+0x100011EC8	0x00000008	[ 41] 8-byte-literal
+0x100011ED0	0x00000008	[ 41] 8-byte-literal
+0x100011ED8	0x00000008	[ 41] 8-byte-literal
+0x100011EE0	0x00000004	[ 41] 4-byte-literal
+0x100011EE4	0x00000004	[ 41] 4-byte-literal
+0x100011EE8	0x00000004	[ 41] 4-byte-literal
+0x100011EEC	0x00000004	[ 41] 4-byte-literal
+0x100011EF0	0x00000004	[ 41] 4-byte-literal
+0x100011EF4	0x00000004	[ 41] 4-byte-literal
+0x100011EF8	0x00000004	[ 41] 4-byte-literal
+0x100011EFC	0x00000004	[ 41] 4-byte-literal
+0x100011F00	0x00000004	[ 41] 4-byte-literal
+0x100011F04	0x00000004	[ 41] 4-byte-literal
+0x100011F08	0x00000004	[ 41] 4-byte-literal
+0x100011F0C	0x00000004	[ 41] 4-byte-literal
+0x100011F10	0x00000010	[ 41] 16-byte-literal
+0x100011F20	0x00000010	[ 41] 16-byte-literal
+0x100011F30	0x00000010	[ 41] 16-byte-literal
+0x100011F40	0x00000010	[ 41] 16-byte-literal
+0x100011F50	0x00000010	[ 41] 16-byte-literal
+0x100011F60	0x00000010	[ 41] 16-byte-literal
+0x100011F70	0x00000010	[ 41] 16-byte-literal
+0x100011F80	0x00000010	[ 41] 16-byte-literal
+0x100011F90	0x00000200	[ 18] _gNeighborLut
+0x100012190	0x0000000C	[ 37] literal string: __ARCLite__
+0x10001219C	0x0000001D	[ 37] literal string: __ARCLiteKeyedSubscripting__
+0x1000121B9	0x00000015	[ 41] literal string: Warp_LifeAppDelegate
+0x1000121CE	0x00000016	[ 41] literal string: UIApplicationDelegate
+0x1000121E4	0x00000009	[ 41] literal string: NSObject
+0x1000121ED	0x00000016	[ 41] literal string: LifeIOSViewController
+0x100012203	0x00000016	[ 41] literal string: UIActionSheetDelegate
+0x100012219	0x00000019	[ 41] literal string: LifeIPhoneViewController
+0x100012232	0x00000009	[ 41] literal string: LifeView
+0x10001223B	0x00000014	[ 41] literal string: AccelerometerHelper
+0x10001224F	0x00000018	[ 41] literal string: UIAccelerometerDelegate
+0x100012267	0x0000000B	[ 41] literal string: ModalAlert
+0x100012272	0x00000013	[ 41] literal string: ModalAlertDelegate
+0x100012285	0x00000014	[ 41] literal string: UIAlertViewDelegate
+0x100012299	0x0000000E	[ 41] literal string: LifeClipboard
+0x1000122A7	0x0000000C	[ 41] literal string: LifeDisplay
+0x1000122B3	0x00000009	[ 41] literal string: LifeGrid
+0x1000122BC	0x0000000C	[ 41] literal string: LifeRLEFile
+0x1000122C8	0x0000000E	[ 41] literal string: LifeSelection
+0x1000122D6	0x00000014	[ 41] literal string: SetupViewController
+0x1000122EA	0x00000017	[ 41] literal string: SetupViewControllerIOS
+0x100012301	0x00000014	[ 41] literal string: UITextFieldDelegate
+0x100012315	0x00000011	[ 41] literal string: FileListDelegate
+0x100012326	0x00000017	[ 41] literal string: FileListViewController
+0x10001233D	0x0000000B	[ 41] literal string: FileOpener
+0x100012348	0x0000000D	[ 41] literal string: RLEFileArray
+0x100012355	0x0000000C	[ 41] literal string: FileDeleter
+0x100012361	0x0000000A	[ 41] literal string: SetupView
+0x10001236B	0x00000015	[ 41] literal string: CreditViewController
+0x100012380	0x00000018	[ 41] literal string: CreditViewControllerIOS
+0x100012398	0x00000018	[ 41] literal string: WarpLifeAppDelegateIPad
+0x1000123B0	0x00000017	[ 41] literal string: LifeIPadViewController
+0x1000123C7	0x00000018	[ 41] literal string: SetupViewControllerIPad
+0x1000123DF	0x00000019	[ 41] literal string: CreditViewControllerIPad
+0x1000123F8	0x00000018	[ 41] literal string: ManualViewControllerIOS
+0x100012410	0x00000005	[ 37] literal string: load
+0x100012415	0x0000001D	[ 37] literal string: setObject:forKeyedSubscript:
+0x100012432	0x00000012	[ 37] literal string: setObject:forKey:
+0x100012444	0x00000014	[ 37] literal string: removeObjectForKey:
+0x100012458	0x00000019	[ 37] literal string: objectForKeyedSubscript:
+0x100012471	0x0000000F	[ 37] literal string: isKindOfClass:
+0x100012480	0x00000005	[ 37] literal string: init
+0x100012485	0x00000011	[ 37] literal string: allocWithEntity:
+0x100012496	0x0000001D	[ 37] literal string: allocBatch:withEntity:count:
+0x1000124B3	0x00000016	[ 37] literal string: fastIndexForKnownKey:
+0x1000124C9	0x0000000D	[ 37] literal string: indexForKey:
+0x1000124D6	0x0000000E	[ 37] literal string: objectForKey:
+0x1000124E4	0x0000001A	[ 37] literal string: addEntriesFromDictionary:
+0x1000124FE	0x00000005	[ 37] literal string: self
+0x100012503	0x0000000B	[ 37] literal string: initialize
+0x10001250E	0x00000008	[ 37] literal string: release
+0x100012516	0x0000001C	[ 37] literal string: lengthOfBytesUsingEncoding:
+0x100012532	0x0000001F	[ 37] literal string: getCString:maxLength:encoding:
+0x100012551	0x00000006	[ 37] literal string: alloc
+0x100012557	0x0000001F	[ 37] literal string: initWithBytes:length:encoding:
+0x100012576	0x0000000E	[ 37] literal string: keyEnumerator
+0x100012584	0x0000000B	[ 37] literal string: nextObject
+0x10001258F	0x00000007	[ 41] literal string: window
+0x100012596	0x00000015	[ 41] literal string: navigationController
+0x1000125AB	0x0000001F	[ 41] literal string: applicationDidFinishLaunching:
+0x1000125CA	0x0000002C	[ 41] literal string: application:willFinishLaunchingWithOptions:
+0x1000125F6	0x0000002B	[ 41] literal string: application:didFinishLaunchingWithOptions:
+0x100012621	0x0000001C	[ 41] literal string: applicationDidBecomeActive:
+0x10001263D	0x0000001D	[ 41] literal string: applicationWillResignActive:
+0x10001265A	0x0000001B	[ 41] literal string: application:handleOpenURL:
+0x100012675	0x00000032	[ 41] literal string: application:openURL:sourceApplication:annotation:
+0x1000126A7	0x0000001D	[ 41] literal string: application:openURL:options:
+0x1000126C4	0x00000024	[ 41] literal string: applicationDidReceiveMemoryWarning:
+0x1000126E8	0x0000001A	[ 41] literal string: applicationWillTerminate:
+0x100012702	0x00000022	[ 41] literal string: applicationSignificantTimeChange:
+0x100012724	0x00000035	[ 41] literal string: application:willChangeStatusBarOrientation:duration:
+0x100012759	0x0000002B	[ 41] literal string: application:didChangeStatusBarOrientation:
+0x100012784	0x00000026	[ 41] literal string: application:willChangeStatusBarFrame:
+0x1000127AA	0x00000025	[ 41] literal string: application:didChangeStatusBarFrame:
+0x1000127CF	0x00000031	[ 41] literal string: application:didRegisterUserNotificationSettings:
+0x100012800	0x0000003E	[ 41] literal string: application:didRegisterForRemoteNotificationsWithDeviceToken:
+0x10001283E	0x0000003E	[ 41] literal string: application:didFailToRegisterForRemoteNotificationsWithError:
+0x10001287C	0x0000002A	[ 41] literal string: application:didReceiveRemoteNotification:
+0x1000128A6	0x00000029	[ 41] literal string: application:didReceiveLocalNotification:
+0x1000128CF	0x0000004F	[ 41] literal string: application:handleActionWithIdentifier:forLocalNotification:completionHandler:
+0x10001291E	0x00000061	[ 41] literal string: application:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:
+0x10001297F	0x00000050	[ 41] literal string: application:handleActionWithIdentifier:forRemoteNotification:completionHandler:
+0x1000129CF	0x00000060	[ 41] literal string: application:handleActionWithIdentifier:forLocalNotification:withResponseInfo:completionHandler:
+0x100012A2F	0x00000041	[ 41] literal string: application:didReceiveRemoteNotification:fetchCompletionHandler:
+0x100012A70	0x0000002F	[ 41] literal string: application:performFetchWithCompletionHandler:
+0x100012A9F	0x0000003C	[ 41] literal string: application:performActionForShortcutItem:completionHandler:
+0x100012ADB	0x00000043	[ 41] literal string: application:handleEventsForBackgroundURLSession:completionHandler:
+0x100012B1E	0x00000032	[ 41] literal string: application:handleWatchKitExtensionRequest:reply:
+0x100012B50	0x0000002D	[ 41] literal string: applicationShouldRequestHealthAuthorization:
+0x100012B7D	0x0000001F	[ 41] literal string: applicationDidEnterBackground:
+0x100012B9C	0x00000020	[ 41] literal string: applicationWillEnterForeground:
+0x100012BBC	0x0000002F	[ 41] literal string: applicationProtectedDataWillBecomeUnavailable:
+0x100012BEB	0x0000002C	[ 41] literal string: applicationProtectedDataDidBecomeAvailable:
+0x100012C17	0x00000035	[ 41] literal string: application:supportedInterfaceOrientationsForWindow:
+0x100012C4C	0x00000031	[ 41] literal string: application:shouldAllowExtensionPointIdentifier:
+0x100012C7D	0x0000003F	[ 41] literal string: application:viewControllerWithRestorationIdentifierPath:coder:
+0x100012CBC	0x00000028	[ 41] literal string: application:shouldSaveApplicationState:
+0x100012CE4	0x0000002B	[ 41] literal string: application:shouldRestoreApplicationState:
+0x100012D0F	0x00000030	[ 41] literal string: application:willEncodeRestorableStateWithCoder:
+0x100012D3F	0x0000002F	[ 41] literal string: application:didDecodeRestorableStateWithCoder:
+0x100012D6E	0x0000002E	[ 41] literal string: application:willContinueUserActivityWithType:
+0x100012D9C	0x00000035	[ 41] literal string: application:continueUserActivity:restorationHandler:
+0x100012DD1	0x00000039	[ 41] literal string: application:didFailToContinueUserActivityWithType:error:
+0x100012E0A	0x00000023	[ 41] literal string: application:didUpdateUserActivity:
+0x100012E2D	0x00000034	[ 41] literal string: application:userDidAcceptCloudKitShareWithMetadata:
+0x100012E61	0x0000000B	[ 41] literal string: setWindow:
+0x100012E6C	0x00000011	[ 41] literal string: debugDescription
+0x100012E7D	0x00000009	[ 41] literal string: isEqual:
+0x100012E86	0x00000006	[ 41] literal string: class
+0x100012E8C	0x00000011	[ 41] literal string: performSelector:
+0x100012E9D	0x0000001C	[ 41] literal string: performSelector:withObject:
+0x100012EB9	0x00000027	[ 41] literal string: performSelector:withObject:withObject:
+0x100012EE0	0x00000008	[ 41] literal string: isProxy
+0x100012EE8	0x00000011	[ 41] literal string: isMemberOfClass:
+0x100012EF9	0x00000014	[ 41] literal string: conformsToProtocol:
+0x100012F0D	0x00000014	[ 41] literal string: respondsToSelector:
+0x100012F21	0x00000007	[ 41] literal string: retain
+0x100012F28	0x0000000C	[ 41] literal string: autorelease
+0x100012F34	0x0000000C	[ 41] literal string: retainCount
+0x100012F40	0x00000005	[ 41] literal string: zone
+0x100012F45	0x00000005	[ 41] literal string: hash
+0x100012F4A	0x0000000B	[ 41] literal string: superclass
+0x100012F55	0x0000000C	[ 41] literal string: description
+0x100012F61	0x00000008	[ 41] literal string: dealloc
+0x100012F69	0x00000019	[ 41] literal string: setNavigationController:
+0x100012F82	0x00000012	[ 41] literal string: makeKeyAndVisible
+0x100012F94	0x0000000C	[ 41] literal string: addSubview:
+0x100012FA0	0x00000005	[ 41] literal string: view
+0x100012FA5	0x00000006	[ 41] literal string: mView
+0x100012FAB	0x0000000D	[ 41] literal string: mStartButton
+0x100012FB8	0x0000000C	[ 41] literal string: mCopyButton
+0x100012FC4	0x0000000B	[ 41] literal string: mCutButton
+0x100012FCF	0x0000000D	[ 41] literal string: mPasteButton
+0x100012FDC	0x0000000D	[ 41] literal string: mClearButton
+0x100012FE9	0x0000000D	[ 41] literal string: mSpeedSlider
+0x100012FF6	0x0000000C	[ 41] literal string: mButtonView
+0x100013002	0x00000005	[ 41] literal string: grid
+0x100013007	0x0000000C	[ 41] literal string: controlView
+0x100013013	0x00000009	[ 41] literal string: editView
+0x10001301C	0x00000014	[ 41] literal string: controlViewPortrait
+0x100013030	0x00000015	[ 41] literal string: controlViewLandscape
+0x100013045	0x00000011	[ 41] literal string: editViewPortrait
+0x100013056	0x00000012	[ 41] literal string: editViewLandscape
+0x100013068	0x0000000B	[ 41] literal string: startImage
+0x100013073	0x0000000B	[ 41] literal string: pauseImage
+0x10001307E	0x00000022	[ 41] literal string: actionSheet:clickedButtonAtIndex:
+0x1000130A0	0x00000013	[ 41] literal string: actionSheetCancel:
+0x1000130B3	0x00000018	[ 41] literal string: willPresentActionSheet:
+0x1000130CB	0x00000017	[ 41] literal string: didPresentActionSheet:
+0x1000130E2	0x00000028	[ 41] literal string: actionSheet:willDismissWithButtonIndex:
+0x10001310A	0x00000027	[ 41] literal string: actionSheet:didDismissWithButtonIndex:
+0x100013131	0x0000000C	[ 41] literal string: viewDidLoad
+0x10001313D	0x00000010	[ 41] literal string: viewWillAppear:
+0x10001314D	0x00000023	[ 41] literal string: didRotateFromInterfaceOrientation:
+0x100013170	0x0000000C	[ 41] literal string: layoutItems
+0x10001317C	0x00000012	[ 41] literal string: getLifeViewHeight
+0x10001318E	0x00000005	[ 41] literal string: stop
+0x100013193	0x0000000F	[ 41] literal string: toggleRunning:
+0x1000131A2	0x0000000F	[ 41] literal string: toggleEditMode
+0x1000131B1	0x00000013	[ 41] literal string: installControlView
+0x1000131C4	0x00000010	[ 41] literal string: installEditView
+0x1000131D4	0x00000012	[ 41] literal string: enableEditButtons
+0x1000131E6	0x00000007	[ 41] literal string: doCut:
+0x1000131ED	0x00000011	[ 41] literal string: copyToClipboard:
+0x1000131FE	0x00000009	[ 41] literal string: doPaste:
+0x100013207	0x00000009	[ 41] literal string: doClear:
+0x100013210	0x00000007	[ 41] literal string: setup:
+0x100013217	0x00000009	[ 41] literal string: credits:
+0x100013220	0x00000005	[ 41] literal string: new:
+0x100013225	0x00000011	[ 41] literal string: fileManagerMenu:
+0x100013236	0x00000008	[ 41] literal string: doSave:
+0x10001323E	0x0000000B	[ 41] literal string: saveStart:
+0x100013249	0x0000000C	[ 41] literal string: saveCommon:
+0x100013255	0x00000016	[ 41] literal string: documentDirectoryPath
+0x10001326B	0x00000006	[ 41] literal string: open:
+0x100013271	0x0000000A	[ 41] literal string: doDelete:
+0x10001327B	0x00000009	[ 41] literal string: newGrid:
+0x100013284	0x00000009	[ 41] literal string: setGrid:
+0x10001328D	0x00000010	[ 41] literal string: setControlView:
+0x10001329D	0x0000000D	[ 41] literal string: setEditView:
+0x1000132AA	0x00000018	[ 41] literal string: setControlViewPortrait:
+0x1000132C2	0x00000019	[ 41] literal string: setControlViewLandscape:
+0x1000132DB	0x00000015	[ 41] literal string: setEditViewPortrait:
+0x1000132F0	0x00000016	[ 41] literal string: setEditViewLandscape:
+0x100013306	0x0000000F	[ 41] literal string: setStartImage:
+0x100013315	0x0000000F	[ 41] literal string: setPauseImage:
+0x100013324	0x0000000C	[ 41] literal string: centerImage
+0x100013330	0x00000008	[ 41] literal string: display
+0x100013338	0x0000000D	[ 41] literal string: merge:where:
+0x100013345	0x00000009	[ 41] literal string: clearAll
+0x10001334E	0x00000007	[ 41] literal string: height
+0x100013355	0x00000006	[ 41] literal string: width
+0x10001335B	0x0000001D	[ 41] literal string: pushViewController:animated:
+0x100013378	0x0000000A	[ 41] literal string: setTitle:
+0x100013382	0x00000017	[ 41] literal string: initWithDelegateClass:
+0x100013399	0x00000020	[ 41] literal string: stringByAppendingPathComponent:
+0x1000133B9	0x00000012	[ 41] literal string: write:path:start:
+0x1000133CB	0x00000019	[ 41] literal string: stringByAppendingString:
+0x1000133E4	0x00000018	[ 41] literal string: removeItemAtPath:error:
+0x1000133FC	0x0000001B	[ 41] literal string: queryWith:button1:button2:
+0x100013417	0x00000016	[ 41] literal string: isWritableFileAtPath:
+0x10001342D	0x0000000F	[ 41] literal string: defaultManager
+0x10001343C	0x0000000B	[ 41] literal string: hasSuffix:
+0x100013447	0x0000001E	[ 41] literal string: copyAnswerFor:withTextPrompt:
+0x100013465	0x00000027	[ 41] literal string: performSelector:withObject:afterDelay:
+0x10001348C	0x00000008	[ 41] literal string: delete:
+0x100013494	0x0000000C	[ 41] literal string: showInView:
+0x1000134A0	0x00000053	[ 41] literal string: initWithTitle:delegate:cancelButtonTitle:destructiveButtonTitle:otherButtonTitles:
+0x1000134F3	0x00000010	[ 41] literal string: setNeedsDisplay
+0x100013503	0x0000000E	[ 41] literal string: setSelection:
+0x100013511	0x00000008	[ 41] literal string: running
+0x100013519	0x0000000F	[ 41] literal string: clearSelection
+0x100013528	0x00000006	[ 41] literal string: paste
+0x10001352E	0x00000010	[ 41] literal string: copyToClipboard
+0x10001353E	0x00000004	[ 41] literal string: cut
+0x100013542	0x0000000A	[ 41] literal string: clipboard
+0x10001354C	0x0000000C	[ 41] literal string: setEnabled:
+0x100013558	0x0000000A	[ 41] literal string: selection
+0x100013562	0x0000000A	[ 41] literal string: setFrame:
+0x10001356C	0x00000006	[ 41] literal string: frame
+0x100013572	0x00000014	[ 41] literal string: removeFromSuperview
+0x100013586	0x0000000B	[ 41] literal string: dropCells:
+0x100013591	0x00000013	[ 41] literal string: rightBarButtonItem
+0x1000135A4	0x0000000F	[ 41] literal string: navigationItem
+0x1000135B3	0x0000000D	[ 41] literal string: setEditMode:
+0x1000135C0	0x00000007	[ 41] literal string: start:
+0x1000135C7	0x00000013	[ 41] literal string: setImage:forState:
+0x1000135DA	0x00000006	[ 41] literal string: stop:
+0x1000135E0	0x0000000B	[ 41] literal string: setOrigin:
+0x1000135EB	0x0000000B	[ 41] literal string: pinOrigin:
+0x1000135F6	0x00000007	[ 41] literal string: origin
+0x1000135FD	0x00000006	[ 41] literal string: scale
+0x100013603	0x0000000C	[ 41] literal string: orientation
+0x10001360F	0x0000000E	[ 41] literal string: currentDevice
+0x10001361D	0x0000000B	[ 41] literal string: setAction:
+0x100013628	0x0000000B	[ 41] literal string: setTarget:
+0x100013633	0x00000019	[ 41] literal string: imageWithContentsOfFile:
+0x10001364C	0x0000000B	[ 41] literal string: bundlePath
+0x100013657	0x0000000B	[ 41] literal string: mainBundle
+0x100013662	0x0000000F	[ 41] literal string: setController:
+0x100013671	0x00000018	[ 41] literal string: setTitleColor:forState:
+0x100013689	0x0000000F	[ 41] literal string: lightGrayColor
+0x100013698	0x0000000A	[ 41] literal string: setSpeed:
+0x1000136A2	0x00000006	[ 41] literal string: value
+0x1000136A8	0x00000028	[ 41] literal string: shouldAutorotateToInterfaceOrientation:
+0x1000136D0	0x00000018	[ 41] literal string: didReceiveMemoryWarning
+0x1000136E8	0x0000000E	[ 41] literal string: viewDidUnload
+0x1000136F6	0x00000018	[ 41] literal string: initWithNibName:bundle:
+0x10001370E	0x0000000D	[ 41] literal string: initControls
+0x10001371B	0x0000000D	[ 41] literal string: mStartOrigin
+0x100013728	0x0000000C	[ 41] literal string: mGeneration
+0x100013734	0x0000000C	[ 41] literal string: mTouchCount
+0x100013740	0x0000000C	[ 41] literal string: mTouchStart
+0x10001374C	0x0000000F	[ 41] literal string: mStartLocation
+0x10001375B	0x0000000D	[ 41] literal string: mStartPoints
+0x100013768	0x0000000B	[ 41] literal string: saveOrigin
+0x100013773	0x0000000F	[ 41] literal string: mStartSelCoord
+0x100013782	0x00000012	[ 41] literal string: mRotateCellCorner
+0x100013794	0x0000000F	[ 41] literal string: mRotationAngle
+0x1000137A3	0x00000011	[ 41] literal string: mReflectCellSide
+0x1000137B4	0x00000014	[ 41] literal string: mReflectionDistance
+0x1000137C8	0x0000000F	[ 41] literal string: mOriginalScale
+0x1000137D7	0x0000000B	[ 41] literal string: mSaveDelay
+0x1000137E2	0x0000000E	[ 41] literal string: mPrevEditCell
+0x1000137F0	0x00000012	[ 41] literal string: mPrevEditLocation
+0x100013802	0x0000000B	[ 41] literal string: controller
+0x10001380D	0x0000000C	[ 41] literal string: displayLink
+0x100013819	0x0000000B	[ 41] literal string: mGridLines
+0x100013824	0x00000007	[ 41] literal string: mBegan
+0x10001382B	0x00000009	[ 41] literal string: mKilling
+0x100013834	0x00000009	[ 41] literal string: editMode
+0x10001383D	0x00000017	[ 41] literal string: isMultipleTouchEnabled
+0x100013854	0x0000000D	[ 41] literal string: displayTick:
+0x100013861	0x0000000F	[ 41] literal string: initWithCoder:
+0x100013870	0x0000000D	[ 41] literal string: awakeFromNib
+0x10001387D	0x00000018	[ 41] literal string: touchesBegan:withEvent:
+0x100013895	0x00000018	[ 41] literal string: touchesMoved:withEvent:
+0x1000138AD	0x00000018	[ 41] literal string: touchesEnded:withEvent:
+0x1000138C5	0x00000011	[ 41] literal string: touchesOneBegan:
+0x1000138D6	0x00000011	[ 41] literal string: singleTap:where:
+0x1000138E7	0x00000011	[ 41] literal string: doubleTap:where:
+0x1000138F8	0x00000011	[ 41] literal string: touchesTwoBegan:
+0x100013909	0x00000010	[ 41] literal string: trackSelection:
+0x100013919	0x00000011	[ 41] literal string: rotateSelection:
+0x10001392A	0x00000012	[ 41] literal string: reflectSelection:
+0x10001393C	0x0000000A	[ 41] literal string: angle:to:
+0x100013946	0x00000019	[ 41] literal string: touchesOneMoved:touches:
+0x10001395F	0x0000000E	[ 41] literal string: editOneMoved:
+0x10001396D	0x0000000F	[ 41] literal string: moveSelection:
+0x10001397C	0x00000019	[ 41] literal string: touchesTwoMoved:touches:
+0x100013995	0x00000016	[ 41] literal string: arrayToPoint:atIndex:
+0x1000139AB	0x00000010	[ 41] literal string: touchesToArray:
+0x1000139BB	0x0000000F	[ 41] literal string: setGeneration:
+0x1000139CA	0x00000010	[ 41] literal string: invalidateCell:
+0x1000139DA	0x0000000A	[ 41] literal string: drawRect:
+0x1000139E4	0x00000020	[ 41] literal string: drawHorizontalGridLine:from:to:
+0x100013A04	0x0000001E	[ 41] literal string: drawVerticalGridLine:from:to:
+0x100013A22	0x0000000E	[ 41] literal string: coordToPoint:
+0x100013A30	0x00000011	[ 41] literal string: locationToPoint:
+0x100013A41	0x00000012	[ 41] literal string: coordToRect:size:
+0x100013A53	0x0000000A	[ 41] literal string: drawCell:
+0x100013A5D	0x00000014	[ 41] literal string: drawLine:cellCount:
+0x100013A71	0x00000014	[ 41] literal string: restoreAffineMatrix
+0x100013A85	0x0000000E	[ 41] literal string: drawSelection
+0x100013A93	0x00000012	[ 41] literal string: drawSelectionGrid
+0x100013AA5	0x00000015	[ 41] literal string: drawRotatedSelection
+0x100013ABA	0x00000017	[ 41] literal string: drawReflectedSelection
+0x100013AD1	0x00000015	[ 41] literal string: drawSelectionCorner:
+0x100013AE6	0x00000013	[ 41] literal string: drawSelectionEdge:
+0x100013AF9	0x0000000D	[ 41] literal string: distance:to:
+0x100013B06	0x00000005	[ 41] literal string: size
+0x100013B0B	0x00000004	[ 41] literal string: set
+0x100013B0F	0x0000000C	[ 41] literal string: yellowColor
+0x100013B1B	0x00000006	[ 41] literal string: cells
+0x100013B21	0x0000000B	[ 41] literal string: blackColor
+0x100013B2C	0x0000000B	[ 41] literal string: greenColor
+0x100013B37	0x0000000D	[ 41] literal string: setDrawTime:
+0x100013B44	0x00000007	[ 41] literal string: unlock
+0x100013B4B	0x0000000D	[ 41] literal string: nextRun:row:
+0x100013B58	0x00000008	[ 41] literal string: getRow:
+0x100013B60	0x00000005	[ 41] literal string: lock
+0x100013B65	0x0000000A	[ 41] literal string: cyanColor
+0x100013B6F	0x0000000E	[ 41] literal string: pointToCoord:
+0x100013B7D	0x00000017	[ 41] literal string: setNeedsDisplayInRect:
+0x100013B94	0x0000000B	[ 41] literal string: addObject:
+0x100013B9F	0x00000019	[ 41] literal string: valueWithBytes:objCType:
+0x100013BB8	0x00000010	[ 41] literal string: locationInView:
+0x100013BC8	0x0000000F	[ 41] literal string: objectAtIndex:
+0x100013BD7	0x0000000B	[ 41] literal string: allObjects
+0x100013BE2	0x00000013	[ 41] literal string: arrayWithCapacity:
+0x100013BF5	0x00000006	[ 41] literal string: count
+0x100013BFB	0x0000000A	[ 41] literal string: getValue:
+0x100013C05	0x0000000A	[ 41] literal string: setScale:
+0x100013C0F	0x00000007	[ 41] literal string: bounds
+0x100013C16	0x0000000A	[ 41] literal string: pinScale:
+0x100013C20	0x00000008	[ 41] literal string: inside:
+0x100013C28	0x0000000F	[ 41] literal string: setCell:state:
+0x100013C37	0x00000007	[ 41] literal string: state:
+0x100013C3E	0x0000000A	[ 41] literal string: anyObject
+0x100013C48	0x00000012	[ 41] literal string: reflectHorizontal
+0x100013C5A	0x00000010	[ 41] literal string: reflectVertical
+0x100013C6A	0x0000000C	[ 41] literal string: rotateRight
+0x100013C76	0x0000000B	[ 41] literal string: rotateLeft
+0x100013C81	0x0000000B	[ 41] literal string: grabCells:
+0x100013C8C	0x0000000B	[ 41] literal string: init:size:
+0x100013C97	0x00000008	[ 41] literal string: toggle:
+0x100013C9F	0x0000000E	[ 41] literal string: inLivingCell:
+0x100013CAD	0x00000016	[ 41] literal string: inSideHandleLocation:
+0x100013CC3	0x0000000A	[ 41] literal string: inCorner:
+0x100013CCD	0x00000011	[ 41] literal string: pointToLocation:
+0x100013CDE	0x00000009	[ 41] literal string: tapCount
+0x100013CE7	0x0000000A	[ 41] literal string: timestamp
+0x100013CF1	0x00000009	[ 41] literal string: initGrid
+0x100013CFA	0x0000000A	[ 41] literal string: setWidth:
+0x100013D04	0x0000000B	[ 41] literal string: setHeight:
+0x100013D0F	0x0000000B	[ 41] literal string: mainScreen
+0x100013D1A	0x00000017	[ 41] literal string: setContentScaleFactor:
+0x100013D31	0x00000013	[ 41] literal string: setGensPerRefresh:
+0x100013D44	0x0000000F	[ 41] literal string: gensPerRefresh
+0x100013D53	0x00000003	[ 41] literal string: cx
+0x100013D56	0x00000003	[ 41] literal string: cy
+0x100013D59	0x00000003	[ 41] literal string: cz
+0x100013D5C	0x00000003	[ 41] literal string: lx
+0x100013D5F	0x00000003	[ 41] literal string: ly
+0x100013D62	0x00000003	[ 41] literal string: lz
+0x100013D65	0x00000003	[ 41] literal string: px
+0x100013D68	0x00000003	[ 41] literal string: py
+0x100013D6B	0x00000003	[ 41] literal string: pz
+0x100013D6E	0x00000011	[ 41] literal string: angleSensitivity
+0x100013D7F	0x00000011	[ 41] literal string: forceSensitivity
+0x100013D90	0x00000009	[ 41] literal string: _lockout
+0x100013D99	0x0000000D	[ 41] literal string: _triggerTime
+0x100013DA6	0x00000009	[ 41] literal string: delegate
+0x100013DAF	0x0000000E	[ 41] literal string: motionManager
+0x100013DBD	0x00000008	[ 41] literal string: lockout
+0x100013DC5	0x0000000C	[ 41] literal string: triggerTime
+0x100013DD1	0x0000001D	[ 41] literal string: accelerometer:didAccelerate:
+0x100013DEE	0x00000006	[ 41] literal string: start
+0x100013DF4	0x0000000E	[ 41] literal string: sharedManager
+0x100013E02	0x00000006	[ 41] literal string: setX:
+0x100013E08	0x00000006	[ 41] literal string: setY:
+0x100013E0E	0x00000006	[ 41] literal string: setZ:
+0x100013E14	0x00000007	[ 41] literal string: dAngle
+0x100013E1B	0x0000000D	[ 41] literal string: acceleration
+0x100013E28	0x0000000D	[ 41] literal string: checkTrigger
+0x100013E35	0x00000006	[ 41] literal string: reset
+0x100013E3B	0x00000010	[ 41] literal string: setTriggerTime:
+0x100013E4B	0x0000000C	[ 41] literal string: setLockout:
+0x100013E57	0x00000015	[ 41] literal string: setAngleSensitivity:
+0x100013E6C	0x00000015	[ 41] literal string: setForceSensitivity:
+0x100013E81	0x0000000D	[ 41] literal string: setDelegate:
+0x100013E8E	0x00000006	[ 41] literal string: shake
+0x100013E94	0x00000005	[ 41] literal string: ping
+0x100013E99	0x00000002	[ 41] literal string: z
+0x100013E9B	0x00000002	[ 41] literal string: y
+0x100013E9D	0x00000002	[ 41] literal string: x
+0x100013E9F	0x00000017	[ 41] literal string: timeIntervalSinceDate:
+0x100013EB6	0x00000005	[ 41] literal string: date
+0x100013EBB	0x0000002E	[ 41] literal string: startAccelerometerUpdatesToQueue:withHandler:
+0x100013EE9	0x0000000A	[ 41] literal string: mainQueue
+0x100013EF3	0x00000020	[ 41] literal string: setAccelerometerUpdateInterval:
+0x100013F13	0x00000019	[ 41] literal string: isAccelerometerAvailable
+0x100013F2C	0x00000009	[ 41] literal string: subviews
+0x100013F35	0x0000002B	[ 41] literal string: countByEnumeratingWithState:objects:count:
+0x100013F60	0x0000001F	[ 41] literal string: arrayByAddingObjectsFromArray:
+0x100013F7F	0x0000000F	[ 41] literal string: okAlert:title:
+0x100013F8E	0x00000026	[ 41] literal string: copyAnswerFor:prompt:button1:button2:
+0x100013FB4	0x00000009	[ 41] literal string: confirm:
+0x100013FBD	0x00000005	[ 41] literal string: ask:
+0x100013FC2	0x00000005	[ 41] literal string: copy
+0x100013FC7	0x00000005	[ 41] literal string: text
+0x100013FCC	0x00000006	[ 41] literal string: index
+0x100013FD2	0x0000000B	[ 41] literal string: moveAlert:
+0x100013FDD	0x0000000B	[ 41] literal string: setCenter:
+0x100013FE8	0x00000005	[ 41] literal string: show
+0x100013FED	0x0000001D	[ 41] literal string: setContentVerticalAlignment:
+0x10001400A	0x00000017	[ 41] literal string: setAutocorrectionType:
+0x100014021	0x0000001B	[ 41] literal string: setAutocapitalizationType:
+0x10001403C	0x00000017	[ 41] literal string: setKeyboardAppearance:
+0x100014053	0x00000011	[ 41] literal string: setKeyboardType:
+0x100014064	0x00000014	[ 41] literal string: setClearButtonMode:
+0x100014078	0x00000010	[ 41] literal string: setPlaceholder:
+0x100014088	0x00000008	[ 41] literal string: setTag:
+0x100014090	0x00000010	[ 41] literal string: setBorderStyle:
+0x1000140A0	0x0000000F	[ 41] literal string: initWithFrame:
+0x1000140AF	0x00000044	[ 41] literal string: initWithTitle:message:delegate:cancelButtonTitle:otherButtonTitles:
+0x1000140F3	0x00000011	[ 41] literal string: initWithRunLoop:
+0x100014104	0x0000000C	[ 41] literal string: currentLoop
+0x100014110	0x00000009	[ 41] literal string: textView
+0x100014119	0x00000020	[ 41] literal string: alertView:clickedButtonAtIndex:
+0x100014139	0x00000011	[ 41] literal string: alertViewCancel:
+0x10001414A	0x00000016	[ 41] literal string: willPresentAlertView:
+0x100014160	0x00000015	[ 41] literal string: didPresentAlertView:
+0x100014175	0x00000026	[ 41] literal string: alertView:willDismissWithButtonIndex:
+0x10001419B	0x00000025	[ 41] literal string: alertView:didDismissWithButtonIndex:
+0x1000141C0	0x00000027	[ 41] literal string: alertViewShouldEnableFirstOtherButton:
+0x1000141E7	0x0000000C	[ 41] literal string: isLandscape
+0x1000141F3	0x00000009	[ 41] literal string: setText:
+0x1000141FC	0x00000015	[ 41] literal string: becomeFirstResponder
+0x100014211	0x0000000D	[ 41] literal string: viewWithTag:
+0x10001421E	0x00000011	[ 41] literal string: commitAnimations
+0x10001422F	0x00000016	[ 41] literal string: setAnimationDuration:
+0x100014245	0x00000013	[ 41] literal string: setAnimationCurve:
+0x100014258	0x00000019	[ 41] literal string: beginAnimations:context:
+0x100014271	0x00000004	[ 41] literal string: tag
+0x100014275	0x00000013	[ 41] literal string: initWithSelection:
+0x100014288	0x00000009	[ 41] literal string: setSize:
+0x100014291	0x0000000A	[ 41] literal string: setCells:
+0x10001429B	0x00000009	[ 41] literal string: drawTime
+0x1000142A4	0x00000007	[ 41] literal string: center
+0x1000142AB	0x00000012	[ 41] literal string: boundingBox:size:
+0x1000142BD	0x0000000A	[ 41] literal string: startDate
+0x1000142C7	0x0000000D	[ 41] literal string: mDisplayGrid
+0x1000142D4	0x0000000D	[ 41] literal string: mScratchGrid
+0x1000142E1	0x0000000A	[ 41] literal string: mCopyGrid
+0x1000142EB	0x00000006	[ 41] literal string: mLock
+0x1000142F1	0x00000009	[ 41] literal string: tickTime
+0x1000142FA	0x00000008	[ 41] literal string: runLoop
+0x100014302	0x00000008	[ 41] literal string: maxGens
+0x10001430A	0x0000000D	[ 41] literal string: throttleGens
+0x100014317	0x0000000F	[ 41] literal string: genCounterLock
+0x100014326	0x0000000F	[ 41] literal string: mAccelerometer
+0x100014335	0x00000011	[ 41] literal string: shakeToRandomize
+0x100014346	0x00000009	[ 41] literal string: mRunning
+0x10001434F	0x00000009	[ 41] literal string: mDelayed
+0x100014358	0x0000000D	[ 41] literal string: mElapsedTime
+0x100014365	0x00000010	[ 41] literal string: mSpeedCondition
+0x100014375	0x00000010	[ 41] literal string: speedCalibrated
+0x100014385	0x00000007	[ 41] literal string: edited
+0x10001438C	0x00000006	[ 41] literal string: speed
+0x100014392	0x00000008	[ 41] literal string: tickSum
+0x10001439A	0x0000000C	[ 41] literal string: tickAverage
+0x1000143A6	0x0000000C	[ 41] literal string: tickSamples
+0x1000143B2	0x00000005	[ 41] literal string: tick
+0x1000143B7	0x0000000D	[ 41] literal string: getStartRow:
+0x1000143C4	0x0000000C	[ 41] literal string: setRunning:
+0x1000143D0	0x00000006	[ 41] literal string: step:
+0x1000143D6	0x00000012	[ 41] literal string: cycleContinuously
+0x1000143E8	0x00000009	[ 41] literal string: copyGrid
+0x1000143F1	0x0000000F	[ 41] literal string: resize:height:
+0x100014400	0x0000000B	[ 41] literal string: allocGrid:
+0x10001440B	0x00000013	[ 41] literal string: freeGrid:withSize:
+0x10001441E	0x0000000D	[ 41] literal string: adjustSpeed:
+0x10001442B	0x0000000F	[ 41] literal string: getDisplayGrid
+0x10001443A	0x0000000B	[ 41] literal string: randomize:
+0x100014445	0x00000017	[ 41] literal string: startBoundingBox:size:
+0x10001445C	0x00000019	[ 41] literal string: boundCommon:origin:size:
+0x100014475	0x0000000E	[ 41] literal string: setClipboard:
+0x100014483	0x0000000B	[ 41] literal string: setEdited:
+0x10001448E	0x0000000C	[ 41] literal string: setDisplay:
+0x10001449A	0x00000015	[ 41] literal string: setShakeToRandomize:
+0x1000144AF	0x0000000C	[ 41] literal string: setTickSum:
+0x1000144BB	0x00000010	[ 41] literal string: setTickAverage:
+0x1000144CB	0x00000010	[ 41] literal string: setTickSamples:
+0x1000144DB	0x00000013	[ 41] literal string: initWithClipboard:
+0x1000144EE	0x0000000B	[ 41] literal string: invalidate
+0x1000144F9	0x00000005	[ 41] literal string: wait
+0x1000144FE	0x00000016	[ 41] literal string: addToRunLoop:forMode:
+0x100014514	0x00000020	[ 41] literal string: displayLinkWithTarget:selector:
+0x100014534	0x00000007	[ 41] literal string: signal
+0x10001453B	0x0000002D	[ 41] literal string: detachNewThreadSelector:toTarget:withObject:
+0x100014568	0x0000000B	[ 41] literal string: runThread:
+0x100014573	0x00000016	[ 41] literal string: didChangeValueForKey:
+0x100014589	0x00000017	[ 41] literal string: willChangeValueForKey:
+0x1000145A0	0x0000000F	[ 41] literal string: currentRunLoop
+0x1000145AF	0x00000012	[ 41] literal string: setFrameInterval:
+0x1000145C1	0x00000004	[ 41] literal string: new
+0x1000145C5	0x0000001F	[ 41] literal string: writeBuffer:handle:lineLength:
+0x1000145E4	0x0000000D	[ 41] literal string: alloc:error:
+0x1000145F1	0x00000017	[ 41] literal string: readHeader:grid:error:
+0x100014608	0x0000001C	[ 41] literal string: readRow:grid:row:eof:error:
+0x100014624	0x00000028	[ 41] literal string: readTag:runLength:alive:rows:eof:error:
+0x10001464C	0x00000012	[ 41] literal string: eatEOLMarker:eof:
+0x10001465E	0x0000000F	[ 41] literal string: eatWhiteSpace:
+0x10001466D	0x0000000C	[ 41] literal string: eatComment:
+0x100014679	0x00000008	[ 41] literal string: eatEOL:
+0x100014681	0x00000012	[ 41] literal string: seekToFileOffset:
+0x100014693	0x0000000D	[ 41] literal string: offsetInFile
+0x1000146A0	0x00000011	[ 41] literal string: getBytes:length:
+0x1000146B1	0x00000012	[ 41] literal string: readDataOfLength:
+0x1000146C3	0x0000000A	[ 41] literal string: closeFile
+0x1000146CD	0x0000001C	[ 41] literal string: fileHandleForReadingAtPath:
+0x1000146E9	0x0000000B	[ 41] literal string: writeData:
+0x1000146F4	0x00000016	[ 41] literal string: dataWithBytes:length:
+0x10001470A	0x0000001C	[ 41] literal string: fileHandleForWritingAtPath:
+0x100014726	0x00000026	[ 41] literal string: createFileAtPath:contents:attributes:
+0x10001474C	0x00000005	[ 41] literal string: data
+0x100014751	0x0000000E	[ 41] literal string: allocateCells
+0x10001475F	0x00000010	[ 41] literal string: insideLocation:
+0x10001476F	0x0000000E	[ 41] literal string: inSideHandle:
+0x10001477D	0x00000010	[ 41] literal string: freeCells:rows:
+0x10001478D	0x00000007	[ 41] literal string: mWidth
+0x100014794	0x00000008	[ 41] literal string: mHeight
+0x10001479C	0x00000009	[ 41] literal string: portrait
+0x1000147A5	0x0000000A	[ 41] literal string: landscape
+0x1000147AF	0x00000017	[ 41] literal string: shakeToRandomizeSwitch
+0x1000147C6	0x0000001D	[ 41] literal string: textFieldShouldBeginEditing:
+0x1000147E3	0x0000001A	[ 41] literal string: textFieldDidBeginEditing:
+0x1000147FD	0x0000001B	[ 41] literal string: textFieldShouldEndEditing:
+0x100014818	0x00000018	[ 41] literal string: textFieldDidEndEditing:
+0x100014830	0x0000001F	[ 41] literal string: textFieldDidEndEditing:reason:
+0x10001484F	0x0000003B	[ 41] literal string: textField:shouldChangeCharactersInRange:replacementString:
+0x10001488A	0x00000016	[ 41] literal string: textFieldShouldClear:
+0x1000148A0	0x00000017	[ 41] literal string: textFieldShouldReturn:
+0x1000148B7	0x00000008	[ 41] literal string: resize:
+0x1000148BF	0x00000012	[ 41] literal string: shakeToRandomize:
+0x1000148D1	0x0000000D	[ 41] literal string: resizeCommon
+0x1000148DE	0x00000004	[ 41] literal string: ok:
+0x1000148E2	0x00000008	[ 41] literal string: cancel:
+0x1000148EA	0x00000008	[ 41] literal string: manual:
+0x1000148F2	0x00000009	[ 41] literal string: closeIt:
+0x1000148FB	0x0000000D	[ 41] literal string: setPortrait:
+0x100014908	0x0000000E	[ 41] literal string: setLandscape:
+0x100014916	0x0000001B	[ 41] literal string: setShakeToRandomizeSwitch:
+0x100014931	0x00000024	[ 41] literal string: dismissModalViewControllerAnimated:
+0x100014955	0x00000015	[ 41] literal string: parentViewController
+0x10001496A	0x0000002A	[ 41] literal string: dismissViewControllerAnimated:completion:
+0x100014994	0x00000015	[ 41] literal string: resignFirstResponder
+0x1000149A9	0x00000011	[ 41] literal string: isEqualToString:
+0x1000149BA	0x00000007	[ 41] literal string: length
+0x1000149C1	0x00000009	[ 41] literal string: intValue
+0x1000149CA	0x00000005	[ 41] literal string: isOn
+0x1000149CF	0x00000010	[ 41] literal string: setOn:animated:
+0x1000149DF	0x00000011	[ 41] literal string: applicationFrame
+0x1000149F0	0x00000012	[ 41] literal string: stringWithFormat:
+0x100014A02	0x00000006	[ 41] literal string: setup
+0x100014A08	0x00000015	[ 41] literal string: doIt:viewController:
+0x100014A1D	0x0000000A	[ 41] literal string: setSetup:
+0x100014A27	0x00000006	[ 41] literal string: files
+0x100014A2D	0x00000008	[ 41] literal string: remove:
+0x100014A35	0x0000001D	[ 41] literal string: numberOfSectionsInTableView:
+0x100014A52	0x00000021	[ 41] literal string: tableView:numberOfRowsInSection:
+0x100014A73	0x00000021	[ 41] literal string: tableView:cellForRowAtIndexPath:
+0x100014A94	0x00000023	[ 41] literal string: tableView:didSelectRowAtIndexPath:
+0x100014AB7	0x00000004	[ 41] literal string: row
+0x100014ABB	0x0000000A	[ 41] literal string: textLabel
+0x100014AC5	0x0000001F	[ 41] literal string: initWithStyle:reuseIdentifier:
+0x100014AE4	0x00000023	[ 41] literal string: dequeueReusableCellWithIdentifier:
+0x100014B07	0x00000010	[ 41] literal string: tableHeaderView
+0x100014B17	0x0000000A	[ 41] literal string: tableView
+0x100014B21	0x00000021	[ 41] literal string: popToRootViewControllerAnimated:
+0x100014B42	0x00000010	[ 41] literal string: viewControllers
+0x100014B52	0x00000004	[ 41] literal string: imp
+0x100014B56	0x0000000E	[ 41] literal string: removeObject:
+0x100014B64	0x00000012	[ 41] literal string: enumeratorAtPath:
+0x100014B76	0x0000000B	[ 41] literal string: reloadData
+0x100014B81	0x00000013	[ 41] literal string: userInterfaceIdiom
+0x100014B94	0x0000001F	[ 41] literal string: supportedInterfaceOrientations
+0x100014BB3	0x00000009	[ 41] literal string: website:
+0x100014BBC	0x00000011	[ 41] literal string: shouldAutorotate
+0x100014BCD	0x00000009	[ 41] literal string: openURL:
+0x100014BD6	0x00000012	[ 41] literal string: sharedApplication
+0x100014BE8	0x0000000F	[ 41] literal string: URLWithString:
+0x100014BF7	0x0000001C	[ 41] literal string: objectForInfoDictionaryKey:
+0x100014C13	0x00000025	[ 41] literal string: presentModalViewController:animated:
+0x100014C38	0x0000002B	[ 41] literal string: presentViewController:animated:completion:
+0x100014C63	0x00000008	[ 41] literal string: webView
+0x100014C6B	0x0000000F	[ 41] literal string: viewDidAppear:
+0x100014C7A	0x0000000D	[ 41] literal string: loadRequest:
+0x100014C87	0x00000010	[ 41] literal string: requestWithURL:
+0x100014C97	0x0000001E	[ 41] literal string: URLForResource:withExtension:
+0x100014CB5	0x00000004	[ 37] literal string: v@:
+0x100014CB9	0x0000000B	[ 37] literal string: @24@0:8@16
+0x100014CC4	0x0000000E	[ 37] literal string: v32@0:8@16@24
+0x100014CD2	0x0000000C	[ 41] literal string: @"UIWindow"
+0x100014CDE	0x0000001A	[ 41] literal string: @"UINavigationController"
+0x100014CF8	0x0000001A	[ 41] literal string: v24@0:8@"UIApplication"16
+0x100014D12	0x0000002B	[ 41] literal string: B32@0:8@"UIApplication"16@"NSDictionary"24
+0x100014D3D	0x00000024	[ 41] literal string: B32@0:8@"UIApplication"16@"NSURL"24
+0x100014D61	0x00000034	[ 41] literal string: B48@0:8@"UIApplication"16@"NSURL"24@"NSString"32@40
+0x100014D95	0x00000035	[ 41] literal string: B40@0:8@"UIApplication"16@"NSURL"24@"NSDictionary"32
+0x100014DCA	0x00000020	[ 41] literal string: v40@0:8@"UIApplication"16q24d32
+0x100014DEA	0x0000001D	[ 41] literal string: v32@0:8@"UIApplication"16q24
+0x100014E07	0x0000003C	[ 41] literal string: v56@0:8@"UIApplication"16{CGRect={CGPoint=dd}{CGSize=dd}}24
+0x100014E43	0x00000039	[ 41] literal string: v32@0:8@"UIApplication"16@"UIUserNotificationSettings"24
+0x100014E7C	0x00000025	[ 41] literal string: v32@0:8@"UIApplication"16@"NSData"24
+0x100014EA1	0x00000026	[ 41] literal string: v32@0:8@"UIApplication"16@"NSError"24
+0x100014EC7	0x0000002B	[ 41] literal string: v32@0:8@"UIApplication"16@"NSDictionary"24
+0x100014EF2	0x00000032	[ 41] literal string: v32@0:8@"UIApplication"16@"UILocalNotification"24
+0x100014F24	0x00000048	[ 41] literal string: v48@0:8@"UIApplication"16@"NSString"24@"UILocalNotification"32@?<v@?>40
+0x100014F6C	0x00000052	[ 41] literal string: v56@0:8@"UIApplication"16@"NSString"24@"NSDictionary"32@"NSDictionary"40@?<v@?>48
+0x100014FBE	0x00000041	[ 41] literal string: v48@0:8@"UIApplication"16@"NSString"24@"NSDictionary"32@?<v@?>40
+0x100014FFF	0x00000059	[ 41] literal string: v56@0:8@"UIApplication"16@"NSString"24@"UILocalNotification"32@"NSDictionary"40@?<v@?>48
+0x100015058	0x00000035	[ 41] literal string: v40@0:8@"UIApplication"16@"NSDictionary"24@?<v@?Q>32
+0x10001508D	0x00000024	[ 41] literal string: v32@0:8@"UIApplication"16@?<v@?Q>24
+0x1000150B1	0x00000042	[ 41] literal string: v40@0:8@"UIApplication"16@"UIApplicationShortcutItem"24@?<v@?B>32
+0x1000150F3	0x00000030	[ 41] literal string: v40@0:8@"UIApplication"16@"NSString"24@?<v@?>32
+0x100015123	0x00000043	[ 41] literal string: v40@0:8@"UIApplication"16@"NSDictionary"24@?<v@?@"NSDictionary">32
+0x100015166	0x00000027	[ 41] literal string: Q32@0:8@"UIApplication"16@"UIWindow"24
+0x10001518D	0x00000027	[ 41] literal string: B32@0:8@"UIApplication"16@"NSString"24
+0x1000151B4	0x00000044	[ 41] literal string: @"UIViewController"40@0:8@"UIApplication"16@"NSArray"24@"NSCoder"32
+0x1000151F8	0x00000026	[ 41] literal string: B32@0:8@"UIApplication"16@"NSCoder"24
+0x10001521E	0x00000026	[ 41] literal string: v32@0:8@"UIApplication"16@"NSCoder"24
+0x100015244	0x00000040	[ 41] literal string: B40@0:8@"UIApplication"16@"NSUserActivity"24@?<v@?@"NSArray">32
+0x100015284	0x00000033	[ 41] literal string: v40@0:8@"UIApplication"16@"NSString"24@"NSError"32
+0x1000152B7	0x0000002D	[ 41] literal string: v32@0:8@"UIApplication"16@"NSUserActivity"24
+0x1000152E4	0x0000002E	[ 41] literal string: v32@0:8@"UIApplication"16@"CKShareMetadata"24
+0x100015312	0x00000012	[ 41] literal string: @"UIWindow"16@0:8
+0x100015324	0x00000015	[ 41] literal string: v24@0:8@"UIWindow"16
+0x100015339	0x0000000B	[ 41] literal string: v24@0:8@16
+0x100015344	0x0000000E	[ 41] literal string: B32@0:8@16@24
+0x100015352	0x00000014	[ 41] literal string: B48@0:8@16@24@32@40
+0x100015366	0x00000011	[ 41] literal string: B40@0:8@16@24@32
+0x100015377	0x00000011	[ 41] literal string: v40@0:8@16q24d32
+0x100015388	0x0000000E	[ 41] literal string: v32@0:8@16q24
+0x100015396	0x0000002D	[ 41] literal string: v56@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24
+0x1000153C3	0x00000015	[ 41] literal string: v48@0:8@16@24@32@?40
+0x1000153D8	0x00000018	[ 41] literal string: v56@0:8@16@24@32@40@?48
+0x1000153F0	0x00000012	[ 41] literal string: v40@0:8@16@24@?32
+0x100015402	0x0000000F	[ 41] literal string: v32@0:8@16@?24
+0x100015411	0x0000000E	[ 41] literal string: Q32@0:8@16@24
+0x10001541F	0x00000011	[ 41] literal string: @40@0:8@16@24@32
+0x100015430	0x00000012	[ 41] literal string: B40@0:8@16@24@?32
+0x100015442	0x00000011	[ 41] literal string: v40@0:8@16@24@32
+0x100015453	0x00000008	[ 41] literal string: @16@0:8
+0x10001545B	0x0000000B	[ 41] literal string: B24@0:8@16
+0x100015466	0x00000008	[ 41] literal string: #16@0:8
+0x10001546E	0x0000000B	[ 41] literal string: @24@0:8:16
+0x100015479	0x0000000E	[ 41] literal string: @32@0:8:16@24
+0x100015487	0x00000011	[ 41] literal string: @40@0:8:16@24@32
+0x100015498	0x00000008	[ 41] literal string: B16@0:8
+0x1000154A0	0x0000000B	[ 41] literal string: B24@0:8#16
+0x1000154AB	0x00000015	[ 41] literal string: B24@0:8@"Protocol"16
+0x1000154C0	0x0000000B	[ 41] literal string: B24@0:8:16
+0x1000154CB	0x00000009	[ 41] literal string: Vv16@0:8
+0x1000154D4	0x00000008	[ 41] literal string: Q16@0:8
+0x1000154DC	0x00000012	[ 41] literal string: ^{_NSZone=}16@0:8
+0x1000154EE	0x00000012	[ 41] literal string: @"NSString"16@0:8
+0x100015500	0x00000008	[ 41] literal string: v16@0:8
+0x100015508	0x0000000C	[ 41] literal string: @"LifeView"
+0x100015514	0x0000000C	[ 41] literal string: @"UIButton"
+0x100015520	0x0000000C	[ 41] literal string: @"UISlider"
+0x10001552C	0x0000000A	[ 41] literal string: @"UIView"
+0x100015536	0x0000000C	[ 41] literal string: @"LifeGrid"
+0x100015542	0x0000000B	[ 41] literal string: @"UIImage"
+0x10001554D	0x0000001D	[ 41] literal string: v32@0:8@"UIActionSheet"16q24
+0x10001556A	0x0000001A	[ 41] literal string: v24@0:8@"UIActionSheet"16
+0x100015584	0x0000000B	[ 41] literal string: v20@0:8B16
+0x10001558F	0x0000000B	[ 41] literal string: v24@0:8q16
+0x10001559A	0x00000008	[ 41] literal string: f16@0:8
+0x1000155A2	0x0000000B	[ 41] literal string: B24@0:8q16
+0x1000155AD	0x00000013	[ 41] literal string: {CGPoint="x"d"y"d}
+0x1000155C0	0x00000002	[ 41] literal string: q
+0x1000155C2	0x00000002	[ 41] literal string: Q
+0x1000155C4	0x00000002	[ 41] literal string: d
+0x1000155C6	0x00000012	[ 41] literal string: @"NSMutableArray"
+0x1000155D8	0x00000011	[ 41] literal string: {?="row"q"col"q}
+0x1000155E9	0x00000002	[ 41] literal string: i
+0x1000155EB	0x00000002	[ 41] literal string: f
+0x1000155ED	0x00000011	[ 41] literal string: {?="row"f"col"f}
+0x1000155FE	0x00000019	[ 41] literal string: @"LifeIOSViewController"
+0x100015617	0x00000011	[ 41] literal string: @"CADisplayLink"
+0x100015628	0x00000002	[ 41] literal string: B
+0x10001562A	0x00000019	[ 41] literal string: v40@0:8d16{CGPoint=dd}24
+0x100015643	0x00000024	[ 41] literal string: f48@0:8{CGPoint=dd}16{CGPoint=dd}32
+0x100015667	0x0000000E	[ 41] literal string: v32@0:8d16@24
+0x100015675	0x00000010	[ 41] literal string: B32@0:8{?=qq}16
+0x100015685	0x00000019	[ 41] literal string: {CGPoint=dd}28@0:8@16i24
+0x10001569E	0x00000010	[ 41] literal string: v32@0:8{?=qq}16
+0x1000156AE	0x0000002A	[ 41] literal string: v48@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16
+0x1000156D8	0x00000011	[ 41] literal string: v40@0:8q16q24q32
+0x1000156E9	0x0000001B	[ 41] literal string: {CGPoint=dd}32@0:8{?=qq}16
+0x100015704	0x0000001B	[ 41] literal string: {CGPoint=dd}24@0:8{?=ff}16
+0x10001571F	0x00000037	[ 41] literal string: {CGRect={CGPoint=dd}{CGSize=dd}}48@0:8{?=qq}16{?=qq}32
+0x100015756	0x00000013	[ 41] literal string: v40@0:8{?=qq}16q32
+0x100015769	0x00000010	[ 41] literal string: v24@0:8{?=ff}16
+0x100015779	0x0000000A	[ 41] literal string: @"NSDate"
+0x100015783	0x00000002	[ 41] literal string: @
+0x100015785	0x00000013	[ 41] literal string: @"CMMotionManager"
+0x100015798	0x0000002F	[ 41] literal string: v32@0:8@"UIAccelerometer"16@"UIAcceleration"24
+0x1000157C7	0x0000000B	[ 41] literal string: v20@0:8f16
+0x1000157D2	0x00000011	[ 41] literal string: Q40@0:8@16@24@32
+0x1000157E3	0x00000014	[ 41] literal string: @48@0:8@16@24@32@40
+0x1000157F7	0x0000000E	[ 41] literal string: @32@0:8@16@24
+0x100015805	0x00000010	[ 41] literal string: ^{__CFRunLoop=}
+0x100015815	0x0000000C	[ 41] literal string: @"NSString"
+0x100015821	0x0000000E	[ 41] literal string: @"UITextView"
+0x10001582F	0x0000001B	[ 41] literal string: v32@0:8@"UIAlertView"16q24
+0x10001584A	0x00000018	[ 41] literal string: v24@0:8@"UIAlertView"16
+0x100015862	0x00000018	[ 41] literal string: B24@0:8@"UIAlertView"16
+0x10001587A	0x00000019	[ 41] literal string: @24@0:8^{__CFRunLoop=}16
+0x100015893	0x00000004	[ 41] literal string: ^^Q
+0x100015897	0x0000000D	[ 41] literal string: {?=qq}16@0:8
+0x1000158A4	0x0000000A	[ 41] literal string: ^^Q16@0:8
+0x1000158AE	0x0000000D	[ 41] literal string: v24@0:8^^Q16
+0x1000158BB	0x0000001B	[ 41] literal string: {?=qq}32@0:8{CGPoint=dd}16
+0x1000158D6	0x0000001B	[ 41] literal string: {?=ff}32@0:8{CGPoint=dd}16
+0x1000158F1	0x00000021	[ 41] literal string: {CGPoint=dd}32@0:8{CGPoint=dd}16
+0x100015912	0x0000000B	[ 41] literal string: f20@0:8f16
+0x10001591D	0x00000013	[ 41] literal string: {CGPoint=dd}16@0:8
+0x100015930	0x00000016	[ 41] literal string: v32@0:8{CGPoint=dd}16
+0x100015946	0x0000000B	[ 41] literal string: v24@0:8Q16
+0x100015951	0x0000000F	[ 41] literal string: @"LifeDisplay"
+0x100015960	0x00000011	[ 41] literal string: @"LifeSelection"
+0x100015971	0x0000000A	[ 41] literal string: @"NSLock"
+0x10001597B	0x00000011	[ 41] literal string: @"LifeClipboard"
+0x10001598C	0x0000000D	[ 41] literal string: @"NSRunLoop"
+0x100015999	0x00000017	[ 41] literal string: @"AccelerometerHelper"
+0x1000159B0	0x0000000F	[ 41] literal string: @"NSCondition"
+0x1000159BF	0x00000013	[ 41] literal string: v36@0:8{?=qq}16B32
+0x1000159D2	0x0000000C	[ 41] literal string: ^Q24@0:8q16
+0x1000159DE	0x00000013	[ 41] literal string: v40@0:8@16{?=qq}24
+0x1000159F1	0x00000019	[ 41] literal string: {?=qq}40@0:8{?=qq}16^Q32
+0x100015A0A	0x0000000E	[ 41] literal string: B32@0:8q16q24
+0x100015A18	0x00000012	[ 41] literal string: ^^Q32@0:8{?=qq}16
+0x100015A2A	0x00000015	[ 41] literal string: v40@0:8^^Q16{?=qq}24
+0x100015A3F	0x0000001A	[ 41] literal string: v32@0:8^{?=qq}16^{?=qq}24
+0x100015A59	0x0000001F	[ 41] literal string: v40@0:8^^Q16^{?=qq}24^{?=qq}32
+0x100015A78	0x00000008	[ 41] literal string: q16@0:8
+0x100015A80	0x00000008	[ 41] literal string: d16@0:8
+0x100015A88	0x0000000B	[ 41] literal string: v24@0:8d16
+0x100015A93	0x00000011	[ 41] literal string: B36@0:8@16@24B32
+0x100015AA4	0x00000012	[ 41] literal string: B40@0:8*16@24^i32
+0x100015AB6	0x0000000F	[ 41] literal string: @32@0:8@16^i24
+0x100015AC5	0x00000012	[ 41] literal string: B40@0:8@16@24^i32
+0x100015AD7	0x0000001A	[ 41] literal string: B56@0:8@16@24^q32^B40^i48
+0x100015AF1	0x0000001F	[ 41] literal string: B64@0:8@16^q24^B32^q40^B48^i56
+0x100015B10	0x0000000F	[ 41] literal string: B32@0:8@16^B24
+0x100015B1F	0x00000018	[ 41] literal string: @48@0:8{?=qq}16{?=qq}32
+0x100015B37	0x00000010	[ 41] literal string: B24@0:8{?=ff}16
+0x100015B47	0x00000010	[ 41] literal string: i32@0:8{?=qq}16
+0x100015B57	0x00000010	[ 41] literal string: i24@0:8{?=ff}16
+0x100015B67	0x00000011	[ 41] literal string: v32@0:8^^^Q16q24
+0x100015B78	0x0000000F	[ 41] literal string: @"UITextField"
+0x100015B87	0x0000000D	[ 41] literal string: @"SetupView"
+0x100015B94	0x0000000C	[ 41] literal string: @"UISwitch"
+0x100015BA0	0x00000018	[ 41] literal string: B24@0:8@"UITextField"16
+0x100015BB8	0x00000018	[ 41] literal string: v24@0:8@"UITextField"16
+0x100015BD0	0x0000001B	[ 41] literal string: v32@0:8@"UITextField"16q24
+0x100015BEB	0x00000034	[ 41] literal string: B48@0:8@"UITextField"16{_NSRange=QQ}24@"NSString"40
+0x100015C1F	0x0000001D	[ 41] literal string: B48@0:8@16{_NSRange=QQ}24@40
+0x100015C3C	0x0000001A	[ 41] literal string: @"SetupViewControllerIOS"
+0x100015C56	0x00000010	[ 41] literal string: @"RLEFileArray"
+0x100015C66	0x00000016	[ 41] literal string: @"<FileListDelegate>"
+0x100015C7C	0x0000000B	[ 41] literal string: q24@0:8@16
+0x100015C87	0x0000000E	[ 41] literal string: q32@0:8@16q24
+0x100015C95	0x00000030	[ 41] literal string: B32@0:8@"NSString"16@"FileListViewController"24
+0x100015CC5	0x0000000B	[ 41] literal string: @24@0:8Q16
+0x100015CD0	0x00000017	[ 41] literal string: @"SetupViewController"
+0x100015CE7	0x0000000D	[ 41] literal string: @"UIWebView"
+0x100015CF4	0x00000014	[ 37] literal string: NSMutableDictionary
+0x100015D08	0x00000013	[ 37] literal string: NSUndoManagerProxy
+0x100015D1B	0x0000000D	[ 37] literal string: _targetClass
+0x100015D28	0x00000004	[ 37] literal string: @:#
+0x100015D2C	0x00000010	[ 37] literal string: NSManagedObject
+0x100015D3C	0x00000011	[ 37] literal string: NSConstantString
+0x100015D4D	0x00000009	[ 37] literal string: NSString
+0x100015D56	0x0000001C	[ 37] literal string: NSKnownKeysMappingStrategy1
+0x100015D72	0x00000017	[ 37] literal string: NSKnownKeysDictionary1
+0x100015D89	0x00000014	[ 37] literal string: _objc_readClassPair
+0x100015D9D	0x00000018	[ 37] literal string: _objc_allocateClassPair
+0x100015DB5	0x00000018	[ 37] literal string: _object_getIndexedIvars
+0x100015DCD	0x0000000F	[ 37] literal string: _objc_getClass
+0x100015DDC	0x00000013	[ 37] literal string: _objc_getMetaClass
+0x100015DEF	0x00000017	[ 37] literal string: _objc_getRequiredClass
+0x100015E06	0x00000012	[ 37] literal string: _objc_lookUpClass
+0x100015E18	0x00000012	[ 37] literal string: _objc_getProtocol
+0x100015E2A	0x0000000F	[ 37] literal string: _class_getName
+0x100015E39	0x00000012	[ 37] literal string: _protocol_getName
+0x100015E4B	0x0000001D	[ 37] literal string: _objc_copyClassNamesForImage
+0x100015E68	0x00000004	[ 37] literal string: v@:
+0x100015E6C	0x00000001	[ 37] literal string: 
+0x100015E6D	0x00000006	[ 37] literal string: Swift
+0x100015E73	0x00000011	[ 37] literal string: _Tt%cSs%zu%.*s%s
+0x100015E84	0x00000002	[ 37] literal string: _
+0x100015E86	0x00000016	[ 37] literal string: _Tt%c%zu%.*s%zu%.*s%s
+0x100015E9C	0x00000005	[ 37] literal string: _TtP
+0x100015EA1	0x00000005	[ 37] literal string: _TtC
+0x100015EA6	0x00000003	[ 37] literal string: Ss
+0x100015EA9	0x0000000A	[ 37] literal string: %.*s.%.*s
+0x100015EB3	0x00000007	[ 37] literal string: __TEXT
+0x100015EBA	0x0000000B	[ 37] literal string: __LINKEDIT
+0x100015EC5	0x00000007	[ 41] literal string: window
+0x100015ECC	0x00000019	[ 41] literal string: T@"UIWindow",&,N,Vwindow
+0x100015EE5	0x00000015	[ 41] literal string: navigationController
+0x100015EFA	0x00000035	[ 41] literal string: T@"UINavigationController",&,N,VnavigationController
+0x100015F2F	0x00000005	[ 41] literal string: hash
+0x100015F34	0x00000005	[ 41] literal string: TQ,R
+0x100015F39	0x0000000B	[ 41] literal string: superclass
+0x100015F44	0x00000005	[ 41] literal string: T#,R
+0x100015F49	0x0000000C	[ 41] literal string: description
+0x100015F55	0x00000011	[ 41] literal string: T@"NSString",R,C
+0x100015F66	0x00000011	[ 41] literal string: debugDescription
+0x100015F77	0x00000011	[ 41] literal string: T@"UIWindow",&,N
+0x100015F88	0x00000005	[ 41] literal string: grid
+0x100015F8D	0x00000017	[ 41] literal string: T@"LifeGrid",&,N,Vgrid
+0x100015FA4	0x0000000C	[ 41] literal string: controlView
+0x100015FB0	0x0000001C	[ 41] literal string: T@"UIView",&,N,VcontrolView
+0x100015FCC	0x00000009	[ 41] literal string: editView
+0x100015FD5	0x00000019	[ 41] literal string: T@"UIView",&,N,VeditView
+0x100015FEE	0x00000014	[ 41] literal string: controlViewPortrait
+0x100016002	0x00000024	[ 41] literal string: T@"UIView",&,N,VcontrolViewPortrait
+0x100016026	0x00000015	[ 41] literal string: controlViewLandscape
+0x10001603B	0x00000025	[ 41] literal string: T@"UIView",&,N,VcontrolViewLandscape
+0x100016060	0x00000011	[ 41] literal string: editViewPortrait
+0x100016071	0x00000021	[ 41] literal string: T@"UIView",&,N,VeditViewPortrait
+0x100016092	0x00000012	[ 41] literal string: editViewLandscape
+0x1000160A4	0x00000022	[ 41] literal string: T@"UIView",&,N,VeditViewLandscape
+0x1000160C6	0x0000000B	[ 41] literal string: startImage
+0x1000160D1	0x0000001C	[ 41] literal string: T@"UIImage",&,N,VstartImage
+0x1000160ED	0x0000000B	[ 41] literal string: pauseImage
+0x1000160F8	0x0000001C	[ 41] literal string: T@"UIImage",&,N,VpauseImage
+0x100016114	0x00000010	[ 41] literal string: Delete Document
+0x100016124	0x0000000E	[ 41] literal string: Open Document
+0x100016132	0x0000000A	[ 41] literal string: Documents
+0x10001613C	0x00000008	[ 41] literal string: Replace
+0x100016144	0x00000007	[ 41] literal string: Cancel
+0x10001614B	0x00000017	[ 41] literal string: Replace existing file?
+0x100016162	0x00000005	[ 41] literal string: .rle
+0x100016167	0x00000009	[ 41] literal string: Untitled
+0x100016170	0x0000000B	[ 41] literal string: File Name?
+0x10001617B	0x0000003B	[ 41] literal string: -[LifeIOSViewController actionSheet:clickedButtonAtIndex:]
+0x1000161B6	0x0000004D	[ 41] literal string: /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/LifeIOSViewController.m
+0x100016203	0x0000000B	[ 41] literal string: Save Start
+0x10001620E	0x00000005	[ 41] literal string: Save
+0x100016213	0x00000005	[ 41] literal string: Open
+0x100016218	0x0000000C	[ 41] literal string: Delete File
+0x100016224	0x00000010	[ 41] literal string: File Management
+0x100016234	0x00000004	[ 41] literal string: Run
+0x100016238	0x00000005	[ 41] literal string: Edit
+0x10001623D	0x00000025	[ 41] literal string: -[LifeIOSViewController viewDidLoad]
+0x100016262	0x00000014	[ 41] literal string: nil != mSpeedSlider
+0x100016276	0x0000000A	[ 41] literal string: Pause.png
+0x100016280	0x0000000A	[ 41] literal string: Start.png
+0x10001628A	0x00000015	[ 41] literal string: CreditViewController
+0x10001629F	0x0000000B	[ 41] literal string: controller
+0x1000162AA	0x0000002A	[ 41] literal string: T@"LifeIOSViewController",&,N,Vcontroller
+0x1000162D4	0x00000009	[ 41] literal string: editMode
+0x1000162DD	0x0000000D	[ 41] literal string: TB,VeditMode
+0x1000162EA	0x0000000A	[ 41] literal string: %f %f %f\n
+0x1000162F4	0x0000000D	[ 41] literal string: {CGPoint=dd}
+0x100016301	0x0000000C	[ 41] literal string: newScale=%f
+0x10001630D	0x0000001E	[ 41] literal string: -[LifeView reflectSelection:]
+0x10001632B	0x00000040	[ 41] literal string: /Users/mike/Source/Warp_Life/Warp_Life/trunk/Classes/LifeView.m
+0x10001636B	0x00000006	[ 41] literal string: false
+0x100016371	0x0000001D	[ 41] literal string: -[LifeView rotateSelection:]
+0x10001638E	0x0000000C	[ 41] literal string: theScale=%f
+0x10001639A	0x00000005	[ 41] literal string: %ld 
+0x10001639F	0x00000011	[ 41] literal string: angleSensitivity
+0x1000163B0	0x00000017	[ 41] literal string: Tf,N,VangleSensitivity
+0x1000163C7	0x00000011	[ 41] literal string: forceSensitivity
+0x1000163D8	0x00000017	[ 41] literal string: Tf,N,VforceSensitivity
+0x1000163EF	0x00000008	[ 41] literal string: lockout
+0x1000163F7	0x0000000E	[ 41] literal string: Tf,N,Vlockout
+0x100016405	0x0000000C	[ 41] literal string: triggerTime
+0x100016411	0x0000001C	[ 41] literal string: T@"NSDate",&,N,VtriggerTime
+0x10001642D	0x00000009	[ 41] literal string: delegate
+0x100016436	0x00000011	[ 41] literal string: T@,&,N,Vdelegate
+0x100016447	0x0000000E	[ 41] literal string: sharedManager
+0x100016455	0x00000018	[ 41] literal string: T@"CMMotionManager",R,N
+0x10001646D	0x0000002A	[ 41] literal string: v24@?0@"CMAccelerometerData"8@"NSError"16
+0x100016497	0x00000003	[ 41] literal string: OK
+0x10001649A	0x00000003	[ 41] literal string: No
+0x10001649D	0x00000004	[ 41] literal string: Yes
+0x1000164A1	0x00000006	[ 41] literal string: index
+0x1000164A7	0x0000000C	[ 41] literal string: TQ,R,Vindex
+0x1000164B3	0x00000005	[ 41] literal string: text
+0x1000164B8	0x00000017	[ 41] literal string: T@"NSString",C,N,Vtext
+0x1000164CF	0x00000005	[ 41] literal string: size
+0x1000164D4	0x0000000E	[ 41] literal string: T{?=qq},Vsize
+0x1000164E2	0x00000006	[ 41] literal string: cells
+0x1000164E8	0x0000000C	[ 41] literal string: T^^Q,Vcells
+0x1000164F4	0x00000005	[ 41] literal string: Free
+0x1000164F9	0x00000044	[ 41] literal string: /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/LifeRow.c
+0x10001653D	0x0000000F	[ 41] literal string: NULL != rowPtr
+0x10001654C	0x00000010	[ 41] literal string: NULL != *rowPtr
+0x10001655C	0x0000000D	[ 41] literal string: PropagateRow
+0x100016569	0x0000000C	[ 41] literal string: index < 512
+0x100016575	0x00000006	[ 41] literal string: scale
+0x10001657B	0x0000000A	[ 41] literal string: Tf,Vscale
+0x100016585	0x00000007	[ 41] literal string: origin
+0x10001658C	0x00000016	[ 41] literal string: T{CGPoint=dd},Vorigin
+0x1000165A2	0x00000013	[ 41] literal string: T@"LifeGrid",Vgrid
+0x1000165B5	0x00000009	[ 41] literal string: drawTime
+0x1000165BE	0x0000000F	[ 41] literal string: TQ,N,VdrawTime
+0x1000165CD	0x00000008	[ 41] literal string: display
+0x1000165D5	0x0000001D	[ 41] literal string: T@"LifeDisplay",&,N,Vdisplay
+0x1000165F2	0x0000000A	[ 41] literal string: selection
+0x1000165FC	0x0000001F	[ 41] literal string: T@"LifeSelection",&,Vselection
+0x10001661B	0x0000000A	[ 41] literal string: clipboard
+0x100016625	0x00000021	[ 41] literal string: T@"LifeClipboard",&,N,Vclipboard
+0x100016646	0x00000007	[ 41] literal string: height
+0x10001664D	0x0000000B	[ 41] literal string: Tq,Vheight
+0x100016658	0x00000006	[ 41] literal string: width
+0x10001665E	0x0000000A	[ 41] literal string: Tq,Vwidth
+0x100016668	0x00000006	[ 41] literal string: speed
+0x10001666E	0x0000000C	[ 41] literal string: Tf,N,Vspeed
+0x10001667A	0x00000007	[ 41] literal string: edited
+0x100016681	0x0000000B	[ 41] literal string: TB,Vedited
+0x10001668C	0x00000011	[ 41] literal string: shakeToRandomize
+0x10001669D	0x00000015	[ 41] literal string: TB,VshakeToRandomize
+0x1000166B2	0x00000008	[ 41] literal string: tickSum
+0x1000166BA	0x0000000C	[ 41] literal string: TQ,VtickSum
+0x1000166C6	0x0000000C	[ 41] literal string: tickAverage
+0x1000166D2	0x00000010	[ 41] literal string: Td,VtickAverage
+0x1000166E2	0x0000000C	[ 41] literal string: tickSamples
+0x1000166EE	0x00000010	[ 41] literal string: TQ,VtickSamples
+0x1000166FE	0x0000000F	[ 41] literal string: gensPerRefresh
+0x10001670D	0x00000015	[ 41] literal string: Tq,N,VgensPerRefresh
+0x100016722	0x00000004	[ 41] literal string: %f\n
+0x100016726	0x00000010	[ 41] literal string: row=%ld col=%ld
+0x100016736	0x0000001B	[ 41] literal string: -[LifeGrid resize:height:]
+0x100016751	0x00000045	[ 41] literal string: /Users/mike/Source/Warp_Life/Warp_Life/trunk/LifeLibCocoa/LifeGrid.m
+0x100016796	0x0000000B	[ 41] literal string: toRow >= 0
+0x1000167A1	0x00000016	[ 41] literal string: maxRow <= self.height
+0x1000167B7	0x0000000B	[ 41] literal string: toCol >= 0
+0x1000167C2	0x00000015	[ 41] literal string: maxCol <= self.width
+0x1000167D7	0x0000001E	[ 41] literal string: -[LifeGrid cycleContinuously]
+0x1000167F5	0x00000009	[ 41] literal string: 0 == err
+0x1000167FE	0x0000000B	[ 41] literal string: speed: %f\n
+0x100016809	0x0000000D	[ 41] literal string: gen/sec: %f\n
+0x100016816	0x00000019	[ 41] literal string: -[LifeGrid displayTick:]
+0x10001682F	0x00000009	[ 41] literal string: mRunning
+0x100016838	0x00000019	[ 41] literal string: -[LifeGrid nextRun:row:]
+0x100016851	0x00000013	[ 41] literal string: currentRow != NULL
+0x100016864	0x00000011	[ 41] literal string: prevRun.col >= 0
+0x100016875	0x0000002A	[ 41] literal string: prevRun.col + prevRun.count <= self.width
+0x10001689F	0x00000019	[ 41] literal string: -[LifeGrid getStartRow:]
+0x1000168B8	0x00000009	[ 41] literal string: row >= 0
+0x1000168C1	0x00000012	[ 41] literal string: row < self.height
+0x1000168D3	0x00000014	[ 41] literal string: -[LifeGrid getRow:]
+0x1000168E7	0x00000002	[ 41] literal string: \n
+0x1000168E9	0x00000012	[ 41] literal string: x = %ld, y = %ld\n
+0x1000168FB	0x00000002	[ 41] literal string: !
+0x1000168FD	0x00000005	[ 41] literal string: %ldb
+0x100016902	0x00000005	[ 41] literal string: %ldo
+0x100016907	0x00000002	[ 41] literal string: $
+0x100016909	0x00000010	[ 41] literal string: T{?=qq},Vorigin
+0x100016919	0x00000009	[ 41] literal string: portrait
+0x100016922	0x0000001C	[ 41] literal string: T@"SetupView",&,N,Vportrait
+0x10001693E	0x0000000A	[ 41] literal string: landscape
+0x100016948	0x0000001D	[ 41] literal string: T@"SetupView",&,N,Vlandscape
+0x100016965	0x00000017	[ 41] literal string: shakeToRandomizeSwitch
+0x10001697C	0x00000029	[ 41] literal string: T@"UISwitch",&,N,VshakeToRandomizeSwitch
+0x1000169A5	0x00000002	[ 41] literal string: 9
+0x1000169A7	0x00000002	[ 41] literal string: 8
+0x1000169A9	0x00000002	[ 41] literal string: 7
+0x1000169AB	0x00000002	[ 41] literal string: 6
+0x1000169AD	0x00000002	[ 41] literal string: 5
+0x1000169AF	0x00000002	[ 41] literal string: 4
+0x1000169B1	0x00000002	[ 41] literal string: 3
+0x1000169B3	0x00000002	[ 41] literal string: 2
+0x1000169B5	0x00000002	[ 41] literal string: 1
+0x1000169B7	0x00000002	[ 41] literal string: 0
+0x1000169B9	0x0000001C	[ 41] literal string: ManualViewController_iPhone
+0x1000169D5	0x00000014	[ 41] literal string: Insufficient Memory
+0x1000169E9	0x00000019	[ 41] literal string: Try a smaller grid size.
+0x100016A02	0x00000004	[ 41] literal string: %ld
+0x100016A06	0x00000009	[ 41] literal string: Settings
+0x100016A0F	0x00000006	[ 41] literal string: setup
+0x100016A15	0x00000022	[ 41] literal string: T@"SetupViewControllerIOS",Vsetup
+0x100016A37	0x00000009	[ 41] literal string: fileCell
+0x100016A40	0x0000000A	[ 41] literal string: count=%lu
+0x100016A4A	0x0000000F	[ 41] literal string: File Corrupted
+0x100016A59	0x00000011	[ 41] literal string: Header Corrupted
+0x100016A6A	0x0000000F	[ 41] literal string: Unknown Reason
+0x100016A79	0x00000011	[ 41] literal string: Cannot Open File
+0x100016A8A	0x00000003	[ 41] literal string: %@
+0x100016A8D	0x00000024	[ 41] literal string: T@"SetupViewController",Vcontroller
+0x100016AB1	0x00000019	[ 41] literal string: T@"UIView",&,N,Vportrait
+0x100016ACA	0x0000001A	[ 41] literal string: T@"UIView",&,N,Vlandscape
+0x100016AE4	0x0000000F	[ 41] literal string: Failed to open
+0x100016AF3	0x0000001D	[ 41] literal string: http://www.dulcineatech.com/
+0x100016B10	0x0000000B	[ 41] literal string: Version %@
+0x100016B1B	0x00000010	[ 41] literal string: CFBundleVersion
+0x100016B2B	0x00000006	[ 41] literal string: About
+0x100016B31	0x00000006	[ 41] literal string: v8@?0
+0x100016B37	0x00000005	[ 41] literal string: html
+0x100016B3C	0x0000000D	[ 41] literal string: manual/index
+0x100016B49	0x0000000B	[ 41] literal string: User Guide
+0x100016B54	0x0000017E	[  1] opaque_section
+0x100016CD4	0x0000032C	[  0] compact unwind info
+0x100017000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100017008	0x00000008	[  0] non-lazy-pointer
+0x100017010	0x00000008	[  0] non-lazy-pointer-to-local: _CGRectZero
+0x100017018	0x00000008	[  0] non-lazy-pointer-to-local: _NSDefaultRunLoopMode
+0x100017020	0x00000008	[  0] non-lazy-pointer-to-local: __DefaultRuneLocale
+0x100017028	0x00000008	[  0] non-lazy-pointer-to-local: __NSConcreteStackBlock
+0x100017030	0x00000008	[  0] non-lazy-pointer-to-local: ___stack_chk_guard
+0x100017038	0x00000008	[  0] non-lazy-pointer-to-local: _class_getName
+0x100017040	0x00000008	[  0] non-lazy-pointer-to-local: _kCFCoreFoundationVersionNumber
+0x100017048	0x00000008	[  0] non-lazy-pointer-to-local: _objc_allocateClassPair
+0x100017050	0x00000008	[  0] non-lazy-pointer-to-local: _objc_copyClassNamesForImage
+0x100017058	0x00000008	[  0] non-lazy-pointer-to-local: _objc_getClass
+0x100017060	0x00000008	[  0] non-lazy-pointer-to-local: _objc_getMetaClass
+0x100017068	0x00000008	[  0] non-lazy-pointer-to-local: _objc_getProtocol
+0x100017070	0x00000008	[  0] non-lazy-pointer-to-local: _objc_getRequiredClass
+0x100017078	0x00000008	[  0] non-lazy-pointer-to-local: _objc_lookUpClass
+0x100017080	0x00000008	[  0] non-lazy-pointer-to-local: _objc_msgSend
+0x100017088	0x00000008	[  0] non-lazy-pointer-to-local: _objc_readClassPair
+0x100017090	0x00000008	[  0] non-lazy-pointer-to-local: _object_getIndexedIvars
+0x100017098	0x00000008	[  0] non-lazy-pointer-to-local: _protocol_getName
+0x1000170A0	0x00000008	[ 40] _CFRunLoopGetCurrent
+0x1000170A8	0x00000008	[ 40] _CFRunLoopRun
+0x1000170B0	0x00000008	[ 40] _CFRunLoopStop
+0x1000170B8	0x00000008	[ 40] _CFStringGetCStringPtr
+0x1000170C0	0x00000008	[ 36] _CGAffineTransformInvert
+0x1000170C8	0x00000008	[ 36] _CGContextAddEllipseInRect
+0x1000170D0	0x00000008	[ 36] _CGContextBeginPath
+0x1000170D8	0x00000008	[ 36] _CGContextClosePath
+0x1000170E0	0x00000008	[ 36] _CGContextConcatCTM
+0x1000170E8	0x00000008	[ 36] _CGContextFillPath
+0x1000170F0	0x00000008	[ 36] _CGContextGetCTM
+0x1000170F8	0x00000008	[ 36] _CGContextRotateCTM
+0x100017100	0x00000008	[ 36] _CGContextScaleCTM
+0x100017108	0x00000008	[ 36] _CGContextSetLineWidth
+0x100017110	0x00000008	[ 36] _CGContextSetRGBFillColor
+0x100017118	0x00000008	[ 36] _CGContextSetRGBStrokeColor
+0x100017120	0x00000008	[ 36] _CGContextStrokePath
+0x100017128	0x00000008	[ 36] _CGContextTranslateCTM
+0x100017130	0x00000008	[ 36] _CGRectEqualToRect
+0x100017138	0x00000008	[ 36] _CGRectInset
+0x100017140	0x00000008	[ 34] _NSHomeDirectory
+0x100017148	0x00000008	[ 34] _NSLog
+0x100017150	0x00000008	[ 35] _UIApplicationMain
+0x100017158	0x00000008	[ 35] _UIGraphicsGetCurrentContext
+0x100017160	0x00000008	[ 35] _UIRectFill
+0x100017168	0x00000008	[ 39] __Block_object_assign
+0x100017170	0x00000008	[ 39] __Block_object_dispose
+0x100017178	0x00000008	[ 39] ___assert_rtn
+0x100017180	0x00000008	[ 39] ___snprintf_chk
+0x100017188	0x00000008	[ 39] ___stack_chk_fail
+0x100017190	0x00000008	[ 39] __dyld_register_func_for_add_image
+0x100017198	0x00000008	[ 39] _abort
+0x1000171A0	0x00000008	[ 39] _acos
+0x1000171A8	0x00000008	[ 39] _asprintf
+0x1000171B0	0x00000008	[ 39] _bzero
+0x1000171B8	0x00000008	[ 39] _calloc
+0x1000171C0	0x00000008	[ 38] _class_addMethod
+0x1000171C8	0x00000008	[ 38] _class_addProperty
+0x1000171D0	0x00000008	[ 38] _class_addProtocol
+0x1000171D8	0x00000008	[ 38] _class_getInstanceMethod
+0x1000171E0	0x00000008	[ 38] _class_getInstanceVariable
+0x1000171E8	0x00000008	[ 38] _class_getSuperclass
+0x1000171F0	0x00000008	[ 38] _class_isMetaClass
+0x1000171F8	0x00000008	[ 38] _class_replaceMethod
+0x100017200	0x00000008	[ 39] _dispatch_once
+0x100017208	0x00000008	[ 39] _free
+0x100017210	0x00000008	[ 39] _gettimeofday
+0x100017218	0x00000008	[ 39] _hash_create
+0x100017220	0x00000008	[ 39] _hash_search
+0x100017228	0x00000008	[ 39] _mach_absolute_time
+0x100017230	0x00000008	[ 39] _mach_timebase_info
+0x100017238	0x00000008	[ 39] _malloc
+0x100017240	0x00000008	[ 39] _memcmp
+0x100017248	0x00000008	[ 39] _memcpy
+0x100017250	0x00000008	[ 39] _memset
+0x100017258	0x00000008	[ 38] _method_setImplementation
+0x100017260	0x00000008	[ 38] _objc_constructInstance
+0x100017268	0x00000008	[ 38] _objc_copyStruct
+0x100017270	0x00000008	[ 38] _objc_enumerationMutation
+0x100017278	0x00000008	[ 38] _objc_getClass
+0x100017280	0x00000008	[ 38] _objc_getMetaClass
+0x100017288	0x00000008	[ 38] _objc_getProperty
+0x100017290	0x00000008	[ 38] _objc_getProtocol
+0x100017298	0x00000008	[ 38] _objc_getRequiredClass
+0x1000172A0	0x00000008	[ 38] _objc_initializeClassPair
+0x1000172A8	0x00000008	[ 38] _objc_lookUpClass
+0x1000172B0	0x00000008	[ 38] _objc_msgSendSuper2
+0x1000172B8	0x00000008	[ 38] _objc_msgSend_stret
+0x1000172C0	0x00000008	[ 38] _objc_registerClassPair
+0x1000172C8	0x00000008	[ 38] _objc_setProperty_atomic
+0x1000172D0	0x00000008	[ 38] _objc_setProperty_nonatomic
+0x1000172D8	0x00000008	[ 38] _objc_setProperty_nonatomic_copy
+0x1000172E0	0x00000008	[ 38] _object_getClass
+0x1000172E8	0x00000008	[ 38] _object_getIvar
+0x1000172F0	0x00000008	[ 39] _printf
+0x1000172F8	0x00000008	[ 38] _property_copyAttributeList
+0x100017300	0x00000008	[ 38] _protocol_getMethodDescription
+0x100017308	0x00000008	[ 39] _pthread_mutex_lock
+0x100017310	0x00000008	[ 39] _pthread_mutex_unlock
+0x100017318	0x00000008	[ 39] _puts
+0x100017320	0x00000008	[ 39] _random
+0x100017328	0x00000008	[ 38] _sel_getUid
+0x100017330	0x00000008	[ 39] _strcmp
+0x100017338	0x00000008	[ 39] _strlen
+0x100017340	0x00000008	[ 39] _strncmp
+0x100017350	0x00000030	[ 41] ___block_descriptor_tmp.44
+0x100017380	0x00000030	[ 41] ___block_descriptor_tmp
+0x1000173B0	0x00000020	[ 41] ___block_literal_global.135
+0x1000173D0	0x00000020	[ 41] ___block_descriptor_tmp.134
+0x1000173F0	0x00000020	[ 41] ___block_literal_global.92
+0x100017410	0x00000020	[ 41] ___block_descriptor_tmp.91
+0x100017430	0x00000020	[ 41] ___block_literal_global.61
+0x100017450	0x00000020	[ 41] ___block_descriptor_tmp.60
+0x100017470	0x00000020	[ 41] ___block_literal_global
+0x100017490	0x00000020	[ 41] ___block_descriptor_tmp.1011
+0x1000174B0	0x00000020	[ 41] ___block_literal_global.1684
+0x1000174D0	0x00000020	[ 41] ___block_descriptor_tmp.1687
+0x1000174F0	0x00000020	[ 41] CFString
+0x100017510	0x00000020	[ 41] CFString
+0x100017530	0x00000020	[ 41] CFString
+0x100017550	0x00000020	[ 41] CFString
+0x100017570	0x00000020	[ 41] CFString
+0x100017590	0x00000020	[ 41] CFString
+0x1000175B0	0x00000020	[ 41] CFString
+0x1000175D0	0x00000020	[ 41] CFString
+0x1000175F0	0x00000020	[ 41] CFString
+0x100017610	0x00000020	[ 41] CFString
+0x100017630	0x00000020	[ 41] CFString
+0x100017650	0x00000020	[ 41] CFString
+0x100017670	0x00000020	[ 41] CFString
+0x100017690	0x00000020	[ 41] CFString
+0x1000176B0	0x00000020	[ 41] CFString
+0x1000176D0	0x00000020	[ 41] CFString
+0x1000176F0	0x00000020	[ 41] CFString
+0x100017710	0x00000020	[ 41] CFString
+0x100017730	0x00000020	[ 41] CFString
+0x100017750	0x00000020	[ 41] CFString
+0x100017770	0x00000020	[ 41] CFString
+0x100017790	0x00000020	[ 41] CFString
+0x1000177B0	0x00000020	[ 41] CFString
+0x1000177D0	0x00000020	[ 41] CFString
+0x1000177F0	0x00000020	[ 41] CFString
+0x100017810	0x00000020	[ 41] CFString
+0x100017830	0x00000020	[ 41] CFString
+0x100017850	0x00000020	[ 41] CFString
+0x100017870	0x00000020	[ 41] CFString
+0x100017890	0x00000020	[ 41] CFString
+0x1000178B0	0x00000020	[ 41] CFString
+0x1000178D0	0x00000020	[ 41] CFString
+0x1000178F0	0x00000020	[ 41] CFString
+0x100017910	0x00000020	[ 41] CFString
+0x100017930	0x00000020	[ 41] CFString
+0x100017950	0x00000020	[ 41] CFString
+0x100017970	0x00000020	[ 41] CFString
+0x100017990	0x00000020	[ 41] CFString
+0x1000179B0	0x00000020	[ 41] CFString
+0x1000179D0	0x00000020	[ 41] CFString
+0x1000179F0	0x00000020	[ 41] CFString
+0x100017A10	0x00000020	[ 41] CFString
+0x100017A30	0x00000020	[ 41] CFString
+0x100017A50	0x00000020	[ 41] CFString
+0x100017A70	0x00000020	[ 41] CFString
+0x100017A90	0x00000020	[ 41] CFString
+0x100017AB0	0x00000020	[ 41] CFString
+0x100017AD0	0x00000020	[ 41] CFString
+0x100017AF0	0x00000020	[ 41] CFString
+0x100017B10	0x00000020	[ 41] CFString
+0x100017B30	0x00000020	[ 41] CFString
+0x100017B50	0x00000020	[ 41] CFString
+0x100017B70	0x00000020	[ 41] CFString
+0x100017B90	0x00000020	[ 41] CFString
+0x100017BB0	0x00000020	[ 41] CFString
+0x100017BD0	0x00000020	[ 41] CFString
+0x100017BF0	0x000000D8	[ 41] anon
+0x100017CC8	0x00000008	[ 37] __non_lazy_classes
+0x100017CD0	0x00000008	[ 37] l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+0x100017CD8	0x00000008	[  3] l_OBJC_LABEL_PROTOCOL_$_NSObject
+0x100017CE0	0x00000008	[  3] l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+0x100017CE8	0x00000008	[  4] l_OBJC_LABEL_PROTOCOL_$_UIActionSheetDelegate
+0x100017CF0	0x00000008	[  7] l_OBJC_LABEL_PROTOCOL_$_UIAccelerometerDelegate
+0x100017CF8	0x00000008	[ 10] l_OBJC_LABEL_PROTOCOL_$_UIAlertViewDelegate
+0x100017D00	0x00000008	[ 20] l_OBJC_LABEL_PROTOCOL_$_UITextFieldDelegate
+0x100017D08	0x00000008	[ 23] l_OBJC_LABEL_PROTOCOL_$_FileListDelegate
+0x100017D10	0x00000008	[  0] objc image info
+0x100017D18	0x00000048	[ 37] __ZL31OBJC_METACLASS_RO_$___ARCLite__
+0x100017D60	0x00000048	[ 37] __ZL27OBJC_CLASS_RO_$___ARCLite__
+0x100017DA8	0x00000020	[ 37] __ZL32OBJC_$_CLASS_METHODS___ARCLite__
+0x100017DC8	0x00000038	[ 37] l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+0x100017E00	0x00000010	[ 37] l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+0x100017E10	0x00000048	[ 41] l_OBJC_CLASS_RO_$_Warp_LifeAppDelegate
+0x100017E58	0x00000128	[ 41] l_OBJC_$_INSTANCE_METHODS_Warp_LifeAppDelegate
+0x100017F80	0x00000018	[ 41] l_OBJC_CLASS_PROTOCOLS_$_Warp_LifeAppDelegate
+0x100017F98	0x00000048	[ 41] l_OBJC_$_INSTANCE_VARIABLES_Warp_LifeAppDelegate
+0x100017FE0	0x00000068	[ 41] l_OBJC_$_PROP_LIST_Warp_LifeAppDelegate
+0x100018048	0x00000018	[ 41] l_OBJC_$_PROTOCOL_REFS_UIApplicationDelegate
+0x100018060	0x00000488	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIApplicationDelegate
+0x1000184E8	0x00000018	[ 41] l_OBJC_$_PROP_LIST_UIApplicationDelegate
+0x100018500	0x00000180	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_UIApplicationDelegate
+0x100018680	0x000001D0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+0x100018850	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+0x100018870	0x00000048	[ 41] l_OBJC_$_PROP_LIST_NSObject
+0x1000188B8	0x000000A0	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+0x100018958	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_Warp_LifeAppDelegate
+0x1000189A0	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeIOSViewController
+0x1000189E8	0x00000440	[ 41] l_OBJC_$_INSTANCE_METHODS_LifeIOSViewController
+0x100018E28	0x00000018	[ 41] l_OBJC_CLASS_PROTOCOLS_$_LifeIOSViewController
+0x100018E40	0x00000228	[ 41] l_OBJC_$_INSTANCE_VARIABLES_LifeIOSViewController
+0x100019068	0x000000D8	[ 41] l_OBJC_$_PROP_LIST_LifeIOSViewController
+0x100019140	0x00000018	[ 41] l_OBJC_$_PROTOCOL_REFS_UIActionSheetDelegate
+0x100019158	0x00000098	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIActionSheetDelegate
+0x1000191F0	0x00000030	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_UIActionSheetDelegate
+0x100019220	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeIOSViewController
+0x100019268	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeIPhoneViewController
+0x1000192B0	0x000000B0	[ 41] l_OBJC_$_INSTANCE_METHODS_LifeIPhoneViewController
+0x100019360	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeIPhoneViewController
+0x1000193A8	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeView
+0x1000193F0	0x00000410	[ 41] l_OBJC_$_INSTANCE_METHODS_LifeView
+0x100019800	0x000002C8	[ 41] l_OBJC_$_INSTANCE_VARIABLES_LifeView
+0x100019AC8	0x00000028	[ 41] l_OBJC_$_PROP_LIST_LifeView
+0x100019AF0	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeView
+0x100019B38	0x00000048	[ 41] l_OBJC_CLASS_RO_$_AccelerometerHelper
+0x100019B80	0x00000200	[ 41] l_OBJC_$_INSTANCE_METHODS_AccelerometerHelper
+0x100019D80	0x00000018	[ 41] l_OBJC_CLASS_PROTOCOLS_$_AccelerometerHelper
+0x100019D98	0x00000228	[ 41] l_OBJC_$_INSTANCE_VARIABLES_AccelerometerHelper
+0x100019FC0	0x000000A8	[ 41] l_OBJC_$_PROP_LIST_AccelerometerHelper
+0x10001A068	0x00000018	[ 41] l_OBJC_$_PROTOCOL_REFS_UIAccelerometerDelegate
+0x10001A080	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIAccelerometerDelegate
+0x10001A0A0	0x00000008	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_UIAccelerometerDelegate
+0x10001A0A8	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_AccelerometerHelper
+0x10001A0F0	0x00000048	[ 41] l_OBJC_CLASS_RO_$_ModalAlert
+0x10001A138	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_ModalAlert
+0x10001A180	0x00000098	[ 41] l_OBJC_$_CLASS_METHODS_ModalAlert
+0x10001A218	0x00000048	[ 41] l_OBJC_CLASS_RO_$_ModalAlertDelegate
+0x10001A260	0x000000B0	[ 41] l_OBJC_$_INSTANCE_METHODS_ModalAlertDelegate
+0x10001A310	0x00000018	[ 41] l_OBJC_CLASS_PROTOCOLS_$_ModalAlertDelegate
+0x10001A328	0x00000088	[ 41] l_OBJC_$_INSTANCE_VARIABLES_ModalAlertDelegate
+0x10001A3B0	0x00000068	[ 41] l_OBJC_$_PROP_LIST_ModalAlertDelegate
+0x10001A418	0x00000018	[ 41] l_OBJC_$_PROTOCOL_REFS_UIAlertViewDelegate
+0x10001A430	0x000000B0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIAlertViewDelegate
+0x10001A4E0	0x00000038	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_UIAlertViewDelegate
+0x10001A518	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_ModalAlertDelegate
+0x10001A560	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeClipboard
+0x10001A5A8	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeClipboard
+0x10001A5F0	0x00000080	[ 41] l_OBJC_$_INSTANCE_METHODS_LifeClipboard
+0x10001A670	0x00000048	[ 41] l_OBJC_$_INSTANCE_VARIABLES_LifeClipboard
+0x10001A6B8	0x00000028	[ 41] l_OBJC_$_PROP_LIST_LifeClipboard
+0x10001A6E0	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeDisplay
+0x10001A728	0x000001A0	[ 41] l_OBJC_$_INSTANCE_METHODS_LifeDisplay
+0x10001A8C8	0x00000088	[ 41] l_OBJC_$_INSTANCE_VARIABLES_LifeDisplay
+0x10001A950	0x00000048	[ 41] l_OBJC_$_PROP_LIST_LifeDisplay
+0x10001A998	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeDisplay
+0x10001A9E0	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeGrid
+0x10001AA28	0x000005D8	[ 41] l_OBJC_$_INSTANCE_METHODS_LifeGrid
+0x10001B000	0x000003A8	[ 41] l_OBJC_$_INSTANCE_VARIABLES_LifeGrid
+0x10001B3A8	0x000000C8	[ 41] l_OBJC_$_PROP_LIST_LifeGrid
+0x10001B470	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeGrid
+0x10001B4B8	0x00000020	[ 41] l_OBJC_$_CLASS_METHODS_LifeGrid
+0x10001B4D8	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeRLEFile
+0x10001B520	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeRLEFile
+0x10001B568	0x000000F8	[ 41] l_OBJC_$_CLASS_METHODS_LifeRLEFile
+0x10001B660	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeSelection
+0x10001B6A8	0x00000218	[ 41] l_OBJC_$_INSTANCE_METHODS_LifeSelection
+0x10001B8C0	0x00000068	[ 41] l_OBJC_$_INSTANCE_VARIABLES_LifeSelection
+0x10001B928	0x00000038	[ 41] l_OBJC_$_PROP_LIST_LifeSelection
+0x10001B960	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeSelection
+0x10001B9A8	0x00000048	[ 41] l_OBJC_CLASS_RO_$_SetupViewController
+0x10001B9F0	0x00000038	[ 41] l_OBJC_$_INSTANCE_METHODS_SetupViewController
+0x10001BA28	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_SetupViewController
+0x10001BA70	0x00000048	[ 41] l_OBJC_CLASS_RO_$_SetupViewControllerIOS
+0x10001BAB8	0x000001E8	[ 41] l_OBJC_$_INSTANCE_METHODS_SetupViewControllerIOS
+0x10001BCA0	0x00000018	[ 41] l_OBJC_CLASS_PROTOCOLS_$_SetupViewControllerIOS
+0x10001BCB8	0x000000C8	[ 41] l_OBJC_$_INSTANCE_VARIABLES_SetupViewControllerIOS
+0x10001BD80	0x00000088	[ 41] l_OBJC_$_PROP_LIST_SetupViewControllerIOS
+0x10001BE08	0x00000018	[ 41] l_OBJC_$_PROTOCOL_REFS_UITextFieldDelegate
+0x10001BE20	0x000000C8	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UITextFieldDelegate
+0x10001BEE8	0x00000040	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_UITextFieldDelegate
+0x10001BF28	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_SetupViewControllerIOS
+0x10001BF70	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_FileListDelegate
+0x10001BFB8	0x00000048	[ 41] l_OBJC_CLASS_RO_$_FileListDelegate
+0x10001C000	0x00000050	[ 41] l_OBJC_$_INSTANCE_METHODS_FileListDelegate
+0x10001C050	0x00000028	[ 41] l_OBJC_$_INSTANCE_VARIABLES_FileListDelegate
+0x10001C078	0x00000018	[ 41] l_OBJC_$_PROP_LIST_FileListDelegate
+0x10001C090	0x00000048	[ 41] l_OBJC_CLASS_RO_$_FileListViewController
+0x10001C0D8	0x000000F8	[ 41] l_OBJC_$_INSTANCE_METHODS_FileListViewController
+0x10001C1D0	0x00000068	[ 41] l_OBJC_$_INSTANCE_VARIABLES_FileListViewController
+0x10001C238	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_FileListViewController
+0x10001C280	0x00000018	[ 41] l_OBJC_$_PROTOCOL_REFS_FileListDelegate
+0x10001C298	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_FileListDelegate
+0x10001C2B8	0x00000008	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_FileListDelegate
+0x10001C2C0	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_FileOpener
+0x10001C308	0x00000018	[ 41] l_OBJC_CLASS_PROTOCOLS_$_FileOpener
+0x10001C320	0x00000048	[ 41] l_OBJC_CLASS_RO_$_FileOpener
+0x10001C368	0x00000020	[ 41] l_OBJC_$_INSTANCE_METHODS_FileOpener
+0x10001C388	0x00000028	[ 41] l_OBJC_$_INSTANCE_VARIABLES_FileOpener
+0x10001C3B0	0x00000048	[ 41] l_OBJC_$_PROP_LIST_FileOpener
+0x10001C3F8	0x00000048	[ 41] l_OBJC_CLASS_RO_$_RLEFileArray
+0x10001C440	0x00000080	[ 41] l_OBJC_$_INSTANCE_METHODS_RLEFileArray
+0x10001C4C0	0x00000028	[ 41] l_OBJC_$_INSTANCE_VARIABLES_RLEFileArray
+0x10001C4E8	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_RLEFileArray
+0x10001C530	0x00000020	[ 41] l_OBJC_$_CLASS_METHODS_RLEFileArray
+0x10001C550	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_FileDeleter
+0x10001C598	0x00000018	[ 41] l_OBJC_CLASS_PROTOCOLS_$_FileDeleter
+0x10001C5B0	0x00000048	[ 41] l_OBJC_CLASS_RO_$_FileDeleter
+0x10001C5F8	0x00000020	[ 41] l_OBJC_$_INSTANCE_METHODS_FileDeleter
+0x10001C618	0x00000048	[ 41] l_OBJC_$_PROP_LIST_FileDeleter
+0x10001C660	0x00000048	[ 41] l_OBJC_CLASS_RO_$_SetupView
+0x10001C6A8	0x00000068	[ 41] l_OBJC_$_INSTANCE_METHODS_SetupView
+0x10001C710	0x00000028	[ 41] l_OBJC_$_INSTANCE_VARIABLES_SetupView
+0x10001C738	0x00000018	[ 41] l_OBJC_$_PROP_LIST_SetupView
+0x10001C750	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_SetupView
+0x10001C798	0x00000048	[ 41] l_OBJC_CLASS_RO_$_CreditViewController
+0x10001C7E0	0x00000050	[ 41] l_OBJC_$_INSTANCE_METHODS_CreditViewController
+0x10001C830	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_CreditViewController
+0x10001C878	0x00000048	[ 41] l_OBJC_CLASS_RO_$_CreditViewControllerIOS
+0x10001C8C0	0x000000F8	[ 41] l_OBJC_$_INSTANCE_METHODS_CreditViewControllerIOS
+0x10001C9B8	0x00000048	[ 41] l_OBJC_$_INSTANCE_VARIABLES_CreditViewControllerIOS
+0x10001CA00	0x00000028	[ 41] l_OBJC_$_PROP_LIST_CreditViewControllerIOS
+0x10001CA28	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_CreditViewControllerIOS
+0x10001CA70	0x00000048	[ 41] l_OBJC_CLASS_RO_$_WarpLifeAppDelegateIPad
+0x10001CAB8	0x00000128	[ 41] l_OBJC_$_INSTANCE_METHODS_WarpLifeAppDelegateIPad
+0x10001CBE0	0x00000018	[ 41] l_OBJC_CLASS_PROTOCOLS_$_WarpLifeAppDelegateIPad
+0x10001CBF8	0x00000048	[ 41] l_OBJC_$_INSTANCE_VARIABLES_WarpLifeAppDelegateIPad
+0x10001CC40	0x00000068	[ 41] l_OBJC_$_PROP_LIST_WarpLifeAppDelegateIPad
+0x10001CCA8	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_WarpLifeAppDelegateIPad
+0x10001CCF0	0x00000048	[ 41] l_OBJC_CLASS_RO_$_LifeIPadViewController
+0x10001CD38	0x000000B0	[ 41] l_OBJC_$_INSTANCE_METHODS_LifeIPadViewController
+0x10001CDE8	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_LifeIPadViewController
+0x10001CE30	0x00000048	[ 41] l_OBJC_CLASS_RO_$_SetupViewControllerIPad
+0x10001CE78	0x00000050	[ 41] l_OBJC_$_INSTANCE_METHODS_SetupViewControllerIPad
+0x10001CEC8	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_SetupViewControllerIPad
+0x10001CF10	0x00000048	[ 41] l_OBJC_CLASS_RO_$_CreditViewControllerIPad
+0x10001CF58	0x00000038	[ 41] l_OBJC_$_INSTANCE_METHODS_CreditViewControllerIPad
+0x10001CF90	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_CreditViewControllerIPad
+0x10001CFD8	0x00000048	[ 41] l_OBJC_CLASS_RO_$_ManualViewControllerIOS
+0x10001D020	0x00000020	[ 41] l_OBJC_$_INSTANCE_METHODS_ManualViewControllerIOS
+0x10001D040	0x00000028	[ 41] l_OBJC_$_INSTANCE_VARIABLES_ManualViewControllerIOS
+0x10001D068	0x00000048	[ 41] l_OBJC_METACLASS_RO_$_ManualViewControllerIOS
+0x10001D0B0	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0B8	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0C0	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0C8	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0D0	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0D8	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0E0	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0E8	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0F0	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D0F8	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D100	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D108	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D110	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D118	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D120	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D128	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D130	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D138	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D140	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D148	0x00000008	[ 37] pointer-to-literal-cstring
+0x10001D150	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D158	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D160	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D168	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D170	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D178	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D180	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D188	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D190	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D198	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D1F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D200	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D208	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D210	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D218	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D220	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D228	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D230	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D238	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D240	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D248	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D250	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D258	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D260	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D268	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D270	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D278	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D280	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D288	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D290	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D298	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D2F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D300	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D308	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D310	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D318	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D320	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D328	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D330	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D338	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D340	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D348	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D350	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D358	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D360	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D368	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D370	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D378	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D380	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D388	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D390	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D398	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D3F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D400	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D408	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D410	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D418	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D420	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D428	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D430	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D438	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D440	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D448	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D450	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D458	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D460	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D468	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D470	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D478	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D480	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D488	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D490	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D498	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D4F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D500	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D508	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D510	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D518	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D520	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D528	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D530	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D538	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D540	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D548	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D550	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D558	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D560	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D568	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D570	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D578	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D580	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D588	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D590	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D598	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D5F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D600	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D608	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D610	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D618	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D620	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D628	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D630	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D638	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D640	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D648	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D650	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D658	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D660	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D668	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D670	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D678	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D680	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D688	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D690	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D698	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D6F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D700	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D708	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D710	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D718	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D720	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D728	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D730	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D738	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D740	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D748	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D750	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D758	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D760	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D768	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D770	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D778	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D780	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D788	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D790	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D798	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D7F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D800	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D808	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D810	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D818	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D820	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D828	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D830	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D838	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D840	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D848	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D850	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D858	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D860	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D868	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D870	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D878	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D880	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D888	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D890	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D898	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D8F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D900	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D908	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D910	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D918	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D920	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D928	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D930	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D938	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D940	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D948	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D950	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D958	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D960	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D968	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D970	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D978	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D980	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D988	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D990	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D998	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9A0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9A8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9B0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9B8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9C0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9C8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9D0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9D8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9E0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9E8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9F0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001D9F8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA00	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA08	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA10	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA18	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA20	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA28	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA30	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA38	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA40	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA48	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA50	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA58	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA60	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA68	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA70	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA78	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA80	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA88	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA90	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DA98	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAA0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAA8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAB0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAB8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAC0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAC8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAD0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAD8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAE0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAE8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAF0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DAF8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB00	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB08	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB10	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB18	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB20	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB28	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB30	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB38	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB40	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB48	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB50	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB58	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB60	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB68	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB70	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB78	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB80	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB88	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB90	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DB98	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DBA0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DBA8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DBB0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DBB8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DBC0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DBC8	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DBD0	0x00000008	[ 41] pointer-to-literal-cstring
+0x10001DBD8	0x00000008	[ 37] l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+0x10001DBE0	0x00000008	[ 41] objc-class-ref
+0x10001DBE8	0x00000008	[ 41] objc-class-ref
+0x10001DBF0	0x00000008	[ 41] objc-class-ref
+0x10001DBF8	0x00000008	[ 41] objc-class-ref
+0x10001DC00	0x00000008	[ 41] objc-class-ref
+0x10001DC08	0x00000008	[ 41] objc-class-ref
+0x10001DC10	0x00000008	[ 41] objc-class-ref
+0x10001DC18	0x00000008	[ 41] objc-class-ref
+0x10001DC20	0x00000008	[ 41] objc-class-ref
+0x10001DC28	0x00000008	[ 41] objc-class-ref
+0x10001DC30	0x00000008	[ 41] objc-class-ref
+0x10001DC38	0x00000008	[ 41] objc-class-ref
+0x10001DC40	0x00000008	[ 41] objc-class-ref
+0x10001DC48	0x00000008	[ 41] objc-class-ref
+0x10001DC50	0x00000008	[ 41] objc-class-ref
+0x10001DC58	0x00000008	[ 41] objc-class-ref
+0x10001DC60	0x00000008	[ 41] objc-class-ref
+0x10001DC68	0x00000008	[ 41] objc-class-ref
+0x10001DC70	0x00000008	[ 41] objc-class-ref
+0x10001DC78	0x00000008	[ 41] objc-class-ref
+0x10001DC80	0x00000008	[ 41] objc-class-ref
+0x10001DC88	0x00000008	[ 41] objc-class-ref
+0x10001DC90	0x00000008	[ 41] objc-class-ref
+0x10001DC98	0x00000008	[ 41] objc-class-ref
+0x10001DCA0	0x00000008	[ 41] objc-class-ref
+0x10001DCA8	0x00000008	[ 41] objc-class-ref
+0x10001DCB0	0x00000008	[ 41] objc-class-ref
+0x10001DCB8	0x00000008	[ 41] objc-class-ref
+0x10001DCC0	0x00000008	[ 41] objc-class-ref
+0x10001DCC8	0x00000008	[ 41] objc-class-ref
+0x10001DCD0	0x00000008	[ 41] objc-class-ref
+0x10001DCD8	0x00000008	[ 41] objc-class-ref
+0x10001DCE0	0x00000008	[ 41] objc-class-ref
+0x10001DCE8	0x00000008	[ 41] objc-class-ref
+0x10001DCF0	0x00000008	[ 41] objc-class-ref
+0x10001DCF8	0x00000008	[ 41] objc-class-ref
+0x10001DD00	0x00000008	[ 41] objc-class-ref
+0x10001DD08	0x00000008	[ 41] objc-class-ref
+0x10001DD10	0x00000008	[ 41] objc-class-ref
+0x10001DD18	0x00000008	[ 41] objc-class-ref
+0x10001DD20	0x00000008	[ 41] objc-class-ref
+0x10001DD28	0x00000008	[ 41] objc-class-ref
+0x10001DD30	0x00000008	[ 41] objc-class-ref
+0x10001DD38	0x00000008	[ 41] objc-class-ref
+0x10001DD40	0x00000008	[ 41] objc-class-ref
+0x10001DD48	0x000000A8	[ 41] anon
+0x10001DDF0	0x00000008	[  3] _OBJC_IVAR_$_Warp_LifeAppDelegate.window
+0x10001DDF8	0x00000008	[  3] _OBJC_IVAR_$_Warp_LifeAppDelegate.navigationController
+0x10001DE00	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.mView
+0x10001DE08	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.mStartButton
+0x10001DE10	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.mCopyButton
+0x10001DE18	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.mCutButton
+0x10001DE20	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.mPasteButton
+0x10001DE28	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.mClearButton
+0x10001DE30	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.mSpeedSlider
+0x10001DE38	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.mButtonView
+0x10001DE40	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.grid
+0x10001DE48	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.controlView
+0x10001DE50	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.editView
+0x10001DE58	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.controlViewPortrait
+0x10001DE60	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.controlViewLandscape
+0x10001DE68	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.editViewPortrait
+0x10001DE70	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.editViewLandscape
+0x10001DE78	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.startImage
+0x10001DE80	0x00000008	[  4] _OBJC_IVAR_$_LifeIOSViewController.pauseImage
+0x10001DE88	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mStartOrigin
+0x10001DE90	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mGeneration
+0x10001DE98	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mTouchCount
+0x10001DEA0	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mTouchStart
+0x10001DEA8	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mStartLocation
+0x10001DEB0	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mStartPoints
+0x10001DEB8	0x00000008	[  6] _OBJC_IVAR_$_LifeView.saveOrigin
+0x10001DEC0	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mStartSelCoord
+0x10001DEC8	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mRotateCellCorner
+0x10001DED0	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mRotationAngle
+0x10001DED8	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mReflectCellSide
+0x10001DEE0	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mReflectionDistance
+0x10001DEE8	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mOriginalScale
+0x10001DEF0	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mSaveDelay
+0x10001DEF8	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mPrevEditCell
+0x10001DF00	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mPrevEditLocation
+0x10001DF08	0x00000008	[  6] _OBJC_IVAR_$_LifeView.controller
+0x10001DF10	0x00000008	[  6] _OBJC_IVAR_$_LifeView.displayLink
+0x10001DF18	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mGridLines
+0x10001DF20	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mBegan
+0x10001DF28	0x00000008	[  6] _OBJC_IVAR_$_LifeView.mKilling
+0x10001DF30	0x00000008	[  6] _OBJC_IVAR_$_LifeView.editMode
+0x10001DF38	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.cx
+0x10001DF40	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.cy
+0x10001DF48	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.cz
+0x10001DF50	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.lx
+0x10001DF58	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.ly
+0x10001DF60	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.lz
+0x10001DF68	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.px
+0x10001DF70	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.py
+0x10001DF78	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.pz
+0x10001DF80	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.angleSensitivity
+0x10001DF88	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.forceSensitivity
+0x10001DF90	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper._lockout
+0x10001DF98	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper._triggerTime
+0x10001DFA0	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.delegate
+0x10001DFA8	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.motionManager
+0x10001DFB0	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.lockout
+0x10001DFB8	0x00000008	[  7] _OBJC_IVAR_$_AccelerometerHelper.triggerTime
+0x10001DFC0	0x00000008	[ 10] _OBJC_IVAR_$_ModalAlertDelegate.currentLoop
+0x10001DFC8	0x00000008	[ 10] _OBJC_IVAR_$_ModalAlertDelegate.index
+0x10001DFD0	0x00000008	[ 10] _OBJC_IVAR_$_ModalAlertDelegate.text
+0x10001DFD8	0x00000008	[ 10] _OBJC_IVAR_$_ModalAlertDelegate.textView
+0x10001DFE0	0x00000008	[ 12] _OBJC_IVAR_$_LifeClipboard.size
+0x10001DFE8	0x00000008	[ 12] _OBJC_IVAR_$_LifeClipboard.cells
+0x10001DFF0	0x00000008	[ 14] _OBJC_IVAR_$_LifeDisplay.scale
+0x10001DFF8	0x00000008	[ 14] _OBJC_IVAR_$_LifeDisplay.origin
+0x10001E000	0x00000008	[ 14] _OBJC_IVAR_$_LifeDisplay.grid
+0x10001E008	0x00000008	[ 14] _OBJC_IVAR_$_LifeDisplay.drawTime
+0x10001E010	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.startDate
+0x10001E018	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.display
+0x10001E020	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mDisplayGrid
+0x10001E028	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mScratchGrid
+0x10001E030	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mCopyGrid
+0x10001E038	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.selection
+0x10001E040	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mLock
+0x10001E048	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.clipboard
+0x10001E050	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.height
+0x10001E058	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.width
+0x10001E060	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.tickTime
+0x10001E068	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.displayLink
+0x10001E070	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.runLoop
+0x10001E078	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.maxGens
+0x10001E080	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.throttleGens
+0x10001E088	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.genCounterLock
+0x10001E090	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mAccelerometer
+0x10001E098	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.shakeToRandomize
+0x10001E0A0	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mRunning
+0x10001E0A8	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mDelayed
+0x10001E0B0	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mElapsedTime
+0x10001E0B8	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.mSpeedCondition
+0x10001E0C0	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.speedCalibrated
+0x10001E0C8	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.edited
+0x10001E0D0	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.speed
+0x10001E0D8	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.tickSum
+0x10001E0E0	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.tickAverage
+0x10001E0E8	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.tickSamples
+0x10001E0F0	0x00000008	[ 15] _OBJC_IVAR_$_LifeGrid.gensPerRefresh
+0x10001E0F8	0x00000008	[ 17] _OBJC_IVAR_$_LifeSelection.cells
+0x10001E100	0x00000008	[ 17] _OBJC_IVAR_$_LifeSelection.origin
+0x10001E108	0x00000008	[ 17] _OBJC_IVAR_$_LifeSelection.size
+0x10001E110	0x00000008	[ 20] _OBJC_IVAR_$_SetupViewControllerIOS.mWidth
+0x10001E118	0x00000008	[ 20] _OBJC_IVAR_$_SetupViewControllerIOS.mHeight
+0x10001E120	0x00000008	[ 20] _OBJC_IVAR_$_SetupViewControllerIOS.grid
+0x10001E128	0x00000008	[ 20] _OBJC_IVAR_$_SetupViewControllerIOS.portrait
+0x10001E130	0x00000008	[ 20] _OBJC_IVAR_$_SetupViewControllerIOS.landscape
+0x10001E138	0x00000008	[ 20] _OBJC_IVAR_$_SetupViewControllerIOS.shakeToRandomizeSwitch
+0x10001E140	0x00000008	[ 21] _OBJC_IVAR_$_FileListDelegate.setup
+0x10001E148	0x00000008	[ 22] _OBJC_IVAR_$_FileListViewController.setup
+0x10001E150	0x00000008	[ 22] _OBJC_IVAR_$_FileListViewController.files
+0x10001E158	0x00000008	[ 22] _OBJC_IVAR_$_FileListViewController.delegate
+0x10001E160	0x00000008	[ 23] _OBJC_IVAR_$_FileOpener.navigationController
+0x10001E168	0x00000008	[ 24] _OBJC_IVAR_$_RLEFileArray.imp
+0x10001E170	0x00000008	[ 26] _OBJC_IVAR_$_SetupView.controller
+0x10001E178	0x00000008	[ 28] _OBJC_IVAR_$_CreditViewControllerIOS.portrait
+0x10001E180	0x00000008	[ 28] _OBJC_IVAR_$_CreditViewControllerIOS.landscape
+0x10001E188	0x00000008	[ 29] _OBJC_IVAR_$_WarpLifeAppDelegateIPad.window
+0x10001E190	0x00000008	[ 29] _OBJC_IVAR_$_WarpLifeAppDelegateIPad.navigationController
+0x10001E198	0x00000008	[ 33] _OBJC_IVAR_$_ManualViewControllerIOS.webView
+0x10001E1A0	0x00000028	[ 37] _OBJC_METACLASS_$___ARCLite__
+0x10001E1C8	0x00000028	[ 37] __ZL24OBJC_CLASS_$___ARCLite__
+0x10001E1F0	0x00000028	[  3] _OBJC_CLASS_$_Warp_LifeAppDelegate
+0x10001E218	0x00000028	[  3] _OBJC_METACLASS_$_Warp_LifeAppDelegate
+0x10001E240	0x00000028	[  4] _OBJC_CLASS_$_LifeIOSViewController
+0x10001E268	0x00000028	[  4] _OBJC_METACLASS_$_LifeIOSViewController
+0x10001E290	0x00000028	[  5] _OBJC_CLASS_$_LifeIPhoneViewController
+0x10001E2B8	0x00000028	[  5] _OBJC_METACLASS_$_LifeIPhoneViewController
+0x10001E2E0	0x00000028	[  6] _OBJC_CLASS_$_LifeView
+0x10001E308	0x00000028	[  6] _OBJC_METACLASS_$_LifeView
+0x10001E330	0x00000028	[  7] _OBJC_CLASS_$_AccelerometerHelper
+0x10001E358	0x00000028	[  7] _OBJC_METACLASS_$_AccelerometerHelper
+0x10001E380	0x00000028	[  9] _OBJC_CLASS_$_ModalAlert
+0x10001E3A8	0x00000028	[  9] _OBJC_METACLASS_$_ModalAlert
+0x10001E3D0	0x00000028	[ 10] _OBJC_CLASS_$_ModalAlertDelegate
+0x10001E3F8	0x00000028	[ 10] _OBJC_METACLASS_$_ModalAlertDelegate
+0x10001E420	0x00000028	[ 12] _OBJC_METACLASS_$_LifeClipboard
+0x10001E448	0x00000028	[ 12] _OBJC_CLASS_$_LifeClipboard
+0x10001E470	0x00000028	[ 14] _OBJC_CLASS_$_LifeDisplay
+0x10001E498	0x00000028	[ 14] _OBJC_METACLASS_$_LifeDisplay
+0x10001E4C0	0x00000028	[ 15] _OBJC_CLASS_$_LifeGrid
+0x10001E4E8	0x00000028	[ 15] _OBJC_METACLASS_$_LifeGrid
+0x10001E510	0x00000028	[ 16] _OBJC_CLASS_$_LifeRLEFile
+0x10001E538	0x00000028	[ 16] _OBJC_METACLASS_$_LifeRLEFile
+0x10001E560	0x00000028	[ 17] _OBJC_CLASS_$_LifeSelection
+0x10001E588	0x00000028	[ 17] _OBJC_METACLASS_$_LifeSelection
+0x10001E5B0	0x00000028	[ 19] _OBJC_CLASS_$_SetupViewController
+0x10001E5D8	0x00000028	[ 19] _OBJC_METACLASS_$_SetupViewController
+0x10001E600	0x00000028	[ 20] _OBJC_CLASS_$_SetupViewControllerIOS
+0x10001E628	0x00000028	[ 20] _OBJC_METACLASS_$_SetupViewControllerIOS
+0x10001E650	0x00000028	[ 21] _OBJC_METACLASS_$_FileListDelegate
+0x10001E678	0x00000028	[ 21] _OBJC_CLASS_$_FileListDelegate
+0x10001E6A0	0x00000028	[ 22] _OBJC_CLASS_$_FileListViewController
+0x10001E6C8	0x00000028	[ 22] _OBJC_METACLASS_$_FileListViewController
+0x10001E6F0	0x00000028	[ 23] _OBJC_METACLASS_$_FileOpener
+0x10001E718	0x00000028	[ 23] _OBJC_CLASS_$_FileOpener
+0x10001E740	0x00000028	[ 24] _OBJC_CLASS_$_RLEFileArray
+0x10001E768	0x00000028	[ 24] _OBJC_METACLASS_$_RLEFileArray
+0x10001E790	0x00000028	[ 25] _OBJC_METACLASS_$_FileDeleter
+0x10001E7B8	0x00000028	[ 25] _OBJC_CLASS_$_FileDeleter
+0x10001E7E0	0x00000028	[ 26] _OBJC_CLASS_$_SetupView
+0x10001E808	0x00000028	[ 26] _OBJC_METACLASS_$_SetupView
+0x10001E830	0x00000028	[ 27] _OBJC_CLASS_$_CreditViewController
+0x10001E858	0x00000028	[ 27] _OBJC_METACLASS_$_CreditViewController
+0x10001E880	0x00000028	[ 28] _OBJC_CLASS_$_CreditViewControllerIOS
+0x10001E8A8	0x00000028	[ 28] _OBJC_METACLASS_$_CreditViewControllerIOS
+0x10001E8D0	0x00000028	[ 29] _OBJC_CLASS_$_WarpLifeAppDelegateIPad
+0x10001E8F8	0x00000028	[ 29] _OBJC_METACLASS_$_WarpLifeAppDelegateIPad
+0x10001E920	0x00000028	[ 30] _OBJC_CLASS_$_LifeIPadViewController
+0x10001E948	0x00000028	[ 30] _OBJC_METACLASS_$_LifeIPadViewController
+0x10001E970	0x00000028	[ 31] _OBJC_CLASS_$_SetupViewControllerIPad
+0x10001E998	0x00000028	[ 31] _OBJC_METACLASS_$_SetupViewControllerIPad
+0x10001E9C0	0x00000028	[ 32] _OBJC_CLASS_$_CreditViewControllerIPad
+0x10001E9E8	0x00000028	[ 32] _OBJC_METACLASS_$_CreditViewControllerIPad
+0x10001EA10	0x00000028	[ 33] _OBJC_CLASS_$_ManualViewControllerIOS
+0x10001EA38	0x00000028	[ 33] _OBJC_METACLASS_$_ManualViewControllerIOS
+0x10001EA60	0x00000060	[ 37] l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+0x10001EAC0	0x00000040	[ 37] __ZL12demangleLock
+0x10001EB00	0x00000060	[  3] l_OBJC_PROTOCOL_$_UIApplicationDelegate
+0x10001EB60	0x00000060	[  3] l_OBJC_PROTOCOL_$_NSObject
+0x10001EBC0	0x00000060	[  4] l_OBJC_PROTOCOL_$_UIActionSheetDelegate
+0x10001EC20	0x00000060	[  7] l_OBJC_PROTOCOL_$_UIAccelerometerDelegate
+0x10001EC80	0x00000060	[ 10] l_OBJC_PROTOCOL_$_UIAlertViewDelegate
+0x10001ECE0	0x00000060	[ 20] l_OBJC_PROTOCOL_$_UITextFieldDelegate
+0x10001ED40	0x00000060	[ 23] l_OBJC_PROTOCOL_$_FileListDelegate
+0x10001EDA0	0x00000008	[ 37] __ZL30NSUndoManagerProxy_targetClass
+0x10001EDA8	0x00000008	[ 37] __ZL29original_NSManagedObject_init
+0x10001EDB0	0x00000008	[ 37] __ZL40original_NSManagedObject_allocWithEntity
+0x10001EDB8	0x00000008	[ 37] __ZL35original_NSManagedObject_allocBatch
+0x10001EDC0	0x00000008	[ 37] __ZL25NSMutableDictionary_class
+0x10001EDC8	0x00000008	[ 37] __ZL22NSConstantString_class
+0x10001EDD0	0x00000008	[ 37] __ZL14NSString_class
+0x10001EDD8	0x00000008	[ 37] __ZL36original_NSKKMS_fastIndexForKnownKey
+0x10001EDE0	0x00000008	[ 37] __ZL27original_NSKKMS_indexForKey
+0x10001EDE8	0x00000008	[ 37] __ZL28original_NSKKsD_objectForKey
+0x10001EDF0	0x00000008	[ 37] __ZL34original_NSKKsD_removeObjectForKey
+0x10001EDF8	0x00000008	[ 37] __ZL32original_NSKKsD_setObject_forKey
+0x10001EE00	0x00000010	[ 37] __ZL40original_NSKKsD_addEntriesFromDictionary
+0x10001EE10	0x000000B0	[ 37] __ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+0x10001EEC0	0x00000008	[ 37] __ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+0x10001EEC8	0x00000008	[ 37] __ZL31original_objc_allocateClassPair
+0x10001EED0	0x00000008	[ 37] __ZL31original_object_getIndexedIvars
+0x10001EED8	0x00000008	[ 37] __ZL22original_objc_getClass
+0x10001EEE0	0x00000008	[ 37] __ZL26original_objc_getMetaClass
+0x10001EEE8	0x00000008	[ 37] __ZL30original_objc_getRequiredClass
+0x10001EEF0	0x00000008	[ 37] __ZL25original_objc_lookUpClass
+0x10001EEF8	0x00000008	[ 37] __ZL25original_objc_getProtocol
+0x10001EF00	0x00000008	[ 37] __ZL22original_class_getName
+0x10001EF08	0x00000008	[ 37] __ZL25original_protocol_getName
+0x10001EF10	0x00000008	[ 37] __ZL36original_objc_copyClassNamesForImage
+0x10001EF18	0x00000008	[ 37] __ZL9Demangled
+0x10001EF20	0x00000008	[ 41] _sharedManager.onceToken
+
+# Dead Stripped Symbols:
+#        	Size    	File  Name
+<<dead>> 	0x00000000	[  4] l_OBJC_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[  4] l_OBJC_LABEL_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[  7] l_OBJC_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[  7] l_OBJC_LABEL_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 10] l_OBJC_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 10] l_OBJC_LABEL_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 20] l_OBJC_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 20] l_OBJC_LABEL_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 23] l_OBJC_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 23] l_OBJC_LABEL_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 25] l_OBJC_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 25] l_OBJC_LABEL_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 25] l_OBJC_PROTOCOL_$_FileListDelegate
+<<dead>> 	0x00000000	[ 25] l_OBJC_LABEL_PROTOCOL_$_FileListDelegate
+<<dead>> 	0x00000000	[ 29] l_OBJC_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 29] l_OBJC_LABEL_PROTOCOL_$_NSObject
+<<dead>> 	0x00000000	[ 29] l_OBJC_PROTOCOL_$_UIApplicationDelegate
+<<dead>> 	0x00000000	[ 29] l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+<<dead>> 	0x00000018	[ 37] CIE
+<<dead>> 	0x00000000	[ 39] _fabs
+<<dead>> 	0x00000000	[ 39] _sqrt
+<<dead>> 	0x00000000	[ 39] _sqrtf
+<<dead>> 	0x00000010	[ 41] 16-byte-literal
+<<dead>> 	0x00000048	[ 41] l_OBJC_$_PROP_LIST_NSObject.55
+<<dead>> 	0x000001D0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject.56
+<<dead>> 	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject.57
+<<dead>> 	0x000000A0	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject.58
+<<dead>> 	0x00000048	[ 41] l_OBJC_$_PROP_LIST_NSObject.312
+<<dead>> 	0x000001D0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject.313
+<<dead>> 	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject.314
+<<dead>> 	0x000000A0	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject.315
+<<dead>> 	0x00000048	[ 41] l_OBJC_$_PROP_LIST_NSObject.462
+<<dead>> 	0x000001D0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject.463
+<<dead>> 	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject.464
+<<dead>> 	0x000000A0	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject.465
+<<dead>> 	0x00000048	[ 41] l_OBJC_$_PROP_LIST_NSObject.1046
+<<dead>> 	0x000001D0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject.1047
+<<dead>> 	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject.1048
+<<dead>> 	0x000000A0	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject.1049
+<<dead>> 	0x00000048	[ 41] l_OBJC_$_PROP_LIST_NSObject.1207
+<<dead>> 	0x000001D0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject.1208
+<<dead>> 	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject.1209
+<<dead>> 	0x000000A0	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject.1210
+<<dead>> 	0x00000048	[ 41] l_OBJC_$_PROP_LIST_NSObject.1319
+<<dead>> 	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_FileListDelegate.1320
+<<dead>> 	0x000001D0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject.1321
+<<dead>> 	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject.1322
+<<dead>> 	0x00000008	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_FileListDelegate.1323
+<<dead>> 	0x000000A0	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject.1324
+<<dead>> 	0x00000018	[ 41] l_OBJC_$_PROTOCOL_REFS_FileListDelegate.1325
+<<dead>> 	0x00000048	[ 41] l_OBJC_$_PROP_LIST_NSObject.1506
+<<dead>> 	0x00000018	[ 41] l_OBJC_$_PROP_LIST_UIApplicationDelegate.1507
+<<dead>> 	0x000001D0	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject.1508
+<<dead>> 	0x00000020	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject.1509
+<<dead>> 	0x00000488	[ 41] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIApplicationDelegate.1510
+<<dead>> 	0x000000A0	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject.1511
+<<dead>> 	0x00000180	[ 41] l_OBJC_$_PROTOCOL_METHOD_TYPES_UIApplicationDelegate.1512
+<<dead>> 	0x00000018	[ 41] l_OBJC_$_PROTOCOL_REFS_UIApplicationDelegate.1513
+<<dead>> 	0x00000018	[ 41] CIE

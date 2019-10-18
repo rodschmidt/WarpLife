@@ -1,0 +1,721 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Warp_LifeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {772, 630}}";
+			sepNavSelRange = "{248, 217}";
+			sepNavVisRange = "{0, 506}";
+			sepNavWindowFrame = "{{15, 115}, {831, 758}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Warp_LifeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{1241, 660}";
+			sepNavVisRange = "{1240, 1482}";
+			sepNavWindowFrame = "{{61, 73}, {831, 758}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Warp Life */ = {
+		activeExec = 0;
+		executables = (
+			27C3077D13DE1C7800583402 /* Warp Life */,
+		);
+	};
+	2700364413E4A09E0059627C /* WarpLifeAppDelegateIPad.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 656}}";
+			sepNavSelRange = "{507, 0}";
+			sepNavVisRange = "{0, 513}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2700364513E4A09E0059627C /* WarpLifeAppDelegateIPad.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1534}}";
+			sepNavSelRange = "{741, 0}";
+			sepNavVisRange = "{393, 641}";
+			sepNavWindowFrame = "{{498, 86}, {885, 784}}";
+		};
+	};
+	270038B913E4BB3D0059627C /* LifeIPadViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 656}}";
+			sepNavSelRange = "{533, 0}";
+			sepNavVisRange = "{0, 533}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	270038BA13E4BB3D0059627C /* LifeIPadViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1378}}";
+			sepNavSelRange = "{1334, 0}";
+			sepNavVisRange = "{34, 1340}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2702D81013EF604000CBAAAA /* Entitlements.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2703989C13EE1DC7004AFF68 /* LifeView.m:266 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED613E4406E00356EB5 /* LifeView.m */;
+		functionName = "-doubleTap:where:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 266;
+		location = "Warp Life";
+		modificationTime = 334448293.5968261;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	270398B413EE23D8004AFF68 /* LifeView.m:629 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED613E4406E00356EB5 /* LifeView.m */;
+		functionName = "-editOneMoved:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 629;
+		location = "Warp Life";
+		modificationTime = 334448293.596848;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2722AED113E4406E00356EB5 /* LifeIOSViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 1339}}";
+			sepNavSelRange = "{1980, 31}";
+			sepNavVisRange = "{744, 1305}";
+			sepNavWindowFrame = "{{39, 83}, {1107, 769}}";
+		};
+	};
+	2722AED213E4406E00356EB5 /* LifeIOSViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {785, 7371}}";
+			sepNavSelRange = "{5006, 0}";
+			sepNavVisRange = "{5140, 400}";
+			sepNavWindowFrame = "{{223, 84}, {885, 784}}";
+		};
+	};
+	2722AED313E4406E00356EB5 /* LifeIPhoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 641}}";
+			sepNavSelRange = "{526, 0}";
+			sepNavVisRange = "{0, 534}";
+			sepNavWindowFrame = "{{15, 104}, {1107, 769}}";
+		};
+	};
+	2722AED413E4406E00356EB5 /* LifeIPhoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 1404}}";
+			sepNavSelRange = "{1135, 0}";
+			sepNavVisRange = "{560, 1364}";
+			sepNavWindowFrame = "{{38, 83}, {1107, 769}}";
+		};
+	};
+	2722AED513E4406E00356EB5 /* LifeView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 1742}}";
+			sepNavSelRange = "{678, 0}";
+			sepNavVisRange = "{186, 998}";
+			sepNavWindowFrame = "{{168, 73}, {1107, 769}}";
+		};
+	};
+	2722AED613E4406E00356EB5 /* LifeView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 17875}}";
+			sepNavSelRange = "{5356, 54}";
+			sepNavVisRange = "{5017, 880}";
+			sepNavWindowFrame = "{{132, 83}, {1107, 769}}";
+		};
+	};
+	2722AF0F13E4412000356EB5 /* AccelerometerHelper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {785, 2288}}";
+			sepNavSelRange = "{2967, 0}";
+			sepNavVisRange = "{2786, 470}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722AF1313E4412000356EB5 /* ModalAlert.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 1573}}";
+			sepNavSelRange = "{2405, 95}";
+			sepNavVisRange = "{2388, 301}";
+		};
+	};
+	2722AF4113E441F500356EB5 /* LifeDisplay.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 632}";
+			sepNavWindowFrame = "{{38, 83}, {1107, 769}}";
+		};
+	};
+	2722AF4213E441F500356EB5 /* LifeDisplay.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1885}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{0, 865}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722AF4313E441F500356EB5 /* LifeGrid.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1963}}";
+			sepNavSelRange = "{1331, 0}";
+			sepNavVisRange = "{715, 1074}";
+			sepNavWindowFrame = "{{313, 73}, {885, 784}}";
+		};
+	};
+	2722AF4413E441F500356EB5 /* LifeGrid.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 10725}}";
+			sepNavSelRange = "{4442, 0}";
+			sepNavVisRange = "{3763, 941}";
+			sepNavWindowFrame = "{{120, 94}, {885, 784}}";
+		};
+	};
+	2722AF4613E441F500356EB5 /* LifeRLEFile.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 7709}}";
+			sepNavSelRange = "{257, 80}";
+			sepNavVisRange = "{0, 1158}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722AF4713E441F500356EB5 /* LifeRow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 780}}";
+			sepNavSelRange = "{338, 0}";
+			sepNavVisRange = "{254, 189}";
+			sepNavWindowFrame = "{{15, 104}, {1107, 769}}";
+		};
+	};
+	2722AF4813E441F500356EB5 /* LifeRow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 7748}}";
+			sepNavSelRange = "{3813, 6}";
+			sepNavVisRange = "{3763, 191}";
+		};
+	};
+	2722AF4913E441F500356EB5 /* LifeSelection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 676}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1018}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722AF4A13E441F500356EB5 /* LifeSelection.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 5785}}";
+			sepNavSelRange = "{3838, 6}";
+			sepNavVisRange = "{3726, 185}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722AFAE13E445C900356EB5 /* objc_exception_throw */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = libobjc.A.dylib;
+		modificationTime = 334448293.881593;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+		symbolName = objc_exception_throw;
+	};
+	2722B15313E4549400356EB5 /* LifeIOSViewController.m:90 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED213E4406E00356EB5 /* LifeIOSViewController.m */;
+		functionName = "-didRotateFromInterfaceOrientation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 90;
+		location = "Warp Life";
+		modificationTime = 334448293.596325;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2722B16813E4580800356EB5 /* LifeIOSViewController.m:67 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED213E4406E00356EB5 /* LifeIOSViewController.m */;
+		functionName = "-viewWillAppear";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 67;
+		location = "Warp Life";
+		modificationTime = 334448293.596477;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2722B1B113E4682C00356EB5 /* SetupViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 395}";
+			sepNavWindowFrame = "{{15, 104}, {1107, 769}}";
+		};
+	};
+	2722B1B213E4682C00356EB5 /* SetupViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 618}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 645}";
+			sepNavWindowFrame = "{{38, 83}, {1107, 769}}";
+		};
+	};
+	2722B1B313E4682C00356EB5 /* SetupViewControllerIOS.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 663}}";
+			sepNavSelRange = "{288, 0}";
+			sepNavVisRange = "{0, 1248}";
+			sepNavWindowFrame = "{{38, 83}, {1107, 769}}";
+		};
+	};
+	2722B1B413E4682C00356EB5 /* SetupViewControllerIOS.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 3224}}";
+			sepNavSelRange = "{4808, 0}";
+			sepNavVisRange = "{3824, 1079}";
+			sepNavWindowFrame = "{{13, 79}, {1107, 769}}";
+		};
+	};
+	2722B1E013E4694800356EB5 /* FileListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 633}}";
+			sepNavSelRange = "{677, 0}";
+			sepNavVisRange = "{0, 964}";
+			sepNavWindowFrame = "{{496, 79}, {885, 784}}";
+		};
+	};
+	2722B1E113E4694800356EB5 /* FileListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 2379}}";
+			sepNavSelRange = "{308, 0}";
+			sepNavVisRange = "{2017, 1146}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722B1EB13E4696800356EB5 /* FileOpener.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 656}}";
+			sepNavSelRange = "{343, 0}";
+			sepNavVisRange = "{0, 447}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722B1EC13E4696800356EB5 /* FileOpener.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1131}}";
+			sepNavSelRange = "{351, 88}";
+			sepNavVisRange = "{0, 1348}";
+			sepNavWindowFrame = "{{259, 94}, {885, 784}}";
+		};
+	};
+	2722B1F413E4698900356EB5 /* FileDeleter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 656}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 433}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722B1F513E4698900356EB5 /* FileDeleter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 656}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 828}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722B1FD13E469C100356EB5 /* MyIdiomCheck.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 656}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+			sepNavWindowFrame = "{{15, 89}, {885, 784}}";
+		};
+	};
+	2722B21313E46AF200356EB5 /* LifeIPhoneViewController.m:35 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED413E4406E00356EB5 /* LifeIPhoneViewController.m */;
+		functionName = "-setup:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 35;
+		location = "Warp Life";
+		modificationTime = 334448293.596529;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2722B24513E46F0F00356EB5 /* Dulcinea-Technologies.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 83}, {1107, 769}}";
+		};
+	};
+	2722B24A13E470FA00356EB5 /* CreditViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 377}";
+			sepNavWindowFrame = "{{15, 104}, {1107, 769}}";
+		};
+	};
+	2722B24B13E470FA00356EB5 /* CreditViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 622}";
+			sepNavWindowFrame = "{{38, 83}, {1107, 769}}";
+		};
+	};
+	2722B24C13E470FA00356EB5 /* CreditViewControllerIOS.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 641}}";
+			sepNavSelRange = "{647, 0}";
+			sepNavVisRange = "{0, 652}";
+			sepNavWindowFrame = "{{15, 104}, {1107, 769}}";
+		};
+	};
+	2722B24D13E470FA00356EB5 /* CreditViewControllerIOS.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 1157}}";
+			sepNavSelRange = "{353, 0}";
+			sepNavVisRange = "{0, 953}";
+			sepNavWindowFrame = "{{38, 83}, {1107, 769}}";
+		};
+	};
+	2722B26613E471B100356EB5 /* LifeIPhoneViewController.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED413E4406E00356EB5 /* LifeIPhoneViewController.m */;
+		functionName = "-credits:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 50;
+		location = "Warp Life";
+		modificationTime = 334448293.596558;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2725227413E4D25700D1C9AC /* WarpLifeAppDelegateIPad.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2700364513E4A09E0059627C /* WarpLifeAppDelegateIPad.m */;
+		functionName = "-application:didFinishLaunchingWithOptions:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = "Warp Life";
+		modificationTime = 334448293.5965861;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	272522AF13E4DDC700D1C9AC /* LifeIPadViewController.m:22 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 270038BA13E4BB3D0059627C /* LifeIPadViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 22;
+		location = "Warp Life";
+		modificationTime = 334448293.596608;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	272522B713E4DE4000D1C9AC /* LifeIOSViewController.m:41 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED213E4406E00356EB5 /* LifeIOSViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 41;
+		location = "Warp Life";
+		modificationTime = 334448293.596627;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	272522C113E4DEFD00D1C9AC /* WarpLifeAppDelegateIPad.m:31 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2700364513E4A09E0059627C /* WarpLifeAppDelegateIPad.m */;
+		functionName = "-application:didFinishLaunchingWithOptions:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 31;
+		location = "Warp Life";
+		modificationTime = 334448293.5966781;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	27BE4C5213EF371200B5670E /* LifeIOSViewController.m:211 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED213E4406E00356EB5 /* LifeIOSViewController.m */;
+		functionName = "-toggleEditMode";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 211;
+		location = "Warp Life";
+		modificationTime = 334448293.596872;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	27C3077D13DE1C7800583402 /* Warp Life */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Warp Life";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	27C3078713DE1C7D00583402 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	27C3078813DE1C7D00583402 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27C5B9C813E5011F00A1ACD8 /* LifeIOSViewController.m:382 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AED213E4406E00356EB5 /* LifeIOSViewController.m */;
+		functionName = "-actionSheet:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 382;
+		location = "Warp Life";
+		modificationTime = 334448293.596709;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	27F4F74113E5B49600073C1C /* SetupViewControllerIOS.m:139 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722B1B413E4682C00356EB5 /* SetupViewControllerIOS.m */;
+		functionName = "-shakeToRandomize:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 139;
+		location = "Warp Life";
+		modificationTime = 334448293.596763;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	27F4F74B13E5B51A00073C1C /* LifeGrid.m:808 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AF4413E441F500356EB5 /* LifeGrid.m */;
+		functionName = "-shake";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 808;
+		location = "Warp Life";
+		modificationTime = 334448293.8508331;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	27F4F75A13E5B57500073C1C /* AccelerometerHelper.m:158 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2722AF0F13E4412000356EB5 /* AccelerometerHelper.m */;
+		functionName = "-accelerometer:didAccelerate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 158;
+		location = "Warp Life";
+		modificationTime = 334448293.596807;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 27C3077D13DE1C7800583402 /* Warp Life */;
+		activeSDKPreference = iphoneos3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Warp Life */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Warp Life */,
+		);
+		breakpoints = (
+			2722AFAE13E445C900356EB5 /* objc_exception_throw */,
+			2722B15313E4549400356EB5 /* LifeIOSViewController.m:90 */,
+			2722B16813E4580800356EB5 /* LifeIOSViewController.m:67 */,
+			2722B21313E46AF200356EB5 /* LifeIPhoneViewController.m:35 */,
+			2722B26613E471B100356EB5 /* LifeIPhoneViewController.m:50 */,
+			2725227413E4D25700D1C9AC /* WarpLifeAppDelegateIPad.m:43 */,
+			272522AF13E4DDC700D1C9AC /* LifeIPadViewController.m:22 */,
+			272522B713E4DE4000D1C9AC /* LifeIOSViewController.m:41 */,
+			272522C113E4DEFD00D1C9AC /* WarpLifeAppDelegateIPad.m:31 */,
+			27C5B9C813E5011F00A1ACD8 /* LifeIOSViewController.m:382 */,
+			27F4F74113E5B49600073C1C /* SetupViewControllerIOS.m:139 */,
+			27F4F74B13E5B51A00073C1C /* LifeGrid.m:808 */,
+			27F4F75A13E5B57500073C1C /* AccelerometerHelper.m:158 */,
+			2703989C13EE1DC7004AFF68 /* LifeView.m:266 */,
+			270398B413EE23D8004AFF68 /* LifeView.m:629 */,
+			27BE4C5213EF371200B5670E /* LifeIOSViewController.m:211 */,
+		);
+		codeSenseManager = 27C3078813DE1C7D00583402 /* Code sense */;
+		executables = (
+			27C3077D13DE1C7800583402 /* Warp Life */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					238,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 334458584;
+			PBXWorkspaceStateSaveDate = 334458584;
+		};
+		sourceControlManager = 27C3078713DE1C7D00583402 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* Warp_Life-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1041}";
+			sepNavWindowFrame = "{{304, 73}, {1107, 769}}";
+		};
+	};
+}

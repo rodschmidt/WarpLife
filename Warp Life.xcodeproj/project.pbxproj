@@ -1,0 +1,757 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* Warp_LifeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* Warp_LifeAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2700364813E4A09E0059627C /* WarpLifeAppDelegateIPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 2700364513E4A09E0059627C /* WarpLifeAppDelegateIPad.m */; };
+		2700375713E4AF720059627C /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 2700375613E4AF720059627C /* iTunesArtwork */; };
+		2700385513E4B04E0059627C /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2700385413E4B04E0059627C /* Icon.png */; };
+		270038BB13E4BB3D0059627C /* LifeIPadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 270038BA13E4BB3D0059627C /* LifeIPadViewController.m */; };
+		2701F3911736CCA600D8932F /* ManualViewControllerIOS.m in Sources */ = {isa = PBXBuildFile; fileRef = 2701F3901736CCA600D8932F /* ManualViewControllerIOS.m */; };
+		271D19681F25A47E00DE3368 /* Application Data in Resources */ = {isa = PBXBuildFile; fileRef = 271D19671F25A47E00DE3368 /* Application Data */; };
+		2722AED713E4406E00356EB5 /* LifeIOSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AED213E4406E00356EB5 /* LifeIOSViewController.m */; };
+		2722AED813E4406E00356EB5 /* LifeIPhoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AED413E4406E00356EB5 /* LifeIPhoneViewController.m */; };
+		2722AED913E4406E00356EB5 /* LifeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AED613E4406E00356EB5 /* LifeView.m */; };
+		2722AF1813E4412000356EB5 /* AccelerometerHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF0F13E4412000356EB5 /* AccelerometerHelper.m */; };
+		2722AF1913E4412000356EB5 /* AllSubviews.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF1113E4412000356EB5 /* AllSubviews.m */; };
+		2722AF1A13E4412000356EB5 /* ModalAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF1313E4412000356EB5 /* ModalAlert.m */; };
+		2722AF1B13E4412000356EB5 /* ModalAlertDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF1513E4412000356EB5 /* ModalAlertDelegate.m */; };
+		2722AF1C13E4412000356EB5 /* RepositionSubviews.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF1713E4412000356EB5 /* RepositionSubviews.m */; };
+		2722AF4D13E441F500356EB5 /* GridCoord.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF3E13E441F500356EB5 /* GridCoord.m */; };
+		2722AF4E13E441F500356EB5 /* LifeClipboard.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF4013E441F500356EB5 /* LifeClipboard.m */; };
+		2722AF4F13E441F500356EB5 /* LifeDisplay.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF4213E441F500356EB5 /* LifeDisplay.m */; };
+		2722AF5013E441F500356EB5 /* LifeGrid.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF4413E441F500356EB5 /* LifeGrid.m */; };
+		2722AF5113E441F500356EB5 /* LifeRLEFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF4613E441F500356EB5 /* LifeRLEFile.m */; };
+		2722AF5313E441F500356EB5 /* LifeSelection.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF4A13E441F500356EB5 /* LifeSelection.m */; };
+		2722AF5413E441F500356EB5 /* NeighborLut.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722AF4C13E441F500356EB5 /* NeighborLut.m */; };
+		2722AF9D13E4454800356EB5 /* Document.png in Resources */ = {isa = PBXBuildFile; fileRef = 2722AF9713E4454800356EB5 /* Document.png */; };
+		2722AF9F13E4454800356EB5 /* Pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 2722AF9913E4454800356EB5 /* Pause.png */; };
+		2722AFA013E4454800356EB5 /* Setup.png in Resources */ = {isa = PBXBuildFile; fileRef = 2722AF9A13E4454800356EB5 /* Setup.png */; };
+		2722AFA113E4454800356EB5 /* Start.png in Resources */ = {isa = PBXBuildFile; fileRef = 2722AF9B13E4454800356EB5 /* Start.png */; };
+		2722AFA213E4454800356EB5 /* Step.png in Resources */ = {isa = PBXBuildFile; fileRef = 2722AF9C13E4454800356EB5 /* Step.png */; };
+		2722B1B513E4682C00356EB5 /* SetupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B1B213E4682C00356EB5 /* SetupViewController.m */; };
+		2722B1B613E4682C00356EB5 /* SetupViewControllerIOS.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B1B413E4682C00356EB5 /* SetupViewControllerIOS.m */; };
+		2722B1E213E4694800356EB5 /* FileListDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B1DF13E4694800356EB5 /* FileListDelegate.m */; };
+		2722B1E313E4694800356EB5 /* FileListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B1E113E4694800356EB5 /* FileListViewController.m */; };
+		2722B1ED13E4696800356EB5 /* FileOpener.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B1EC13E4696800356EB5 /* FileOpener.m */; };
+		2722B1F613E4698900356EB5 /* FileDeleter.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B1F513E4698900356EB5 /* FileDeleter.m */; };
+		2722B1FF13E469C100356EB5 /* MyIdiomCheck.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B1FE13E469C100356EB5 /* MyIdiomCheck.m */; };
+		2722B23013E46D2600356EB5 /* SetupView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B22F13E46D2600356EB5 /* SetupView.m */; };
+		2722B24613E46F0F00356EB5 /* Dulcinea-Technologies.png in Resources */ = {isa = PBXBuildFile; fileRef = 2722B24513E46F0F00356EB5 /* Dulcinea-Technologies.png */; };
+		2722B24E13E470FA00356EB5 /* CreditViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B24B13E470FA00356EB5 /* CreditViewController.m */; };
+		2722B24F13E470FA00356EB5 /* CreditViewControllerIOS.m in Sources */ = {isa = PBXBuildFile; fileRef = 2722B24D13E470FA00356EB5 /* CreditViewControllerIOS.m */; };
+		2725224913E4CCDD00D1C9AC /* SetupViewControllerIPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 2725224813E4CCDD00D1C9AC /* SetupViewControllerIPad.m */; };
+		2725225613E4CD0100D1C9AC /* CreditViewControllerIPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 2725225513E4CD0100D1C9AC /* CreditViewControllerIPad.m */; };
+		2727B9881796989200F1927B /* Manual in Resources */ = {isa = PBXBuildFile; fileRef = 2727B9871796989200F1927B /* Manual */; };
+		275B49701732EE4600A66A98 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 275B496F1732EE4600A66A98 /* CoreMotion.framework */; };
+		27890F961A3DB5EB004C5C92 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 27890F951A3DB5EB004C5C92 /* Default@2x.png */; };
+		27890F981A3DB7F8004C5C92 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 27890F971A3DB7F8004C5C92 /* Default.png */; };
+		278CD42B18928AEB005F7022 /* RLEFileArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 278CD42A18928AEB005F7022 /* RLEFileArray.m */; };
+		27986DC419CE9298006D9C18 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27986DC319CE9298006D9C18 /* QuartzCore.framework */; };
+		279D721A17370D5A005E32D1 /* ManualViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 279D721917370D5A005E32D1 /* ManualViewController_iPhone.xib */; };
+		27A75BBF1AA743E600407BCB /* LifeRow.c in Sources */ = {isa = PBXBuildFile; fileRef = 27A75BBE1AA743E600407BCB /* LifeRow.c */; };
+		27C5B97713E4F09B00A1ACD8 /* CreditViewControllerIPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27C5B97313E4F09B00A1ACD8 /* CreditViewControllerIPad.xib */; };
+		27C5B97813E4F09B00A1ACD8 /* LifeIPadViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27C5B97413E4F09B00A1ACD8 /* LifeIPadViewController.xib */; };
+		27C5B97913E4F09B00A1ACD8 /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27C5B97513E4F09B00A1ACD8 /* MainWindow-iPad.xib */; };
+		27C5B97A13E4F09B00A1ACD8 /* SetupViewControllerIPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27C5B97613E4F09B00A1ACD8 /* SetupViewControllerIPad.xib */; };
+		27C5B97F13E4F0C000A1ACD8 /* CreditViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27C5B97B13E4F0C000A1ACD8 /* CreditViewController.xib */; };
+		27C5B98013E4F0C000A1ACD8 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27C5B97C13E4F0C000A1ACD8 /* MainWindow.xib */; };
+		27C5B98113E4F0C000A1ACD8 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27C5B97D13E4F0C000A1ACD8 /* RootViewController.xib */; };
+		27C5B98213E4F0C000A1ACD8 /* SetupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27C5B97E13E4F0C000A1ACD8 /* SetupViewController.xib */; };
+		27E2CB6C176C2E3D0038BA9E /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27E2CB6B176C2E3D0038BA9E /* Accelerate.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* Warp_LifeAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Warp_LifeAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* Warp_LifeAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Warp_LifeAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Warp Life.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Warp Life.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2700364413E4A09E0059627C /* WarpLifeAppDelegateIPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WarpLifeAppDelegateIPad.h; sourceTree = "<group>"; };
+		2700364513E4A09E0059627C /* WarpLifeAppDelegateIPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WarpLifeAppDelegateIPad.m; sourceTree = "<group>"; };
+		2700375613E4AF720059627C /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; name = iTunesArtwork; path = Images/iTunesArtwork; sourceTree = "<group>"; };
+		2700385413E4B04E0059627C /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = Images/Icon.png; sourceTree = "<group>"; };
+		270038B913E4BB3D0059627C /* LifeIPadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeIPadViewController.h; sourceTree = "<group>"; };
+		270038BA13E4BB3D0059627C /* LifeIPadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeIPadViewController.m; sourceTree = "<group>"; };
+		2701F38A1736C5F200D8932F /* ManualViewControllerIOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ManualViewControllerIOS.h; sourceTree = "<group>"; };
+		2701F3901736CCA600D8932F /* ManualViewControllerIOS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManualViewControllerIOS.m; sourceTree = "<group>"; };
+		2702D81013EF604000CBAAAA /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		271D19671F25A47E00DE3368 /* Application Data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Application Data"; sourceTree = "<group>"; };
+		2722AED113E4406E00356EB5 /* LifeIOSViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeIOSViewController.h; sourceTree = "<group>"; };
+		2722AED213E4406E00356EB5 /* LifeIOSViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeIOSViewController.m; sourceTree = "<group>"; };
+		2722AED313E4406E00356EB5 /* LifeIPhoneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeIPhoneViewController.h; sourceTree = "<group>"; };
+		2722AED413E4406E00356EB5 /* LifeIPhoneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeIPhoneViewController.m; sourceTree = "<group>"; };
+		2722AED513E4406E00356EB5 /* LifeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeView.h; sourceTree = "<group>"; };
+		2722AED613E4406E00356EB5 /* LifeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeView.m; sourceTree = "<group>"; };
+		2722AF0E13E4412000356EB5 /* AccelerometerHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AccelerometerHelper.h; sourceTree = "<group>"; };
+		2722AF0F13E4412000356EB5 /* AccelerometerHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AccelerometerHelper.m; sourceTree = "<group>"; };
+		2722AF1013E4412000356EB5 /* AllSubviews.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllSubviews.h; sourceTree = "<group>"; };
+		2722AF1113E4412000356EB5 /* AllSubviews.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllSubviews.m; sourceTree = "<group>"; };
+		2722AF1213E4412000356EB5 /* ModalAlert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModalAlert.h; sourceTree = "<group>"; };
+		2722AF1313E4412000356EB5 /* ModalAlert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModalAlert.m; sourceTree = "<group>"; };
+		2722AF1413E4412000356EB5 /* ModalAlertDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModalAlertDelegate.h; sourceTree = "<group>"; };
+		2722AF1513E4412000356EB5 /* ModalAlertDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModalAlertDelegate.m; sourceTree = "<group>"; };
+		2722AF1613E4412000356EB5 /* RepositionSubviews.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RepositionSubviews.h; sourceTree = "<group>"; };
+		2722AF1713E4412000356EB5 /* RepositionSubviews.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RepositionSubviews.m; sourceTree = "<group>"; };
+		2722AF3C13E441F500356EB5 /* CellRun.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CellRun.h; sourceTree = "<group>"; };
+		2722AF3D13E441F500356EB5 /* GridCoord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GridCoord.h; sourceTree = "<group>"; };
+		2722AF3E13E441F500356EB5 /* GridCoord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GridCoord.m; sourceTree = "<group>"; };
+		2722AF3F13E441F500356EB5 /* LifeClipboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeClipboard.h; sourceTree = "<group>"; };
+		2722AF4013E441F500356EB5 /* LifeClipboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeClipboard.m; sourceTree = "<group>"; };
+		2722AF4113E441F500356EB5 /* LifeDisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeDisplay.h; sourceTree = "<group>"; };
+		2722AF4213E441F500356EB5 /* LifeDisplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeDisplay.m; sourceTree = "<group>"; };
+		2722AF4313E441F500356EB5 /* LifeGrid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeGrid.h; sourceTree = "<group>"; };
+		2722AF4413E441F500356EB5 /* LifeGrid.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeGrid.m; sourceTree = "<group>"; };
+		2722AF4513E441F500356EB5 /* LifeRLEFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeRLEFile.h; sourceTree = "<group>"; };
+		2722AF4613E441F500356EB5 /* LifeRLEFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeRLEFile.m; sourceTree = "<group>"; };
+		2722AF4713E441F500356EB5 /* LifeRow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeRow.h; sourceTree = "<group>"; };
+		2722AF4913E441F500356EB5 /* LifeSelection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LifeSelection.h; sourceTree = "<group>"; };
+		2722AF4A13E441F500356EB5 /* LifeSelection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LifeSelection.m; sourceTree = "<group>"; };
+		2722AF4B13E441F500356EB5 /* NeighborLut.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NeighborLut.h; sourceTree = "<group>"; };
+		2722AF4C13E441F500356EB5 /* NeighborLut.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NeighborLut.m; sourceTree = "<group>"; };
+		2722AF9713E4454800356EB5 /* Document.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Document.png; path = Images/Document.png; sourceTree = "<group>"; };
+		2722AF9913E4454800356EB5 /* Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Pause.png; path = Images/Pause.png; sourceTree = "<group>"; };
+		2722AF9A13E4454800356EB5 /* Setup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Setup.png; path = Images/Setup.png; sourceTree = "<group>"; };
+		2722AF9B13E4454800356EB5 /* Start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Start.png; path = Images/Start.png; sourceTree = "<group>"; };
+		2722AF9C13E4454800356EB5 /* Step.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Step.png; path = Images/Step.png; sourceTree = "<group>"; };
+		2722B1B113E4682C00356EB5 /* SetupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetupViewController.h; sourceTree = "<group>"; };
+		2722B1B213E4682C00356EB5 /* SetupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetupViewController.m; sourceTree = "<group>"; };
+		2722B1B313E4682C00356EB5 /* SetupViewControllerIOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetupViewControllerIOS.h; sourceTree = "<group>"; };
+		2722B1B413E4682C00356EB5 /* SetupViewControllerIOS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetupViewControllerIOS.m; sourceTree = "<group>"; };
+		2722B1DE13E4694800356EB5 /* FileListDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileListDelegate.h; sourceTree = "<group>"; };
+		2722B1DF13E4694800356EB5 /* FileListDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileListDelegate.m; sourceTree = "<group>"; };
+		2722B1E013E4694800356EB5 /* FileListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileListViewController.h; sourceTree = "<group>"; };
+		2722B1E113E4694800356EB5 /* FileListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileListViewController.m; sourceTree = "<group>"; };
+		2722B1EB13E4696800356EB5 /* FileOpener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileOpener.h; sourceTree = "<group>"; };
+		2722B1EC13E4696800356EB5 /* FileOpener.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileOpener.m; sourceTree = "<group>"; };
+		2722B1F413E4698900356EB5 /* FileDeleter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileDeleter.h; sourceTree = "<group>"; };
+		2722B1F513E4698900356EB5 /* FileDeleter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileDeleter.m; sourceTree = "<group>"; };
+		2722B1FD13E469C100356EB5 /* MyIdiomCheck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyIdiomCheck.h; sourceTree = "<group>"; };
+		2722B1FE13E469C100356EB5 /* MyIdiomCheck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyIdiomCheck.m; sourceTree = "<group>"; };
+		2722B22E13E46D2600356EB5 /* SetupView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetupView.h; sourceTree = "<group>"; };
+		2722B22F13E46D2600356EB5 /* SetupView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetupView.m; sourceTree = "<group>"; };
+		2722B24513E46F0F00356EB5 /* Dulcinea-Technologies.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Dulcinea-Technologies.png"; path = "Images/Dulcinea-Technologies.png"; sourceTree = "<group>"; };
+		2722B24A13E470FA00356EB5 /* CreditViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreditViewController.h; sourceTree = "<group>"; };
+		2722B24B13E470FA00356EB5 /* CreditViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreditViewController.m; sourceTree = "<group>"; };
+		2722B24C13E470FA00356EB5 /* CreditViewControllerIOS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreditViewControllerIOS.h; sourceTree = "<group>"; };
+		2722B24D13E470FA00356EB5 /* CreditViewControllerIOS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreditViewControllerIOS.m; sourceTree = "<group>"; };
+		2725224713E4CCDD00D1C9AC /* SetupViewControllerIPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetupViewControllerIPad.h; sourceTree = "<group>"; };
+		2725224813E4CCDD00D1C9AC /* SetupViewControllerIPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetupViewControllerIPad.m; sourceTree = "<group>"; };
+		2725225413E4CD0100D1C9AC /* CreditViewControllerIPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreditViewControllerIPad.h; sourceTree = "<group>"; };
+		2725225513E4CD0100D1C9AC /* CreditViewControllerIPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreditViewControllerIPad.m; sourceTree = "<group>"; };
+		2727B9871796989200F1927B /* Manual */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Manual; sourceTree = "<group>"; };
+		275B496F1732EE4600A66A98 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		27890F951A3DB5EB004C5C92 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "Images/Default@2x.png"; sourceTree = "<group>"; };
+		27890F971A3DB7F8004C5C92 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = Images/Default.png; sourceTree = "<group>"; };
+		278CD42918928AEB005F7022 /* RLEFileArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RLEFileArray.h; sourceTree = "<group>"; };
+		278CD42A18928AEB005F7022 /* RLEFileArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RLEFileArray.m; sourceTree = "<group>"; };
+		27986DC319CE9298006D9C18 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		279D721917370D5A005E32D1 /* ManualViewController_iPhone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ManualViewController_iPhone.xib; path = Nibs/iPhone/ManualViewController_iPhone.xib; sourceTree = "<group>"; };
+		27A75BBE1AA743E600407BCB /* LifeRow.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = LifeRow.c; sourceTree = "<group>"; };
+		27C5B97313E4F09B00A1ACD8 /* CreditViewControllerIPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CreditViewControllerIPad.xib; path = Nibs/iPad/CreditViewControllerIPad.xib; sourceTree = "<group>"; };
+		27C5B97413E4F09B00A1ACD8 /* LifeIPadViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LifeIPadViewController.xib; path = Nibs/iPad/LifeIPadViewController.xib; sourceTree = "<group>"; };
+		27C5B97513E4F09B00A1ACD8 /* MainWindow-iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "MainWindow-iPad.xib"; path = "Nibs/iPad/MainWindow-iPad.xib"; sourceTree = "<group>"; };
+		27C5B97613E4F09B00A1ACD8 /* SetupViewControllerIPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SetupViewControllerIPad.xib; path = Nibs/iPad/SetupViewControllerIPad.xib; sourceTree = "<group>"; };
+		27C5B97B13E4F0C000A1ACD8 /* CreditViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CreditViewController.xib; path = Nibs/iPhone/CreditViewController.xib; sourceTree = "<group>"; };
+		27C5B97C13E4F0C000A1ACD8 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = Nibs/iPhone/MainWindow.xib; sourceTree = "<group>"; };
+		27C5B97D13E4F0C000A1ACD8 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = RootViewController.xib; path = Nibs/iPhone/RootViewController.xib; sourceTree = "<group>"; };
+		27C5B97E13E4F0C000A1ACD8 /* SetupViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SetupViewController.xib; path = Nibs/iPhone/SetupViewController.xib; sourceTree = "<group>"; };
+		27E2CB6B176C2E3D0038BA9E /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* Warp_Life_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Warp_Life_Prefix.pch; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Warp_Life-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Warp_Life-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				27986DC419CE9298006D9C18 /* QuartzCore.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				275B49701732EE4600A66A98 /* CoreMotion.framework in Frameworks */,
+				27E2CB6C176C2E3D0038BA9E /* Accelerate.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				27C5B98713E4F1F000A1ACD8 /* File List */,
+				27C5B98513E4F17600A1ACD8 /* iPad View Controllers */,
+				27C5B98313E4F0E200A1ACD8 /* iOS View Controllers */,
+				27C5B98413E4F14000A1ACD8 /* iPhone View Controllers */,
+				2722B1FD13E469C100356EB5 /* MyIdiomCheck.h */,
+				2722B1FE13E469C100356EB5 /* MyIdiomCheck.m */,
+				2722AED513E4406E00356EB5 /* LifeView.h */,
+				2722AED613E4406E00356EB5 /* LifeView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Warp Life.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2700363A13E4A02A0059627C /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				279D721917370D5A005E32D1 /* ManualViewController_iPhone.xib */,
+				27C5B97B13E4F0C000A1ACD8 /* CreditViewController.xib */,
+				27C5B97C13E4F0C000A1ACD8 /* MainWindow.xib */,
+				27C5B97D13E4F0C000A1ACD8 /* RootViewController.xib */,
+				27C5B97E13E4F0C000A1ACD8 /* SetupViewController.xib */,
+			);
+			name = iPhone;
+			sourceTree = "<group>";
+		};
+		2700363B13E4A04A0059627C /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				27C5B97313E4F09B00A1ACD8 /* CreditViewControllerIPad.xib */,
+				27C5B97413E4F09B00A1ACD8 /* LifeIPadViewController.xib */,
+				27C5B97513E4F09B00A1ACD8 /* MainWindow-iPad.xib */,
+				27C5B97613E4F09B00A1ACD8 /* SetupViewControllerIPad.xib */,
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
+		2722AEEB13E440E900356EB5 /* LifeLibCocoa */ = {
+			isa = PBXGroup;
+			children = (
+				2722AF3C13E441F500356EB5 /* CellRun.h */,
+				2722AF3D13E441F500356EB5 /* GridCoord.h */,
+				2722AF3E13E441F500356EB5 /* GridCoord.m */,
+				2722AF3F13E441F500356EB5 /* LifeClipboard.h */,
+				2722AF4013E441F500356EB5 /* LifeClipboard.m */,
+				2722AF4113E441F500356EB5 /* LifeDisplay.h */,
+				2722AF4213E441F500356EB5 /* LifeDisplay.m */,
+				2722AF4313E441F500356EB5 /* LifeGrid.h */,
+				2722AF4413E441F500356EB5 /* LifeGrid.m */,
+				2722AF4513E441F500356EB5 /* LifeRLEFile.h */,
+				278CD42918928AEB005F7022 /* RLEFileArray.h */,
+				278CD42A18928AEB005F7022 /* RLEFileArray.m */,
+				2722AF4613E441F500356EB5 /* LifeRLEFile.m */,
+				2722AF4713E441F500356EB5 /* LifeRow.h */,
+				27A75BBE1AA743E600407BCB /* LifeRow.c */,
+				2722AF4913E441F500356EB5 /* LifeSelection.h */,
+				2722AF4A13E441F500356EB5 /* LifeSelection.m */,
+				2722AF4B13E441F500356EB5 /* NeighborLut.h */,
+				2722AF4C13E441F500356EB5 /* NeighborLut.m */,
+			);
+			path = LifeLibCocoa;
+			sourceTree = "<group>";
+		};
+		2722AF0D13E4412000356EB5 /* iPhoneDevelopersCookbook */ = {
+			isa = PBXGroup;
+			children = (
+				2722AF0E13E4412000356EB5 /* AccelerometerHelper.h */,
+				2722AF0F13E4412000356EB5 /* AccelerometerHelper.m */,
+				2722AF1013E4412000356EB5 /* AllSubviews.h */,
+				2722AF1113E4412000356EB5 /* AllSubviews.m */,
+				2722AF1213E4412000356EB5 /* ModalAlert.h */,
+				2722AF1313E4412000356EB5 /* ModalAlert.m */,
+				2722AF1413E4412000356EB5 /* ModalAlertDelegate.h */,
+				2722AF1513E4412000356EB5 /* ModalAlertDelegate.m */,
+				2722AF1613E4412000356EB5 /* RepositionSubviews.h */,
+				2722AF1713E4412000356EB5 /* RepositionSubviews.m */,
+			);
+			path = iPhoneDevelopersCookbook;
+			sourceTree = "<group>";
+		};
+		2722AF9613E4450A00356EB5 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				27890F971A3DB7F8004C5C92 /* Default.png */,
+				27890F951A3DB5EB004C5C92 /* Default@2x.png */,
+				2700385413E4B04E0059627C /* Icon.png */,
+				2700375613E4AF720059627C /* iTunesArtwork */,
+				2722B24513E46F0F00356EB5 /* Dulcinea-Technologies.png */,
+				2722AF9713E4454800356EB5 /* Document.png */,
+				2722AF9913E4454800356EB5 /* Pause.png */,
+				2722AF9A13E4454800356EB5 /* Setup.png */,
+				2722AF9B13E4454800356EB5 /* Start.png */,
+				2722AF9C13E4454800356EB5 /* Step.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		27C5B98313E4F0E200A1ACD8 /* iOS View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2722B24C13E470FA00356EB5 /* CreditViewControllerIOS.h */,
+				2722B24D13E470FA00356EB5 /* CreditViewControllerIOS.m */,
+				2722AED113E4406E00356EB5 /* LifeIOSViewController.h */,
+				2722AED213E4406E00356EB5 /* LifeIOSViewController.m */,
+				2701F38A1736C5F200D8932F /* ManualViewControllerIOS.h */,
+				2701F3901736CCA600D8932F /* ManualViewControllerIOS.m */,
+				2722B1B413E4682C00356EB5 /* SetupViewControllerIOS.m */,
+				2722B1B313E4682C00356EB5 /* SetupViewControllerIOS.h */,
+			);
+			name = "iOS View Controllers";
+			sourceTree = "<group>";
+		};
+		27C5B98413E4F14000A1ACD8 /* iPhone View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2722B22F13E46D2600356EB5 /* SetupView.m */,
+				2722B22E13E46D2600356EB5 /* SetupView.h */,
+				1D3623240D0F684500981E51 /* Warp_LifeAppDelegate.h */,
+				1D3623250D0F684500981E51 /* Warp_LifeAppDelegate.m */,
+				2722B24A13E470FA00356EB5 /* CreditViewController.h */,
+				2722B24B13E470FA00356EB5 /* CreditViewController.m */,
+				2722B1B113E4682C00356EB5 /* SetupViewController.h */,
+				2722B1B213E4682C00356EB5 /* SetupViewController.m */,
+				2722AED313E4406E00356EB5 /* LifeIPhoneViewController.h */,
+				2722AED413E4406E00356EB5 /* LifeIPhoneViewController.m */,
+			);
+			name = "iPhone View Controllers";
+			sourceTree = "<group>";
+		};
+		27C5B98513E4F17600A1ACD8 /* iPad View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2725225413E4CD0100D1C9AC /* CreditViewControllerIPad.h */,
+				2725225513E4CD0100D1C9AC /* CreditViewControllerIPad.m */,
+				270038B913E4BB3D0059627C /* LifeIPadViewController.h */,
+				270038BA13E4BB3D0059627C /* LifeIPadViewController.m */,
+				2725224713E4CCDD00D1C9AC /* SetupViewControllerIPad.h */,
+				2725224813E4CCDD00D1C9AC /* SetupViewControllerIPad.m */,
+				2700364413E4A09E0059627C /* WarpLifeAppDelegateIPad.h */,
+				2700364513E4A09E0059627C /* WarpLifeAppDelegateIPad.m */,
+			);
+			name = "iPad View Controllers";
+			sourceTree = "<group>";
+		};
+		27C5B98713E4F1F000A1ACD8 /* File List */ = {
+			isa = PBXGroup;
+			children = (
+				2722B1F413E4698900356EB5 /* FileDeleter.h */,
+				2722B1F513E4698900356EB5 /* FileDeleter.m */,
+				2722B1EB13E4696800356EB5 /* FileOpener.h */,
+				2722B1EC13E4696800356EB5 /* FileOpener.m */,
+				2722B1DE13E4694800356EB5 /* FileListDelegate.h */,
+				2722B1DF13E4694800356EB5 /* FileListDelegate.m */,
+				2722B1E013E4694800356EB5 /* FileListViewController.h */,
+				2722B1E113E4694800356EB5 /* FileListViewController.m */,
+			);
+			name = "File List";
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				271D19671F25A47E00DE3368 /* Application Data */,
+				2722AF9613E4450A00356EB5 /* Images */,
+				2722AF0D13E4412000356EB5 /* iPhoneDevelopersCookbook */,
+				2722AEEB13E440E900356EB5 /* LifeLibCocoa */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* Warp_Life_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2727B9871796989200F1927B /* Manual */,
+				8D1107310486CEB800E47090 /* Warp_Life-Info.plist */,
+				2700363B13E4A04A0059627C /* iPad */,
+				2700363A13E4A02A0059627C /* iPhone */,
+				2702D81013EF604000CBAAAA /* Entitlements.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				27E2CB6B176C2E3D0038BA9E /* Accelerate.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+				275B496F1732EE4600A66A98 /* CoreMotion.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				27986DC319CE9298006D9C18 /* QuartzCore.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Warp Life */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Warp Life" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Warp Life";
+			productName = "Warp Life";
+			productReference = 1D6058910D05DD3D006BFB54 /* Warp Life.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				TargetAttributes = {
+					1D6058900D05DD3D006BFB54 = {
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Warp Life" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Warp Life */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2722AF9D13E4454800356EB5 /* Document.png in Resources */,
+				2722AF9F13E4454800356EB5 /* Pause.png in Resources */,
+				2722AFA013E4454800356EB5 /* Setup.png in Resources */,
+				2722AFA113E4454800356EB5 /* Start.png in Resources */,
+				2722AFA213E4454800356EB5 /* Step.png in Resources */,
+				2722B24613E46F0F00356EB5 /* Dulcinea-Technologies.png in Resources */,
+				2700375713E4AF720059627C /* iTunesArtwork in Resources */,
+				2700385513E4B04E0059627C /* Icon.png in Resources */,
+				27C5B97713E4F09B00A1ACD8 /* CreditViewControllerIPad.xib in Resources */,
+				27C5B97813E4F09B00A1ACD8 /* LifeIPadViewController.xib in Resources */,
+				27C5B97913E4F09B00A1ACD8 /* MainWindow-iPad.xib in Resources */,
+				27C5B97A13E4F09B00A1ACD8 /* SetupViewControllerIPad.xib in Resources */,
+				27C5B97F13E4F0C000A1ACD8 /* CreditViewController.xib in Resources */,
+				27C5B98013E4F0C000A1ACD8 /* MainWindow.xib in Resources */,
+				27C5B98113E4F0C000A1ACD8 /* RootViewController.xib in Resources */,
+				27C5B98213E4F0C000A1ACD8 /* SetupViewController.xib in Resources */,
+				27890F961A3DB5EB004C5C92 /* Default@2x.png in Resources */,
+				279D721A17370D5A005E32D1 /* ManualViewController_iPhone.xib in Resources */,
+				2727B9881796989200F1927B /* Manual in Resources */,
+				271D19681F25A47E00DE3368 /* Application Data in Resources */,
+				27890F981A3DB7F8004C5C92 /* Default.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* Warp_LifeAppDelegate.m in Sources */,
+				2722AED713E4406E00356EB5 /* LifeIOSViewController.m in Sources */,
+				2722AED813E4406E00356EB5 /* LifeIPhoneViewController.m in Sources */,
+				2722AED913E4406E00356EB5 /* LifeView.m in Sources */,
+				2722AF1813E4412000356EB5 /* AccelerometerHelper.m in Sources */,
+				2722AF1913E4412000356EB5 /* AllSubviews.m in Sources */,
+				2722AF1A13E4412000356EB5 /* ModalAlert.m in Sources */,
+				2722AF1B13E4412000356EB5 /* ModalAlertDelegate.m in Sources */,
+				2722AF1C13E4412000356EB5 /* RepositionSubviews.m in Sources */,
+				2722AF4D13E441F500356EB5 /* GridCoord.m in Sources */,
+				2722AF4E13E441F500356EB5 /* LifeClipboard.m in Sources */,
+				27A75BBF1AA743E600407BCB /* LifeRow.c in Sources */,
+				2722AF4F13E441F500356EB5 /* LifeDisplay.m in Sources */,
+				2722AF5013E441F500356EB5 /* LifeGrid.m in Sources */,
+				2722AF5113E441F500356EB5 /* LifeRLEFile.m in Sources */,
+				2722AF5313E441F500356EB5 /* LifeSelection.m in Sources */,
+				2722AF5413E441F500356EB5 /* NeighborLut.m in Sources */,
+				2722B1B513E4682C00356EB5 /* SetupViewController.m in Sources */,
+				2722B1B613E4682C00356EB5 /* SetupViewControllerIOS.m in Sources */,
+				2722B1E213E4694800356EB5 /* FileListDelegate.m in Sources */,
+				2722B1E313E4694800356EB5 /* FileListViewController.m in Sources */,
+				2722B1ED13E4696800356EB5 /* FileOpener.m in Sources */,
+				278CD42B18928AEB005F7022 /* RLEFileArray.m in Sources */,
+				2722B1F613E4698900356EB5 /* FileDeleter.m in Sources */,
+				2722B1FF13E469C100356EB5 /* MyIdiomCheck.m in Sources */,
+				2722B23013E46D2600356EB5 /* SetupView.m in Sources */,
+				2722B24E13E470FA00356EB5 /* CreditViewController.m in Sources */,
+				2722B24F13E470FA00356EB5 /* CreditViewControllerIOS.m in Sources */,
+				2700364813E4A09E0059627C /* WarpLifeAppDelegateIPad.m in Sources */,
+				270038BB13E4BB3D0059627C /* LifeIPadViewController.m in Sources */,
+				2725224913E4CCDD00D1C9AC /* SetupViewControllerIPad.m in Sources */,
+				2725225613E4CD0100D1C9AC /* CreditViewControllerIPad.m in Sources */,
+				2701F3911736CCA600D8932F /* ManualViewControllerIOS.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = 22U42U4SD6;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Warp_Life_Prefix.pch;
+				GCC_THUMB_SUPPORT = NO;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = "Warp_Life-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.warplife.Warp-Life";
+				PRODUCT_NAME = "Warp Life";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEVELOPMENT_TEAM = 22U42U4SD6;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Warp_Life_Prefix.pch;
+				GCC_THUMB_SUPPORT = NO;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = "Warp_Life-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.warplife.Warp-Life";
+				PRODUCT_NAME = "Warp Life";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				STRIP_INSTALLED_PRODUCT = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2702D81113EF607700CBAAAA /* Ad_Hoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_ENTITLEMENTS = Entitlement.plist;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Dulcinea Technologies Corporation";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_GENERATE_MAP_FILE = YES;
+				LD_MAP_FILE_PATH = "$(SOURCE_ROOT)/Link_Maps/$(PRODUCT_NAME)-LinkMap-$(CURRENT_VARIANT)-$(CURRENT_ARCH).txt";
+				LLVM_LTO = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "60C87865-12AD-4EE4-968A-9337466FE996";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(SOURCE_ROOT)";
+			};
+			name = Ad_Hoc;
+		};
+		2702D81213EF607700CBAAAA /* Ad_Hoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEVELOPMENT_TEAM = 22U42U4SD6;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Warp_Life_Prefix.pch;
+				GCC_THUMB_SUPPORT = NO;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				INFOPLIST_FILE = "Warp_Life-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.warplife.Warp-Life";
+				PRODUCT_NAME = "Warp Life";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				STRIP_INSTALLED_PRODUCT = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Ad_Hoc;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_GENERATE_MAP_FILE = NO;
+				LD_MAP_FILE_PATH = "$(SOURCE_ROOT)/Link_Maps/$(PRODUCT_NAME)-LinkMap-$(CURRENT_VARIANT)-$(CURRENT_ARCH).txt";
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(SOURCE_ROOT)";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_GENERATE_MAP_FILE = YES;
+				LD_MAP_FILE_PATH = "$(SOURCE_ROOT)/Link_Maps/$(PRODUCT_NAME)-LinkMap-$(CURRENT_VARIANT)-$(CURRENT_ARCH).txt";
+				LLVM_LTO = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(SOURCE_ROOT)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Warp Life" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				2702D81213EF607700CBAAAA /* Ad_Hoc */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Ad_Hoc;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Warp Life" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				2702D81113EF607700CBAAAA /* Ad_Hoc */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Ad_Hoc;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
